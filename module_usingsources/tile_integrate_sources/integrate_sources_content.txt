@@ -1,0 +1,47 @@
+Module: Using Sources
+Tile 1: Integrating Material from Sources
+Identify the conventions of source integration. 
+        Skill 1.1: Identify the five components of the “source sandwich” 
+[1] Outcome: Integrating Material from Sources
+Identify the conventions of source integration
+Well-integrated source material can build the strength of a writer’s argument, but integrating sources is a difficult task.  Incorporating someone else’s ideas and words into your own writing can be confusing for both you and your readers.  Fortunately, certain strategies, or conventions, can help.  
+
+This tile will help you learn to integrate sources smoothly using a strategy known as the “source sandwich.”
+What You Will Learn to Do
+* Identify the five components of the “source sandwich”
+The Learning Activities for This Outcome Include
+* Content: Bringing sources into the conversation
+* Practice: Identify the components of the “source sandwich”
+* Self-Check: Identify the conventions of source integration
+[2] Content: Bringing Sources into the Conversation
+A good way to begin thinking about how to integrate source material into a paper is to consider how we integrate sources into a conversation.  When you’re discussing a topic in person with a few friends, you might make references to outside sources with phrases like these: 
+
+// ID: blockquote
+“When I was watching the news, I heard them say that . . . I read in the newspaper that . . . John told me that . . . .” 
+	
+Notice how we automatically shape our sentences to work source references into the flow of conversation. Think about this next time you try to work a source into a piece of writing: if you were speaking this aloud in conversation, how would you introduce the material to your listeners? What information would you give them to help them understand who the author was and why his or her views were worth referencing? After giving the information, how would you then link it back to the point you were trying to make? Just as you would do this in a conversation if you found it necessary to refer to an outside source, you also need to do this in your essays.  
+
+Whether you use a direct quotation, a summary, or a paraphrase, it is important to distinguish source material from your own ideas and to explain how the cited source fits into your argument. You can think of this process as a sandwich with multiple parts. You’ll want to: transition into and introduce the source, use a signal phrase to actually move into the material from the source, provide a citation that can be easily connected to the full citation material in your bibliography or works cited list, and explain how this material fits into your argument. This pattern, or convention, of source integration is sometimes called a “source sandwich.”  An illustration of the “source sandwich” appears below.
+
+The Source Sandwich // ID: textbox: 4
+	// ID: table (hard-coded, convert to H5p?) 
+	
+Use the source sandwich convention to integrate material from sources into your own writing so that your readers will understand the material’s importance and purpose. The activity below will provide practice in constructing a source sandwich. Read the passage about “mindful me” rooms in elementary schools and answer the questions that follow. 
+
+Practice // ID: textbox 5
+	// ID: blockquote 
+Reflective practice has also started to replace detention in schools across the country. Robert W. Coleman Elementary School is one of the first to adopt this method. As of 2014, this school has had no suspensions. When students fight or misbehave, they are sent to a “mindful me” room instead of the principal’s office, and they learn to peacefully solve these conflicts themselves (Khorsandi). Administrators at the school claim to have seen a marked improvement in student behavior.  Coleman Principal Carillian Thompson explains, “The mindfulness practices have actually taught the students how to redirect that negative energy into something positive” (Khorsandi). The changes have resulted in more focus on academics and extracurricular activities at Coleman, which has made parents in the district happy.  In fact, many parents have switched their thinking from once believing punitive measures are necessary to modify children’s behaviors to now seeing reflective practices as meaningful alternatives to detention.  
+
+~file: identify_sandwich_practice
+	
+Use the feedback you got from working through the practice activity to work through the self-check quiz on the next page. 
+
+[3] Self-Check: Integrating Material from Sources
+
+Read the passage and answer the questions below. 
+
+// ID: blockquote 
+Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary.  Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election.  The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season.  However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the  power to influence at least some readers’ beliefs and possibly influence those readers’ actions.         
+	
+
+// ID: selfcheck: integrate_sources_sc
