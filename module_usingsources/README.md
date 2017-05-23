@@ -3,8 +3,8 @@
 Identify the conventions of source integration.    
 Skill 1.1: Identify the five components of the “source sandwich”    
 
-2. Tile 2: /Using Sources/Using Sources Appropriately   
-Evaluate applications of  summary, paraphrase, and quotation    
+2. Tile 2: /Using Sources/Using Sources Appropriately  
+Evaluate applications of  summary, paraphrase, and quotation         
 Skill 2.1:Differentiate among summary, paraphrase, and quotation   
 Skill 2.2:Evaluate application of summary, paraphrase, and quotation   
 
