@@ -1,0 +1,30 @@
+~file: evaluate_summary_quiz
+// Module: Using Sources
+// Tile: Using Sources Appropriately
+// Skills: Evaluate application of paraphrase, summary, and quotation
+
+<p>What is the best advice you could offer your classmate for paraphrasing the following quote?</p>
+<p>“There are surprisingly few methods of causing something to move. With a couple of exceptions, everything starts out going around and around, and then that circular motion gets turned into some other path as needed. That being said, there is often some other thing you might want your robot to do that isn't, strictly speaking, movement related, and all that goes into actuation” (Geiger).</p>
+~summative
+1. Start by putting the thesis into your own words; then list out the main ideas from the quote. Use quotation marks and cite the source if you borrow any phrasing. Expect your paraphrase to be about as long as the original.*
+
+2. Start by identifying the thesis statement. Then make sure that you get only the main ideas, so you can keep this really short. Don’t use any words from the original.
+
+3. Start by putting the thesis into your own words; then give your interpretation of the material. Highlight the points you find most interesting. Add quotes and citations when you make comments.
+
+<p>Which of the following is a good paraphrase of the following passage? </p>
+<p>”The third feature that distinguishes mathematical from ordinary language, one which causes enormous difficulties for students, is its precision. Ordinary speech is full of ambiguities, innuendoes, hidden agendas, and unspoken cultural assumptions” (Jameson 47).”
+~summative
+1. Its precision distinguishes mathematical language from everyday conversation. This feature is very challenging to students. Everyday conversation is full of nuance, metaphor, bias, and cultural assumption, while mathematical language avoids these. *
+
+2. Students have a hard time with the precision of math articles. They are used to talking in slang, while as math is supposed to be boring and dry. 
+
+3. This quotation should not be paraphrased because the idea it expresses is already as clear as it can be. 
+
+Which of the following is <strong>not</strong> an appropriate use of summary? 
+~summative 
+1. You are assigned to write an argument about the cultural impact of a short story. You write a paper simply condensing the story to its main ideas and removing extra details without making a new claim.* 
+
+2. You are writing an annotated bibliography of 5 article for your final research paper. Each of your articles is between 10 and 15 pages, and you write six sentences for each one that describe the author’s key points.
+
+3. For your science class, you are assigned to write a concise lab report documenting your experiment. You write a short paragraph including the steps you undertook and then briefly describe the results.  

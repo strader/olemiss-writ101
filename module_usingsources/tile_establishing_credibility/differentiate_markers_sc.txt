@@ -1,0 +1,46 @@
+~file: differentiate_markers_sc
+// Module: Using Sources
+// Tile: Establishing Credibility when Using Sources   
+// Skills: Differentiate among the markers of credibility [when integrating a source] into writing
+
+Including a source’s credentials, such as Harvard Distinguished Professor, in the first reference to a source is an example of:
+~formative
+1. Signal phrase highlighting the reputation and qualifications of the source.*
+~feedback: Correct.  By highlighting the reputation and qualifications of a source through a signal phrase, the writer builds the credibility of the source.
+
+2. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence is the source material itself, not the source’s credentials.
+
+3. Citation demonstrating the trustworthiness of the writer.
+~feedback: Incorrect.  Citation is the bibliographic information for the source, not the source’s credentials.
+
+4. Relevance of the source to the writer’s argument
+~feedback: Incorrect.  Relevance is the way the source material is related to the writer’s argument, not the source’s credentials.
+
+Including reference information which helps the reader easily find the source is an example of:
+~formative
+1. Citation demonstrating the trustworthiness of the writer.*
+~feedback: Correct.  By providing accurate, complete citation of a source, the writer demonstrates his or her trustworthiness.
+
+2. Signal phrase highlighting the reputation and qualifications of the source.
+~feedback: Incorrect.  A signal phrase is an introduction to the source material, not reference information.
+
+3. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence adding to the argument’s persuasiveness is the source material itself, not the reference information.
+
+4. Relevance of the source to the writer’s argument.
+~feedback: Incorrect.  Explaining the relevance of the source to the writer’s argument is how the writer demonstrates his or her critical thinking and reasoning, not reference information.
+
+Explaining how the source material supports the writer’s point is an example of:
+~formative
+1. Relevance of the source to the writer’s argument.*
+~feedback: Correct.  By explaining the relevance of the source to the argument, a writer demonstrates critical thinking and reasoning, thereby building credibility.
+
+2. Citation demonstrating the trustworthiness of the writer.
+~feedback: Incorrect.  Citation is providing accurate, complete bibliographical information for a source, not explaining how the source material is related to the writer’s point.
+
+3. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence is material from the source, not the writer’s explanation of that material’s relevance to his or her point.
+
+4. Signal phrase highlighting the reputation and qualifications of the source.
+~feedback: Incorrect.  A signal phrase introduces source material rather than explaining its relevance to the writer’s point.

@@ -1,0 +1,37 @@
+~file: differentiate_markers_quiz
+// Module: Using Sources
+// Tile: Establishing Credibility when Using Sources   
+// Skills: Differentiate among the markers of credibility [when integrating a source] into writing
+
+// I am not sure why this one has feedback
+
+Integrating statistics from the National Institutes of Health about the high teenage pregnancy rate into a paragraph arguing for greater access to birth control is an example of:
+~summative
+1. Evidence adding to the argument’s persuasiveness.*
+// ~feedback: Correct.  Integrating supporting evidence, such as statistics from a reliable source, can improve the persuasiveness of a writer’s argument, thereby building credibility of the argument.
+
+2. Signal phrase highlighting the reputation and qualifications of the source.
+~feedback: Incorrect.  A signal phrase is an introduction to source material, not the source material itself.
+
+3. Relevance of the source to the writer’s argument.
+// ~feedback: Incorrect.  A writer explains the relevance of the source material to his or her point after he or she has integrated the source material.
+
+4. Citation demonstrating the trustworthiness of the writer.
+~feedback: Incorrect.  Citation of the source directs the reader to the location of the source.  It is not the source material itself.
+
+A signal phrase differs from evidence because it introduces the evidence and highlights the 
+source’s reputation and qualifications.
+~summative
+1. True*
+// ~feedback: Correct.  The signal phrase is the introduction to the evidence. The evidence is the material from the source that the writer integrates to support his or her point.
+
+2. False
+~feedback: Incorrect.  The signal phrase is the introduction to the evidence. The evidence is the material from the source that the writer integrates to support his or her point.
+
+Integrating evidence from a source is the same as relating the source to the writer’s argument.
+~summative
+1. True
+// ~feedback: Incorrect.  Evidence is the source material.  In relating the source material to the writer’s argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility.  These are two separate strategies.
+
+2. False*
+~feedback: Correct. Evidence is the source material.  In relating the source material to the writer’s argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility. These are two separate strategies.

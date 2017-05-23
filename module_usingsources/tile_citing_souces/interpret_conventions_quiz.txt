@@ -1,0 +1,30 @@
+~file: interpret_conventions_sc.txt
+// Module: Using Sources
+// Tile: Citing Sources
+// Skills: Interpret the conventions of citation and references
+
+// Hanging indents are somewhat important here, but without adding in-line style or CSS I am not sure how to do it. 
+
+Which citation mistakenly lists the database an article was found in instead of the journal?
+~summative
+1. Robbins, Michael. "Paul Muldoon's Covert Operations." Academic Search Premier, vol. 109, no. 2, 2011, pp. 266-99.* 
+
+2. Robbins, Michael. "Paul Muldoon's Covert Operations." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
+
+3. Robbins, Michael. "Academic Search Premier." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
+
+Which citation mistakenly lists the access date of an online monthly magazine in place of its publication date? 
+~summative
+1. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html. Aug. 2008.*
+
+2. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. Aug. 2002, example.com/092002/cats-train-methods.html. Accessed 9 June 2017. 
+
+3. Johnson, Steve. (Aug 2008). “10 Methods to Train your Cat” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html.
+
+Which citation lists unnecessary, time-sensitive information that could make a citation incorrect at a later date? 
+~summative
+1. Starr, Virginia. (University of Mississippi). “Saving the Nation. A research study of rural outreach programs.” Journal of Philanthropy in the American South, vol. 15, no. 1, 1977. pp. 41-67. * 
+
+2. Starr, Virginia. “Saving the Nation: A research study of rural outreach programs.” Journal of Philanthropy in the American South, vol. 15, no. 1, 1977. pp. 41-67. 
+
+3. Starr, Virginia. “Saving the Nation: A research study of rural outreach programs.” Journal of Philanthropy in the American South, 15:1, 1977. pp. 41-67. 
