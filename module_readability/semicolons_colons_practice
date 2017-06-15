@@ -1,6 +1,5 @@
-~file:demonstrate_colons_practice
-
 ## 3.2 Critique the use of semicolons and colons.
+
 ### 3.2.3 Demonstrate the standard uses of colons
 
 // Module: Readability 
@@ -8,30 +7,28 @@
 // Skills: Demonstrate the standard uses of colons
 // practice
 
+~file:demonstrate_colons_practice
+
 A store refund may be, for example: a cash refund, a store credit, or a gift card.
 1. No *
 ~feedback: Correct. A comma is the better choice for a short series or list. Normally, “for example” lists just a couple examples (a couple as an example of the larger list.) 
-
 2. Yes
 ~feedback: Incorrect. A comma is the better choice for a short series or list. Normally, “for example” lists just a couple examples (a couple as an example of the larger list.) 
 
 A store may charge a restocking fee in the following circumstances: (1) If the item is removed from plastic wrapping, (2) If the box is torn, (3) If tags or labels have been removed from the item.
 1. Yes*
 ~feedback: Correct. A colon is used before a list. However, the initial word of the list item is lowercase if it is not a complete sentence.
-
 2. No
 ~feedback: Incorrect. A colon is used before a list. However, the initial word of the list item is lowercase if it is not a complete sentence.
 
 If a store’s policy differs from the state-wide, seven-day policy, then the store must: place a written notice about their policies, in language that consumers can understand, so that it can be easily seen and read.
 1. No*
 ~feedback: Correct. No colon is used here because the part following the colon is neither an explanation nor a list; it is the completion of the central idea of the sentence. (No commas should be used either.) 
-
 2. Yes
 ~feedback: Incorrect. No colon is used here because the part following the colon is neither an explanation nor a list; it is the completion of the central idea of the sentence. (No commas should be used either.) 
 
 California law is very exact about posting store policy: The policy must be displayed either at each entrance to the store, at each cash register and sales counter, on tags attached to each item, or on the company’s order forms, if any.
 1. Yes*
 ~feedback: Correct. A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
-
 2. No
 ~feedback: Incorrect A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
