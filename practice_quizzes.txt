@@ -1,0 +1,492 @@
+OleMiss Writing 100 - F17
+~71247c03-c642-4652-a825-23edd4d1d8e1
+
+# 3 Primary Outcome
+
+## 3.2 Critique the use of semicolons and colons.
+
+### 3.2.3 Demonstrate the standard uses of colons
+
+// Module: Readability 
+// Tile: Semicolons and Colons
+// Skills: Demonstrate the standard uses of colons
+// practice
+
+~file:demonstrate_colons_practice
+
+A store refund may be, for example: a cash refund, a store credit, or a gift card.
+1. No *
+~feedback: Correct. A comma is the better choice for a short series or list. Normally, “for example” lists just a couple examples (a couple as an example of the larger list.) 
+2. Yes
+~feedback: Incorrect. A comma is the better choice for a short series or list. Normally, “for example” lists just a couple examples (a couple as an example of the larger list.) 
+
+A store may charge a restocking fee in the following circumstances: (1) If the item is removed from plastic wrapping, (2) If the box is torn, (3) If tags or labels have been removed from the item.
+1. Yes*
+~feedback: Correct. A colon is used before a list. However, the initial word of the list item is lowercase if it is not a complete sentence.
+2. No
+~feedback: Incorrect. A colon is used before a list. However, the initial word of the list item is lowercase if it is not a complete sentence.
+
+If a store’s policy differs from the state-wide, seven-day policy, then the store must: place a written notice about their policies, in language that consumers can understand, so that it can be easily seen and read.
+1. No*
+~feedback: Correct. No colon is used here because the part following the colon is neither an explanation nor a list; it is the completion of the central idea of the sentence. (No commas should be used either.) 
+2. Yes
+~feedback: Incorrect. No colon is used here because the part following the colon is neither an explanation nor a list; it is the completion of the central idea of the sentence. (No commas should be used either.) 
+
+California law is very exact about posting store policy: The policy must be displayed either at each entrance to the store, at each cash register and sales counter, on tags attached to each item, or on the company’s order forms, if any.
+1. Yes*
+~feedback: Correct. A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
+2. No
+~feedback: Incorrect A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
+
+
+
+## 3.4 Critique passages, revising for run-on sentences and fragments 
+
+### 3.4.1 Recognize run-on sentences
+
+// Module: Readability
+// Tile: Fragments and Run-On sentences
+// Skills: Recognize run-on sentences
+// practice
+
+~file: fragmens_runons_practice
+
+Which of the sentences are run-ons? Identify them based on their number. 
+1. 3, 4 *
+~feedback: Correct. Sentence 3 needs a comma inserted before the word “and”: Apparently we were wizards, and the law was cracking down on magic. Sentence 4 is also a run-on sentence: While “So” at the beginning of the sentence is technically fine, it’s unnecessary.
+2. 1, 2, 5
+~feedback: That’s not right. All three sentences are technically correct, even though the “But” at the start of sentence 5 is unnecessary, and it could be removed without affecting the meaning of the sentence.
+3. All the sentences are fragments.
+~feedback: That’s incorrect. Look at the difference between sentences 1 and 3. 
+4. None of the sentences are fragments. 
+~feedback: That’s incorrect. Look at the difference between sentences 1 and 3. 
+
+
+
+
+
+
+
+// Module: Keys to Successful Argument
+# 8 Evaluate keys to successful argument 
+Argument
+
+// Tile 1: Constructing an Arguable Thesis 
+## 8.1 Evaluate an arguable thesis 
+### 8.1.1 Recognize an arguable thesis
+
+~file: constructing_argument_practice
+
+Which of the following is an argumentative thesis?
+1. Penguins live in Antarctica.
+~feedback: Incorrect. This is a statement of fact and, therefore, not arguable.
+2. Should penguins be kept in captivity? 
+~feedback: Incorrect. This is a question rather than an assertion. 
+3. Penguins should be thrown off the edge of a cliff.
+~feedback: Incorrect. This is an illogical response to an unknown question.
+4. Penguins should not be kept in zoos because captivity affects their psychological and physical well-being.*
+~feedback: Correct. This is a reasonable, debatable, supportable, focused claim.
+
+Which of the following is an argumentative thesis?
+1. Cheating exists in online courses.
+~feedback: Incorrect. This is a statement of fact and, therefore, not arguable.
+2. Because cheating is prevalent in online courses, universities should require students to take midterms and finals in face-to-face, proctored environments. *
+~feedback: Correct. This is a reasonable, debatable, supportable, focused claim.
+3. Students who cheat in online courses are immoral.
+~feedback: Incorrect. This is a value-based statement that cannot be proven with evidence.
+4. Cheating has been around for many years.
+~feedback: Incorrect. This statement does not take a position or make an assertion.
+
+Which of the following is an argumentative thesis?
+1. Homelessness is a problem for southern cities.
+~feedback: Incorrect. This is a statement of fact and does not offer a position or assert a stance.
+2. Approximately 8.6 percent of the U.S. homeless population is comprised of veterans.
+~feedback: Incorrect. This is a statement of fact and is not arguable.
+3. Permitting veterans to be homeless is unpatriotic.
+~feedback: Incorrect. This is a statement based on values so it is not supportable with evidence. 
+4. The Birmingham City Council should fund a shelter dedicated specifically to the needs of homeless veterans.*
+~feedback: Correct.This is a reasonable, controversial, assertive, supportable, focused claim.
+
+### 8.1.2 Evaluate an arguable thesis 
+
+// Tile 2: Logical Fallacies
+## 8.2 Evaluate logical fallacies
+### 8.2.1 Recognize common logical fallacies
+
+~file: identify_fallacies1
+
+<p>Choose the fallacy that most accurately describes what’s going on in each of the following statements.</p><p>Because the last words spoken by either the pilot or co-pilot were “Good night, Malaysia Three-Seven-Zero,” the pilot fell asleep and accidentally crashed the plane into the ocean. [dropdown1]</p><p>A news story that reported that captain shah was under investigation was shared widely on social media.  He must have been the individual who caused the crash. [dropdown2]</p><p>This crash will likely damage the reputation of Malaysia Airlines, which will hurt the tourism industry of Malaysia and ruin their economy. [dropdown3]</p>
+~dropdown
+
+~dropdown1
+1. Begging the Question
+~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
+2. Bandwagon
+~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
+3. False Dichotomy
+~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
+4. Straw man
+~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
+5. Hasty generalization
+~feedback: Incorrect.  Remember that hasty generalization takes one instance and tries to generalize it.  In this passage there is an implication that there is a causal relationship.
+6. Ad hominem
+~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
+7. Slippery Slope
+~feedback: Incorrect.  Remember that slippery slope implies a chain reaction of multiple events.  Focus on the word ‘because’ in this sentence.  Which of these fallacies deals with causation?
+8. Post hoc*
+~feedback: Correct.  Post hoc implies that there is an incorrect causation.
+
+~dropdown2
+1. Begging the Question
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+2. Bandwagon*
+~feedback: Correct.  This is bandwagon because the person is basing their conclusion on the fact that many others think this, rather than evidence backing that conclusion.
+3. False Dichotomy
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+4. Straw man
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+5. Hasty generalization
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+6. Ad hominem
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+7. Slippery Slope
+~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
+8. Post hoc
+~feedback: Incorrect.  Post hoc requires a causal relationship, and there’s not one here.  The focus here is that many people think something.
+
+~dropdown3
+1. Begging the Question
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+2. Bandwagon
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+3. False Dichotomy
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+4. Straw man
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+5. Hasty generalization
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+6. Ad hominem
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+7. Slippery Slope*
+~feedback: Correct.  This is slippery slope because it unjustifiably implies a chain of negative events will occur.
+8. Post hoc
+~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
+
+~file: recognize_fallacies1
+
+<p>I am a smoker, and I have a lot of friends who are smokers, and we all agree that this policy should be overturned.</p>
+1. Bandwagon*
+2. Slippery Slope
+3. Straw Man
+4. No fallacy
+
+<p>This policy is framed in terms of health outcomes and promoting individual well-being, but the University has not instituted policies regarding many other behaviors related to health such as exercising.</p>
+1. Hasty Generalization
+2. Post Hoc
+3. Begging the Question
+4. No fallacy*
+
+<p>Smoking is a right, and Americans have rights, so the smoking ban is wrong.</p>
+1. False Dichotomy
+2. Straw Man
+3. Begging the Question*
+4. No fallacy
+
+<p>What’s next?  Will we ban potato chips and Cokes on campus?  Will we force-feed broccoli and carrots to first-year students? </p>
+1. Slippery Slope*
+2. Ad hominem
+3. Bandwagon
+4. No fallacy
+
+<p>People eighteen years old and up are adults and have the ability to make their own decisions regarding their health and habits. That type of language asks students and faculty to be informants against each other. A college campus is a place for free expression of ideas and behaviors. </p>
+1. Straw Man
+2. Ad hominem
+3. Post Hoc
+4. No fallacy*
+
+<p>It’s simple:  either we are a freedom-loving campus or we aren’t?  I choose freedom, and I believe all of America’s veterans would agree with me. Perhaps the Chancellor has an ulterior motive for instituting the ban and is using smokers as a scapegoat.</p>
+1. Hasty Generalization
+2. Ad hominem*
+3. Slippery Slope
+4. No fallacy
+
+
+
+### 8.2.2 Evaluate logical fallacies
+
+// Tile 3: Building common ground 
+## 8.3 Evaluate rhetorical approaches to building common ground
+
+### 8.3.1 Recognize rhetorical approaches to building common ground 
+
+~file: common_ground_practice
+
+Who is likely part of the intended audience for this argument? 
+1. Residents of South Carolina who take pride in symbols of the Confederacy
+~feedback: Consider re-reading the text. In this passage, Obama directly addresses the issues of gun control, continuing racial inequality, and demands that South Carolina remove the Confederate flag from the state capitol. 
+2. U.S. citizens who are concerned about gun violence but believe laws restricting gun ownership are unconstitutional
+~feedback: Consider re-reading the text. In this passage, Obama directly addresses the issues of gun control, continuing racial inequality, and demands that South Carolina remove the Confederate flag from the state capitol. 
+3. U.S. citizens who believe racial inequality was ended during the civil rights movement
+~feedback: Consider re-reading the text. In this passage, Obama directly addresses the issues of gun control, continuing racial inequality, and demands that South Carolina remove the Confederate flag from the state capitol. 
+4. All of these. *
+~feedback: Correct! In this passage, Obama directly addresses the issues of gun control, continuing racial inequality, and demands that South Carolina remove the Confederate flag from the state capitol. 
+
+Who is the president’s intended audience for this statement? <p>”We don’t earn grace. We’re all sinners. We don’t deserve it. But God gives it to us anyway.”</p>
+1. People who wonder about the sources of continued racial prejudice
+2. People who believe in God or identify as Christian* 
+3. People who are impatient for change
+
+Who is the president’s intended audience for this statement? <p>"Perhaps it causes us to examine what we’re doing to cause some of our children to hate."</p>
+1. People who wonder about the sources of continued racial prejudice*
+2. People who believe in God or identify as Christian 
+3. People who are impatient for change
+
+Who is the president’s intended audience for this statement?<p>"None of us can or should expect a transformation in race relations overnight."</p>
+1. People who wonder about the sources of continued racial prejudice
+2. People who believe in God or identify as Christian
+3. People who are impatient for change*
+
+Who might be included in President Obama's unintended potential audience? Unintended audiences are those who aren't directly addressed by the content of the argument, as well as those who hold points of view that the author of an argument hasn't considered carefully or at least mentioned in passing.
+1. People who think getting rid of religion altogether would help to improve society*
+~feedback: Correct! Throughout his speech, President Obama makes claims grounded in the presumption that Christian spirituality is a positive force for social change. 
+2. People who believe the only way to stop gun violence is to repeal the Second Amendment
+~feedback: Consider re-reading the text. President Obama's claim that the "vast majority of Americans" think something should be done to stop gun violence contains an implicit admission that some people do not think of gun violence as a problem that needs to be addressed. Similarly, his claim that, "[w]hatever solutions we find will necessarily be incomplete," implicitly addresses those people who do not believe that gun control legislation would be sufficient to address the problem of gun violence, but instead see repeal of the Second Amendment as the only real solution. Finally, when President Obama explicitly mentions "the majority of gun owners" who "want to do something about this," he is acknowledging those members of his audience who may think all gun owners are or should be against gun control legislation.
+3. People who think gun owners are against gun control legislation
+~feedback: Consider re-reading the text. President Obama's claim that the "vast majority of Americans" think something should be done to stop gun violence contains an implicit admission that some people do not think of gun violence as a problem that needs to be addressed. Similarly, his claim that, "[w]hatever solutions we find will necessarily be incomplete," implicitly addresses those people who do not believe that gun control legislation would be sufficient to address the problem of gun violence, but instead see repeal of the Second Amendment as the only real solution. Finally, when President Obama explicitly mentions "the majority of gun owners" who "want to do something about this," he is acknowledging those members of his audience who may think all gun owners are or should be against gun control legislation.
+4. People who don't think gun violence is a problem in the United States
+~feedback: Consider re-reading the text. President Obama's claim that the "vast majority of Americans" think something should be done to stop gun violence contains an implicit admission that some people do not think of gun violence as a problem that needs to be addressed. Similarly, his claim that, "[w]hatever solutions we find will necessarily be incomplete," implicitly addresses those people who do not believe that gun control legislation would be sufficient to address the problem of gun violence, but instead see repeal of the Second Amendment as the only real solution. Finally, when President Obama explicitly mentions "the majority of gun owners" who "want to do something about this," he is acknowledging those members of his audience who may think all gun owners are or should be against gun control legislation.
+
+Read the statements below carefully. Which describes one of President Obama’s intended audiences?
+1. They do not respect Christian beliefs about God and divine grace.
+~feedback: That’s not correct. Clearly the president’s speech assumes religious common ground with his audience. 
+2. They are not aware of the history of American democracy and the civil rights movement.
+~feedback. That’s not correct. Obama knows that his audience is familiar with the civil rights movement and makes many references to it. 
+3. They believe the Confederate flag is a symbol of integrity and justified rebellion against an oppressive government.*
+~feedback: Correct! President Obama is clearly addressing those who share his own beliefs and values. He is also, though, hoping to persuade those who may disagree with him, such as citizens who believe the Confederate flag is a symbol of integrity and justified rebellion against an oppressive government.
+
+### 8.3.2 Evaluate rhetorical approaches to building common ground
+
+// Tile 4: Rebuttal and Refutation of Counter-argument 
+## 8.4 Evaluate strategies for rebuttal and refutation of counterargument
+### 8.4.1 Recognize strategies for rebuttal and refutation of counterargument
+### 8.4.2 Evaluate strategies for rebuttal and refutation of counterargument
+
+
+
+
+
+
+
+
+
+
+
+
+# 9 Primary Outcome
+
+## 9.1 Differentiate types of sources 
+
+### 9.1.1 Differentiate types of sources
+
+~file: types_sources_practice
+
+Take a look at the banner image from <em>The Washington Post</em>. Would this source be considered “print” or “online,” and why? <img src =”/assets/types_practice_1.png” alt=”Image of the Washington Post page header, including the date of publication, the print-styled logo of the paper, and a link to the current edition the viewer is accessing.”>
+1. Print Source: Even though the newspaper can be accessed online, it is still published in print form, and follows the conventions of a print newspaper. *
+~feedback: That’s correct. <em>The Washington Post</em> is considered a credible, well-respected newspaper, and would generally be categorized as a print source. Keep in mind that some parts of the <em>Post’s</em> website are more problematic, like blogs and interactive media content. 
+2. Online Source: Because the source is viewed on a webpage, it’s always considered an online source, regardless of the medium of original publication. 
+~feedback: That’s incorrect. Just because you accessed the source online does not mean it was originally online. <em>The Washington Post</em> has been publishing since long before the internet, and it adheres to the conventions of a traditional print newspaper. Most content from its website should be considered a “print” source. 
+3. Print Source: Because all news sources, whether accessed online or not, are considered print sources. 
+~feedback: That’s incorrect. Many online news sources, like <em>The Drudge Report</em> or <em>Buzzfeed</em> publish online only. Though they may be good sources to use in some contexts, they cannot be considered “print” sources because they adhere to different publishing conventions. 
+
+True or False: You should never use information you found on Wikipedia in a research project. 
+1. False.*
+~feedback: That’s correct. You may have been warned of the evils of Wikipedia (or other online sources) in the past, but all sources have an appropriate context. There is nothing inherently wrong or right about Wikipedia: like any other online source, you have to evaluate it for credibility and reliability before you decide if you can use it. 
+2. True
+~feedback: That’s incorrect. You may have been warned of the evils of Wikipedia (or other online sources) in the past, but all sources have an appropriate context. There is nothing inherently wrong or right about Wikipedia: like any other online source, you have to evaluate it for credibility and reliability before you decide if you can use it. 
+
+
+## 9.2 Evaluate methods to assess the quality of print sources
+
+### 9.2.1 Apply the CRAAP analysis method to evaluate print sources
+
+~file: eval_print_practice
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. She decides that the article is current. Is she correct?
+1. Yes.*
+~feedback: Correct. A 2016 article would be current for a paper that is looking at the glass ceiling in the 21st century.
+2. No.
+~feedback: Incorrect. A 2016 article would be current for a paper that is looking at the glass ceiling in the 21st century.
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. The article never mentions the term “glass ceiling,” so she decides to reject the article as irrelevant. Is she correct?
+1. Yes.
+~feedback: Incorrect. Even though the article does not mention “glass ceiling,” the phenomenon of a woman rising to the highest management level of a corporation is relevant to her topic. 
+2. No.*
+~feedback: Correct. Even though the article does not mention “glass ceiling,” the phenomenon of a woman rising to the highest management level of a corporation is relevant to her topic. 
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. The author of the article is Bill Vlasic. She researches him and discovers he is the Detroit Bureau Chief of The <em>New York Times</em>. She decides that his position and his place of employment give him authority to write the article. Is she correct?
+1. Yes.*
+~feedback:The <em>New York Times</em> is a professional news organization, and Mr. Vlasic’s experience as a journalist in Detroit gives him expertise in covering General Motors which is based in Detroit.
+2. No.
+~feedback: Incorrect. The <em>New York Times</em> is a professional news organization, and Mr. Vlasic’s experience as a journalist in Detroit gives him expertise in covering General Motors which is based in Detroit.
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. She also finds a <em>Wall Street Journal</em>article that says The <em>New York Times</em> article misrepresented Barra’s title as “chairwoman” when her actual title is “chairman.” This makes Elaine question the accuracy of The <em>New York Times</em> article. She double-checks The <em>New York Times</em> article to see if the writer or editor explains the use of “chairwoman” and finds no explanation. She checks several sources that refer to Barra as “chairman” and finds Barra’s Twitter feed where Barra refers to herself as “chairman.” She decides the <em>New York Times</em> article is inaccurate and looks for an alternative source. Is she correct?
+1. Yes.*
+~feedback: If you are in doubt about the accuracy of information, you should look for another source.
+2. No.
+~feedback: Incorrect. If you are in doubt about the accuracy of information, you should look for another source.
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. The purpose of the article is to inform a general audience about a change in leadership of a major corporation. The language of the article is straightforward. Elaine decides that she can use Mary Barra’s promotion as an example in her paper and cite the article as evidence that Barra was promoted. Is she correct?
+1. Yes.*
+~feedback: Correct. The purpose of the source is to report the news of Barra’s promotion so Elaine would be using the source appropriately.
+2. No. 
+~feedback: Incorrect. The purpose of the source is to report the news of Barra’s promotion so Elaine would be using the source appropriately.
+
+Elaine finds a <em>New York Times</em> article about Mary Barra being named as General Motors’ chief executive in 2016. In the article, David Cole, Chairman Emeritus of the Center for Automotive Research, says that Barra is a “very good coach and leader, and is getting the most of her team.” Elaine decides to use this quote as definitive proof that Barra will be a good chief executive. Is she correct?
+1. Yes.
+~feedback: Incorrect. Cole’s quote is an opinion, not a fact. Elaine could use the quote in her paper, but she would have to frame it as an opinion rather than definitive proof.
+2. No.*
+~feedback: Correct. Cole’s quote is an opinion, not a fact. Elaine could use the quote in her paper, but she would have to frame it as an opinion rather than definitive proof.
+
+
+## 9.3 Evaluate methods to assess the quality of online sources
+
+### 9.3.1 Apply the CRAAP analysis method to evaluate online sources
+
+~file: apply_online_practice_1
+
+What is a good indicator that an online source has authority in a particular area?
+1. The source has a formal degree in a subject area.*
+~feedback: Correct. Sources with strong authority are often highly educated in their fields, and many may even have advanced degrees.
+2. The source uses long words.
+~feedback: Incorrect. Though technical and complicated language might indicate authority, it does not guarantee that someone is a strong authority in an area.
+3. The website looks professional.
+~feedback: Incorrect. The look of the website does not necessarily correlate to the source’s credentials to write or speak on a topic. 
+
+
+
+~file: apply_online_practice_2
+
+Which of the following is a reason you might question the accuracy of an online source?
+1. You cannot verify the information with any other sources.*
+~feedback: Correct. This doesn’t necessarily mean the information isn’t accurate; however, you probably want to at least question why no other sources have the same or similar information.
+2. The website doesn’t look professional.
+~feedback: Incorrect. The looks of a website might matter to some people, but an ugly site doesn’t mean the information contained on it is inaccurate.
+3. The source cites others in the same field.
+~feedback: Incorrect. Experts in an area often cite others in the field to demonstrate their knowledge of the material.
+
+
+
+~file: apply_online_practice_3
+
+You are researching your paper on experimental cancer treatments when you find a website from a company which is introducing a new drug. From the website it is clear that the company has three well-known oncologists working for them. One of those doctors has a quotation praising the new drug, and you like the wording. Which of the following best describes how you should evaluate this source?
+1. You should look for more objective source information about the drug and use it.*
+~feedback: Correct. It is problematic that the doctor works for the company, and your readers might have a problem with the potential bias.
+2. You should use the source information. Oncologists are highly-trained specialists and have a great deal of authority.
+~feedback: Incorrect. While it is true that oncologists are highly reliable authorities on cancer treatments, this particular doctor is paid by the drug company, which is a potential conflict of interest and presents a problem with bias.
+3. You should not use the source because information on cancer and other diseases should only come from credible hospital websites.
+~feedback: Incorrect. Credible information can come from plenty of different places. In this case, the problem with the source is the potential bias since the doctor is employed by the drug company.
+
+
+
+
+
+
+# 10 Using Sources
+
+// Module: Using Sources
+// Tile: Integrating Material from Sources
+// Skills: Identify the five components of the source sandwich. 
+
+## 10.1 Identify the conventions of source integration
+
+### 10.1.1 Identify the five components of the “source sandwich”
+
+~file: identify_sandwich_practice
+
+Which part of the passage contains a signal phrase? 
+1. Coleman Principal Carillian Thompson explains, “The mindfulness practices have actually taught the students how to redirect that negative energy into something positive” (Khorsandi).*
+~feedback: Correct. Thompson’s name and credentials, plus the verb ‘explains’ serve as the signal phrase here.
+2. Reflective practice has also started to replace detention in schools across the country. 
+~feedback: Incorrect. Remember that a signal phrase introduces a source and contains a verb.
+3. When students fight or misbehave, they are sent to a “mindful me” room instead of the principal’s office, and they learn to peacefully solve these conflicts themselves (Khorsandi). 
+~feedback: Incorrect. Remember that a signal phrase introduces a source and contains a verb.			
+
+Where does the writer transition into using a source? 
+1. Reflective practice has also started to replace detention in schools across the country.*
+~feedback: Correct. Here the writer begins to make a new point and sets up a specific example. 
+2. Coleman Principal Carillian Thompson explains, “The mindfulness practices have actually taught the students how to redirect that negative energy into something positive” (Khorsandi).
+~feedback: Incorrect. Here the writer is actually using a source, not setting one up.
+3. The changes have resulted in more focus on academics and extracurricular activities at Coleman, which has made parents in the district happy.
+~feedback: Incorrect. Here the writer is summarizing the source previously introduced. 
+
+Which part of the passage explains the relevance of the source to the writer’s thesis? 
+1. In fact, many parents have switched their thinking from once believing punitive measures are necessary to modify children’s behaviors to now seeing reflective practices as meaningful alternatives to detention. *
+~feedback: Correct. In this concluding sentence, the writer explains how the example is relevant to her thesis.
+2. Administrators at the school claim to have seen a marked improvement in student behavior. 
+~feedback: Incorrect. Here the writer is describing or developing the evidence.
+3. Robert W. Coleman Elementary School is one of the first to adopt this method. 
+~feedback: Incorrect. Here the writer is describing or developing the evidence.
+
+Where is the citation of the source in the passage? 
+1. When students fight or misbehave, they are sent to a “mindful me” room instead of the principal’s office, and they learn to peacefully solve these conflicts themselves (Khorsandi). *
+~feedback: Correct. The author of the source is listed in parentheses, which matches a source on the writer’s works cited.
+2. In fact, many parents have switched their thinking from once believing punitive measures are necessary to modify children’s behaviors to now seeing reflective practices as meaningful alternatives to detention. 
+~feedback: Incorrect. There is no source listed here to match with the writer’s works cited. 
+3. The changes have resulted in more focus on academics and extracurricular activities at Coleman, which has made parents in the district happy.
+~feedback: Incorrect. There is no source listed here to match with the writer’s works cited.
+
+
+
+
+## 10.2 Evaluate applications of paraphrase, summary, and quotation
+
+// Module: Using Sources
+// Tile: Using Paraphrase, Summary, and quotation
+// Skills: Differentiate among paraphrase, summary, and quotation
+
+### 10.2.1 Differentiate among paraphrase, summary, and quotation
+
+~file: using_paraphrase_practice_1
+
+Choose the best paraphrase
+1. In the United States, the education system places too much emphasis on formal testing, overlooking the limitations and expenses imposed when that assessment strategy is employed exclusively (Gardner 179).*
+~feedback: Correct. This paraphrase is different enough from the original source that it would not be considered plagiarism, so long as Gardner is credited.
+2. America has now gone too far toward formal testing, without realizing the costs and limitations of exclusively emphasizing that approach (Gardner 179).
+~feedback: That's incorrect. Although the source is cited, the paraphrasing is too close to the original statement as it retained too much of the original wording and sentence structure.
+
+// Module: Using Sources
+// Tile: Using Paraphrase, Summary, and quotation
+// Skills: Differentiate among paraphrase, summary, and quotation; Evaluate application of paraphrase, summary, and quotation
+
+### 10.2.2 Evaluate application of paraphrase, summary, and quotation
+
+~file: using_paraphrase_practice_2
+
+Which of the following is an example of direct quotation?
+1. NPR’s Debbie Elliott notes that “the decline of manual labor and exodus of manufacturing jobs have made difficult conditions worse in one of the nation's poorest regions.”*
+~feedback: Correct. The quotation marks surround exact language from the source, making this an example of direct quotation.
+2. In a <em>Washington Post</em> article about schools in the Delta, writer Peter Whoriskey explains how rural schools that are primarily comprised of at-risk youth and offer substantially lower salaries than nearby schools have a difficult time finding and preserving qualified teachers.
+~feedback: Incorrect. Direct quotations use exact language from the source and put that language in quotation marks.
+3. The history of the Mississippi Delta centers around one thing: farming. During the transition from segregated to integrated schools, small towns in the Delta were home to illustrious plantations and booming manufacturing plants.
+~feedback: Incorrect. Direct quotations use exact language from the source and put that language in quotation marks.
+
+Which of the following is an example of paraphrase?
+1. One section of Whoriskey’s article includes a story of an untrained teacher hired through an “emergency license” who was “found hiding” when his third grade students tossed papers in his direction.*
+~feedback: Correct. Here the writer clearly captures a succinct idea from the source and puts it into his/her own words.
+2. NPR’s Debbie Elliott notes that “the decline of manual labor and exodus of manufacturing jobs have made difficult conditions worse in one of the nation's poorest regions.”
+~feedback: Incorrect. In this passage the writer directly quotes the source and does not put the information into his/her own words.
+3. The history of the Mississippi Delta centers around one thing: farming. During the transition from segregated to integrated schools, small towns in the Delta were home to illustrious plantations and booming manufacturing plants.
+~feedback: Incorrect. In this passage the writer is using his/her own language and not relying on source material for specific ideas. 
+
+Which of the following is an example of summary?	
+1. In a <em>Washington Post<em> article about schools in the Delta, writer Peter Whoriskey explains how rural schools that are primarily comprised of at-risk youth and offer substantially lower salaries than nearby schools have a difficult time finding and preserving qualified teachers.*
+~feedback: Correct. In this sentence, the writer summarizes the article’s main points.
+2. NPR’s Debbie Elliott notes that “the decline of manual labor and exodus of manufacturing jobs have made difficult conditions worse in one of the nation's poorest regions.” 
+~feedback: Incorrect. Summaries condense an article’s main points. They do not use exact language from the source.
+3. The history of the Mississippi Delta centers around one thing: farming. 	 
+~feedback: Incorrect. Summaries are condensed discussion of the major points of a source. They are not the writer’s original ideas. 
+
+
+
+
+

@@ -1,0 +1,1983 @@
+OleMiss Writing 100 - F17
+~71247c03-c642-4652-a825-23edd4d1d8e1
+
+// Module: Readability 
+
+# 3 Recognize and resolve readability errors
+Readability
+~ c309067b-cb46-496b-8870-c8d539921c31 
+
+// Apostrophes 
+## 3.1 Critique the standard uses of apostrophes.
+Apostrophes 
+~ 531c35c0-912a-403c-879d-c767c9d80ed0
+
+
+### 3.1.1 Recognize the standard uses of apostrophes 
+Recognize the standard uses of apostrophes 
+~ b60a32df-ca24-4cdb-9c8c-4c7fd218f05a
+
+// Module: Readability
+// Tile: Apostrophes
+// Skills: Recognize the standard uses of apostrophes.
+// quiz
+
+Which sentence demonstrates standard use of an apostrophe to show possession?
+~formative
+1. MaeBelle’s sister is coming to town on Tuesday to meet with the preacher.*
+~feedback: That’s correct. The sister of MayBelle is coming to town on Tuesday.
+2. MaeBelle sister is coming to town on Tuesday to meet with the preacher. 
+~feedback: That’s incorrect. MayBelle is possessive and needs an apostrophe. 
+3. MaeBelles’ sister is coming to town on Tuesday to meet with the preacher. 
+~feedback: That’s incorrect. MayBelle is singular possessive. 
+
+Does this sentence demonstrate standard uses of apostrophes? <p>Jo Dee’s car has broken down on the side of Route 31; that old ‘88 Honda Civic has finally met its end. </p>
+~formative
+1. Yes. Jo Dee is in possession of her car, and ‘88 is a standard abbreviation of 1988. * 
+~feedback: That’s correct. 
+2. No. Jo Dee should not have an apostrophe because and 1988 should be abbreviated 88’. 
+~feedback: That’s incorrect. 
+
+Which passage demonstrates standard uses of apostrophes? 
+~formative
+1. Dean’s mama makes the best Brunswick Stew in the county. It’s only a little different from Bob Jenkins’ recipe, but its flavor is pretty distinct. In fact, her stew won the VFW’s barbeque contest back in ‘97. *
+~feedback: That’s correct. This passage correctly uses apostrophes to show singular and plural possession, contractions, number abbreviations, and possession by acronyms. 
+2. Dean’s mama makes the best Brunswick Stew in the county. Its only a little different from Bob Jenkins’ recipe, but it’s flavor is pretty distinct. In fact, her stew won the VFW’s barbeque contest back in ‘97. 
+~feedback: That’s incorrect. When used as a contraction, “it is” should be “it’s.” The possessive form of “it” is “its.” 
+3. Dean’s mama makes the best Brunswick Stew in the county. It’s only a little different from Bob Jenkins recipe, but its flavor is pretty distinct. In fact, her stew won the VFW’s barbeque contest back in ‘97. 
+~feedback: That’s incorrect. Bob Jenkins is in possession of the recipe, so Jenkins should take an apostrophe (even though the word ends in an S). 
+
+Which sentence demonstrates the standard use of an apostrophe in a contraction? 
+~formative
+1. They’re going to the Arctic Fest up in Alaska next week. It’s really cold there so I hope they have coats.*
+~feedback: That’s correct. “They’re” is a contraction of “they are” and “it’s” is a contraction of “it is.” 
+2. Their going to the Arctic Fest up in Alaska next week. It’s really cold there so I hope they have coats.
+~feedback: That’s incorrect. “Their” is the possessive form of “they.” 
+3. There going to the Arctic Fest up in Alaska next week. It’s really cold there so I hope they have coats. 
+~feedback: That’s incorrect. “They’re” is the contraction of “they are.”
+
+Does this sentence demonstrate standard use of an apostrophe to show possession? <p>The post office lady has my mamas’ sewing machine right now, so I cannot fix your dress. </p>
+~summative
+1. No. Mama is singular possessive, so the apostrophe should come before the “s.” *
+2. Yes. Mama is singular possessive, so the apostrophe should come after the “s.” 
+
+Which sentence demonstrates the standard use of an apostrophe in a contraction? 
+~summative
+1. Aunt JoAnn can’t go to your yard sale. It’s just too hot, and that’s too risky for her.*
+2. Aunt JoAnn can’t go to your yard sale. Its just too hot, and that’s too risky for her.
+3. Aunt JoAnn can’t go to your yard sale. It’s just too hot, and thats too risky for her. 
+
+Which sentence demonstrates the standard use of an apostrophe in a contraction?
+~summative
+1. The Barkers are moving to the coast. They’re having a yard sale.*
+2. The Barkers are moving to the coast. Their’ having a yard sale.
+3. The Barkers are moving to the coast. Theyre’ having a yard sale.
+
+Which passage demonstrates the standard uses of apostrophes? 
+~summative
+1. Jo Dee’s cousin cooked the best casserole last Easter, but that’s only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I really think every member of the Conners family should enter the FFA’s baking contest. *
+2. Jo Dee cousin cooked the best casserole last Easter, but that’s only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I really think every member of the Conners family should enter the FFA’s baking contest. 
+3. Jo Dee’s cousin cooked the best casserole last Easter, but thats only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I think every member of the Conners family should enter the FFA’s baking contest. 
+
+
+### 3.1.2 Demonstrate the standard uses of apostrophes
+Demonstrate the standard uses of apostrophes
+~ ad864fb3-ffc9-40d1-80b8-d504729840cf
+
+// Module: Readability
+// Tile: Apostrophes
+// Skills: Demonstrate the standard uses of apostrophes
+// self-check 
+
+Samuel wrote this passage. Where is there a missing apostrophe? <p style=”padding-left: 30px;”>If you’re preparing for a three-week backpacking trip, don’t forget your most important item: socks. Yes, really! It has been proven that socks can be life saving. Ross Grubers, a backpacker who summited 10 of the world’s tallest peaks, agrees. It has been reported that Grubers socks are “the best money can buy.” His backpack even has its own little space for them.</p>
+~formative 
+1. “It has been reported that Grubers socks...” should read “It has been reported that Grubers’ socks...”* 
+~feedback. That’s correct. “Grubers” is in possession of “socks,” so an apostrophe is required (Grubers’). 
+2. This passage is correct: no additional apostrophes are necessary
+~feedback: That’s incorrect. “Grubers” is in possession of “socks,” so an apostrophe is required (Grubers’). 
+3. “Ross Grubers, a backpacker who summited 10 of the world’s tallest peaks…” should read “Ross Grubers’, a backpacker who summited 10 of the world’s tallest peaks…”
+~feedback: That’s incorrect. In this sentence, Grubers is not in possession of anything. 
+
+True or False: This sentence is missing an apostrophe? <p>Socks are extremely important when youre out in the backcountry; without them, it’s easy to get your feet torn up. </p>
+~formative
+1. True* 
+~feedback: Correct. The correct contraction of “you are” is you’re. 
+2. False
+~feedback: Incorrect. The correct contraction of “you are” is you’re. 
+
+How many apostrophes should be removed from this passage? <p>There are lots of ways to get you’re feet torn up in the woods’. Did you know that thousands of people were eaten by bears in these woods in the 1980’s? It’s important to take care of your feet so you can escape the bears. </p>
+~formative
+1. 3.*
+~feedback: Yes. “You’re” should be “your,” “woods’” should be woods, and “1980’s” should be “1980s.”
+2. None.
+~feedback: That’s incorrect. “You’re” should be “your,” “woods’” should be woods, and “1980’s” should be “1980s.”
+3. 4. 
+~feedback: That’s incorrect. “You’re” should be “your,” “woods’” should be woods, and “1980’s” should be “1980s,” but “it’s” is the correct contraction of “it is.” 
+
+Samuel wrote this passage. Where is there an unneeded apostrophe? <p style=”padding-left: 30px;”>If you’re preparing for a three-week backpacking trip, don’t forget your most important item: socks. Yes, really! It has been proven that sock’s can be life saving. Ross Grubers, a backpacker who summited 10 of the world’s tallest peaks, agrees. It has been reported that Grubers’ socks are “the best money can buy.” His backpack even has its own little space for them.</p>
+~summative
+1. It has been proven that sock’s can be life saving. *
+2. It has been reported that Grubers’ socks are “the best money can buy.”
+3. All of the apostrophes in this passage are needed. 
+
+Which sentence is missing an apostrophe? 
+~summative 
+1. Socks are extremely important when your out in the backcountry; without them, it’s easy to get your feet torn up. *
+2. Socks are extremely important when you’re out in the backcountry; without them, it’s easy to get your feet torn up. 
+3. Sock’s are extremely important when you’re out in the backcountry; without them, it’s easy to get your feet torn up. 
+
+Why should the apostrophe in the following sentence be removed:<p>There are lots of ways to get you’re feet torn up in the woods. </p>
+~summative
+1. You’re is a contraction of “you are,” not the possessive form of “you.”*
+2. You’re is the plural possessive of you all, not the singular possessive of you.
+3. This apostrophe is correct and should not be removed. 
+
+
+// Semicolons and Colons 
+## 3.2 Critique the use of semicolons and colons.
+Semicolons and Colons 
+~ 0143a0e6-aa33-45ea-a534-e1c6f61def2e
+
+
+### 3.2.1 Differentiate the standard uses of semicolons and colons
+Differentiate the standard uses of semicolons and colons
+~ b3d03d0d-a457-41f5-a494-64625b18e3e4
+
+// Module: Readability
+// Tile: Semicolons and colons
+// Skills: Differentiate the standard uses of semicolons and colons
+// quiz
+
+Which punctuation mark should be used after “purposes” in the following sentence?<p>The Antikythera mechanism is an ancient analogue computer likely used for several purposes predicting astronomical positions, anticipating eclipses, and calculating Olympiads.</p>
+~formative
+1. A colon should be used after “purposes.”*
+~feedback: Correct. Colons are used to introduce lists.
+2. A semicolon should be used after “purposes.”
+~feedback: Incorrect. Semicolons do not introduce lists.
+3. No punctuation mark should be used after “purposes.”
+~feedback: Incorrect. One of the uses of the colon is to introduce lists.
+
+Which punctuation mark should be used after “hull” in the following sentence?<p>The mechanism was recovered from the ship’s hull this location suggests the mechanism was highly protected and valued.</p>
+~formative
+1. A semicolon should be used after “hull.”*
+~feedback: Correct. Semicolons can join two complete ideas (each with a subject and verb) that are related to each other.
+2. A colon should be used after “hull.” 
+~feedback: Incorrect. Colons are used as signposts to show important information ahead. In this case, the information in the second complete idea is related to, but not more important than, the information in the first complete idea.
+3. No punctuation mark should be used after “hull.”
+~feedback: Incorrect. This sentence has two complete ideas (each with a subject and verb) so punctuation must be used to separate the two ideas.
+
+Which punctuation mark should be used after “word” in the following sentence? <p>The recovery operation can be described in one word brutal.</p>
+~formative
+1. A colon should be used after “word.”*
+~feedback: Correct. A colon can provide emphasis to the material that follows.
+2. A semicolon should be used after “word.”
+~feedback: Incorrect. Consider which punctuation mark is used for emphasis.
+3. No punctuation mark should be used after “word.”
+~feedback: Incorrect. Consider which punctuation mark is used for emphasis.
+
+Which punctuation mark should be used after “rubies” and “copper” in the following sentence? <p>This lump was later separated into 82 separate fragments, including: gems, such as diamonds and rubies ore, such as iron and copper and adhesives, such as glue and putty. </p>
+~summative
+1. A semicolon should be used after “rubies” and “copper.”*
+2. A colon should be used after “rubies” and “copper.”
+3. No punctuation mark should be used after “rubies” and “copper.”
+
+Which punctuation mark should be used after “levels” in the following sentence?<p>The mission was deemed a success on two levels recovery of precious metals and preservation of original material.</p>
+~summative
+1. A colon should be used after “recovery.”*
+2. A semicolon should be used after “recovery.”
+3. No punctuation mark should be used after “recovery.”
+
+Which punctuation mark should be used after “mechanism” in the following sentence?<p>Antikythera mechanism a discovery that will have lasting impact for centuries to come.</p>
+~summative
+1. A colon should be used after “mechanism.”*
+2. A semicolon should be used after “mechanism.”
+3. No punctuation mark should be used after “mechanism.”
+
+### 3.2.2 Demonstrate the standard uses of semicolons
+Semicolons
+~ 88212f68-1510-4956-afa2-bc2b9545333e
+
+// Module: Readability
+// Tile: Semicolons and Colons
+// Skills: Demonstrate the standard uses of semicolons
+// quiz
+
+Identify where the semicolon(s) should be used in the sentence below:<p>Sea tulips come in a variety of colors, including white, pink, yellow, orange, and purple, note that the coloration of sea tulips depends upon their association with a symbiotic sponge that covers their surface.</p>
+~formative
+1. A semicolon should replace the comma after “purple.”*
+~feedback: Correct. The semicolon joins two independent ideas (each containing a subject and verb) that are related to each other.
+2. Semicolons should replace the commas between the colors in the list.
+~feedback: Incorrect. Semicolons are used rather than commas in a list only when the list contains items with embedded commas.
+3. No semicolons should be used in this sentence.
+~feedback: Incorrect. This sentence contains two independent ideas (each containing a subject and verb) so punctuation is needed.
+
+Identify where the semicolon(s) should be used in the sentence below.<p>You may spot this phenomenon in ocean waters near Sydney, Australia, Vancouver, Canada, and Acapulco, Mexico.</p>
+~formative
+1. Semicolons should replace the commas after “Australia” and “Canada.”*
+~feedback: Correct. Semicolons are used in lists with embedded commas.
+2. Semicolons should replace the commas after “Sydney,” “Vancouver,” and “Acapulco.”
+~feedback: Incorrect. Commas are used to separate cities from countries. Consider how semicolons are used in lists with embedded commas.
+3. No semicolons should be used in this sentence.
+~feedback: Incorrect. Semicolons are used in lists with embedded commas.
+
+Identify where the semicolon(s) should be used in the sentence below:<p>The sea tulip’s name comes from the organism’s appearance it looks like a knobby “bulb” or flower attached to a long stalk.</p>
+~formative
+1. A semicolon should be used between “appearance” and “it.”*
+~feedback: Correct. The semicolon joins two independent ideas (each containing a subject and verb) that are related to each other.
+2. A semicolon should be used after “bulb” and before “or.”
+~feedback: Incorrect. Consider that a semicolon connects two independent ideas (each containing a subject and verb) that are related to each other. 
+3. No semicolon is needed in this sentence.
+~feedback: Incorrect. Consider that a semicolon connects two independent ideas (each containing a subject and verb) that are related to each other.
+
+A semicolon is used correctly in the following sentence:<p>Sea tulips come in a variety of colors, including white, pink, yellow, orange, and purple; note that the coloration of sea tulips depends upon their association with a symbiotic sponge that covers their surface.</p>
+~summative
+1. True*
+2. False
+
+A semicolon is used correctly in the following sentence:<p>The sea tulip’s name comes from the organism’s appearance it looks like a knobby “bulb;” or flower attached to a long stalk.</p>
+~summative
+1. True
+2.False*
+
+Semicolons are used correctly in the following sentence:<p>You may spot this phenomenon in ocean waters near Sydney, Australia; Vancouver, Canada; and Acapulco, Mexico.</p>
+~summative
+1. True*
+2. False
+
+### 3.2.3 Demonstrate the standard uses of colons
+Colons
+~ f44bd77e-89c1-43b0-87af-89613417ef5c
+
+// Module: Readability
+// Tile: Semicolons and Colons
+// Skills: Demonstrate the standard uses of colons
+// quiz
+
+Identify where the colon(s) should be used in the sentence below.<p>There are three methods of attracting earthworms from the ground worm charming, worm grunting, and worm fiddling.</p>
+~formative
+1. The colon should be used after “ground.”*
+~feedback: Correct. The colon is used to introduce a list.
+2. Colons should be used after “charming” and “grunting.”
+~feedback: Incorrect. Colons are used to introduce a list, not to separate items in a list.
+3. No colons should be used in this sentence.
+~feedback: Incorrect. Remember that colons are used to introduce a list.
+
+Identify where the colon(s) should be used in the sentence below.<p>I participate in an exceedingly dangerous sport I am a snake charmer.</p>
+~formative
+1. The colon should be used after “sport.”*
+~feedback: Correct. Remember that colons join two independent ideas (each with a subject and verb) when the writer wants to emphasize the second idea.
+2. The colon should be used after “exceedingly.”
+~feedback: Incorrect. Remember that colons join two independent ideas (each with a subject and verb) when the writer wants to emphasize the second idea.
+3. No colon should be used in this sentence.
+~feedback: Incorrect. Remember that colons join two independent ideas (each with a subject and verb) when the writer wants to emphasize the second idea.
+
+Identify where the colon should be used in the sentence below.<p>Snake charming the sport that is underloved.</p>
+~formative
+1. The colon should be used after “charming.”*
+~feedback: Correct. A colon can be used after an introductory phrase to explain it.
+2. The colon should be used after “is.”
+~feedback: Incorrect. Think about the use of a colon for emphasis. 
+3. No colon should be used in this sentence.
+~feedback: Incorrect. A colon can be used after an introductory phrase to explain it.
+
+Identify which of the following sentences uses a colon correctly.
+~summative
+1. There are three methods of attracting earthworms from the ground: worm charming, worm grunting, and worm fiddling.*
+2. There are three methods: of attracting earthworms from the ground worm charming, worm grunting, and worm fiddling.
+3. There are three methods of attracting earthworms from the ground worm charming: worm grunting: and worm fiddling.
+
+Identify which of the following sentences uses a colon correctly.
+~summative
+1. I participate in an exceedingly dangerous sport: I am a snake charmer.*
+2. I participate in an exceedingly: dangerous sport I am a snake charmer.
+3. I participate: in an exceedingly dangerous sport I am a snake charmer.
+
+Identify which of the following sentences uses a colon correctly.
+~summative
+1. Snake charming: the sport that is underloved.*
+2. Snake: charming the sport that is underloved.
+3. Snake charming the sport: that is underloved.
+
+
+
+
+// Commas 
+## 3.3 Critique the use of commas.
+Commas
+~ 0e30324c-30dc-479d-9390-044c70c4f25b
+
+
+### 3.3.1 Recognize the standard uses of commas
+Recognize the standard uses of commas
+~ 8713e9fa-3972-45cc-8a0f-a7fe6b0f7708
+
+// Module: Readability
+// Tile: commas
+// Skills: Recognize the standard uses of commas
+// quiz
+
+Identify the comma error in the following sentence by selecting the correct response:<p>John has, however always been available to help with mowing and with other chores.</p>
+~formative
+1. A comma should be after “however.”*
+~feedback: That’s correct. Commas should be used before and after transition words when they are not the first word of the sentence.
+2. The sentence is correct as is.
+~feedback: Incorrect. Commas should be used before and after transition words when they are not the first word of the sentence.
+3. There should be no commas in the sentence.
+~feedback: Incorrect. Commas should be used before and after transition words when they are not the first word of the sentence.
+4. There should be a comma after “mowing.”
+~feedback: Incorrect. No comma is needed after “and” because it is not functioning as a coordinating conjunction. Also, commas should be used before and after transition words when they are not the first word of the sentence.
+
+Identify the comma error in the following sentence by selecting the correct response:<p>In addition to running in marathons on four continents, Debbie also has participated in rowing, hiking, and climbing events.</p>
+~formative
+1. The sentence is correct as is.*
+~feedback: That’s correct. The first comma in the sentence follows a descriptive phrase, while the second and third commas separate items in a list.
+2. There should be no comma after “continents.”
+~feedback: Incorrect. The comma after “continents” is necessary because it follows a descriptive phrase that sets up the rest of the sentence.
+3. There should be no commas in the sentence.
+~feedback: Incorrect. The first comma in the sentence follows a descriptive phrase, while the second and third commas separate items in a list. 
+4. There should be no commas after “rowing” and “hiking.”
+~feedback: Incorrect. The commas after “rowing” and “hiking” separate items in a list and are necessary.
+
+Identify the comma error in the following sentence by selecting the correct response:<p>After August 4 2017, the Cleveland Indians will be on the road for almost two weeks, playing series in Baltimore, Maryland; Chicago, Illinois; Minneapolis, Minnesota; and Seattle, Washington.</p>
+~formative
+1. A comma should be after “August 4.”*
+~feedback: That’s correct. A comma is necessary after “August 4” to separate adjacent items.
+2. The sentence is correct as is.
+~feedback: Incorrect. A comma is necessary after “August 4” to separate adjacent items. 
+3. There should be no comma after “weeks.”
+~feedback: Incorrect. The comma after “weeks” is necessary because it sets up a descriptive phrase that isn’t essential information to the sentence.
+4. There should be no comma after “Seattle.”
+~feedback: Incorrect. The comma after Seattle separates adjacent items and is necessary.
+
+Identify the comma error in the following sentence by selecting the correct response:<p>Hank likes to take Beth, and William, to the store with him when he does the shopping for the week.</p>
+~summative
+1. There should be no commas in the sentence.*
+2. There should only be a comma after “William.”
+3. The sentence is correct as is.
+4. There should be a comma after “shopping.”
+
+Identify the comma error in the following sentence by selecting the correct response:<p>Some of her favorite comedians are Daniel Tosh, Patton Oswalt, and Key, and Peele, all of whom she has seen perform live.</p>
+~summative
+1. There should be no comma after “Key.”*
+2. The sentence is correct as is.
+3. There should be no comma after “Peele.”
+4. There should be no commas in the sentence.
+
+The comma usage in the following sentence is correct as is:<p>Because a large percentage of Americans cannot travel internationally, for reasons such as finances and time, the advertisers from Buenos Aires decided to focus their campaign in Germany, England, and France instead.</p>
+~summative
+1. True*
+2. False
+
+The comma usage in the following sentence is correct as is:</p>Juan decided to take the later bus, so he could get more studying done.</p>
+~summative
+1. False*
+2. True
+
+
+### 3.3.2 Demonstrate the standard uses of commas
+Demonstrate the standard uses of commas
+~ 4fe97c2a-f70c-4461-ac13-d11a17d81651
+
+// Module: Readability
+// Tile: commas
+// Skill: Demonstrate the standard uses of commas
+// quiz
+
+Identify where the comma or commas should appear in the sentence below:<p>Therefore all persons taking part in the classes beginning in 2017 need to have proof of insurance to stay on the rosters.</p>
+~formative
+1. There should be a comma after “Therefore.”*
+~feedback: That’s correct. Commas should be used after transition words when they are the first word of the sentence.
+2. The sentence is correct as is.
+~feedback: Incorrect. Commas should be used after transition words when they are the first word of the sentence. 
+3. There should be commas after “Therefore” and “2017”
+~feedback: Incorrect. The comma after “Therefore” is necessary, but remember that a comma isn’t always necessary after any number.
+4. There should be a comma after “2017.”
+~feedback: Incorrect. Remember that a comma isn’t always necessary after any number.
+
+Identify where the comma or commas should appear in the sentence below:<p>The premise that smoking may cause cancer which seems obvious in modern times has only been accepted by the majority of American people for a couple of generations.</p>
+~formative
+1. There should be commas after “cancer” and “times.”*
+~feedback: That’s correct. Commas after “cancer” and “times” set off a descriptive phrase which isn’t essential information to the sentence.
+2. There should be a comma after “cancer.”
+~feedback: Incorrect. Remember that commas must be on both ends of a descriptive, non-essential phrase in the middle of a sentence, so a comma is also necessary after “times.”
+3. The sentence is correct as is.
+~feedback: Incorrect. Commas after “cancer” and “times” set off a descriptive phrase which isn’t essential information to the sentence.
+4. There should be a comma after “times.”
+~feedback: Incorrect. Remember that commas must be on both ends of a descriptive, non-essential phrase in the middle of a sentence, so a comma is also necessary after “cancer.” 
+
+Identify where the comma or commas should appear in the sentence below:<p>You and the kids need to put all of the beach towels in the car and get going before the sun sets.</p>
+~formative
+1. The sentence is correct as is.*
+~feedback: That’s correct. No commas are required in this sentence.
+2. There should be a comma “You” and “car.”
+~feedback: Incorrect. Neither of the uses of “and” in this sentence are as a coordinating conjunction, so no commas are required.
+3. There should be a comma after “car.”
+~feedback: Incorrect. The use of “and” after “car” is not as a coordinating conjunction, so no comma is required.
+4. There should be a comma after “You” and “kids.”
+~feedback: Incorrect. “You and the kids” is not a descriptive phrase or a transition, so no comma is required. 
+
+Identify where the comma or commas should appear in the sentence below:<p>The twins are coming with us and they plan to bring a lot of items for the picnic including a blanket and a basket.</p>
+~summative
+1. There should be commas after “us” and “picnic.”*
+2. The sentence is correct as is.
+3. There should be a comma after “us.”
+4. There should be a comma after “picnic.”
+
+Identify where the comma or commas should appear in the sentence below:<p>Still even after all of the hatred he receives at visiting arenas Lebron James remains one of the most popular athletes in the world.</p>
+~summative
+1. There should be commas after “Still” and “arenas.”*
+2. There should be a comma after “Still.”
+3. The sentence is correct as is.
+4. There should be a comma after “arenas.”
+
+Identify where the comma or commas should appear in the sentence below:<p>With real estate tax bills coming and no raises expected at the company Jack asked his parents his best friend and his brother for loans.</p>
+~summative
+1. There should be commas after “company,” “parents,” and “friend.”*
+2. There should be commas after “coming,” “parents,” and “friend.”
+3. There should be commas after “coming,” “company,” “parents,” and “friend.”
+4. There should be commas after “parents” and “friend.” 
+
+
+
+// Fragments and Run-On Sentences
+## 3.4 Critique passages, revising for run-on sentences and fragments. 
+Run-on Sentences and Sentence Fragments
+~ d561b6a8-587c-43bc-843c-9c481d9ad08a
+
+
+### 3.4.1 Recognize run-on sentences
+Recognize run-on sentences
+~ 46b7d4a9-92dc-4008-b159-5114269103a1
+
+// Module: Readability
+// Tile: Fragments and Run-On sentences
+// Skills: Recognize run-on sentences
+// quiz
+
+Is the following a run-on sentence? Why or why not?<p>I thought I was a pretty savvy traveler, however, that was before I met some of my colleagues.</p>
+~formative
+1. This is a correct sentence because a comma comes before and after a transition word.
+~feedback: Incorrect. The word “however” is acting as a conjunctive adverb in this sentence, so it needs to be preceded by a semicolon.
+2. This is a run-on sentence because the first comma needs to be a semicolon.*
+~feedback: Correct. 
+3. This is a run-on sentence because the second comma needs to be semicolon.
+~feedback: Incorrect. Semicolons come before conjunctive adverbs, like “however.”
+
+Is the following a run-on sentence? Why or why not?<p>In the long run, we will have to choose which path to take, we won’t have time to hike everywhere.</p>
+~formative 
+1. This is a correct sentence because the commas come after introductory or transitional phrases.
+~feedback: Incorrect. While the comma after the introductory phrase is correct, another error appears in the sentence.
+2. This is a run-on sentence because the first comma needs to be a semicolon.
+~feedback: Incorrect. The comma after the introductory phrase is correct. Another error appears in the sentence.
+3. This is a run-on sentence because the second comma needs to be semicolon.*
+~feedback: Correct.
+
+Is the following a run-on sentence? Why, or why not?<p>Jake had to make a rest stop, and Elaine had to return home to retrieve her cell phone, but we still got to the doctor’s office on time and had the prescription refilled.</p>
+~formative
+1. This is <strong>not<strong> a run-on sentence because commas and coordinating conjunctions are joining the independent clauses.*
+~feedback: Correct.
+2. This is a run-on because there should be a semicolon in place of the first comma.
+~feedback: Incorrect. The first comma in combination with the coordinating conjunction “and” is correct.
+3. This is a run-on because there should be a semicolon in place of the second comma.
+~feedback: Incorrect. The second comma in combination with the coordinating conjunction “but” is correct.
+
+Which of the following is a run-on sentence?
+~summative
+1. The two of us were okay, even though the front of our car was totally shattered and our luggage lay all over the road.
+2. Some of our belongings were still in the suitcase, the rest of them were scattered.*
+3. Being in a car wreck was terrifying, but I know I have to get back in the car and drive.
+
+Which of the following is a run-on sentence?
+~summative
+1. Sometimes, my brain just can’t focus, it’s a good idea to take a break and listen to music.*
+2. I’ve noticed a pattern, though; this lack of focus tends to happen late at night.
+3. Many times, stopping to get a snack, grab a drink of water, or play a quick game on my phone can get me back to work.
+
+Which of the following is a run-on sentence?
+~summative
+1. My roommate, who has the same problem, calls this problem “cotton-headed ninny 
+mugginsness,” which she thinks is hilarious but which I find annoying.
+2. Nevertheless, she’s a good roommate she gets my mind off my worries.*
+3. We’ll probably room together next year; however, it’s too early in the semester to be making those decisions yet.
+
+Elayne has written this passage. What is the best suggestion for how she should spend her time proofreading this draft? <p>The Jumeirah Beachcomber is my favorite restaurant in Dubai, it sits right on the beach, next to the iconic Burj al-Arab—the world’s only seven-star hotel—built right out in the Arabian Gulf. The restaurant catches the breezes off the water, the salt smell mingles with scents of sandalwood and frankincense. When we last stayed, the food—an expansive buffet of Thai and southern Indian delicacies—stretched out before us. My son got his usual: dragon fruit, chicken tikka masala, and beef with saffron, he headed to the restaurant’s game room. Here, he could play Mario Brothers on the Wii while we talked and laughed with friends: the perfect evening.</p>
+~summative
+1. You need to work on spelling.
+2. You need to work on fragments.
+3. You need to work on run-on sentences.*
+
+
+### 3.4.2 Recognize sentence fragments
+Recognize sentence fragments
+~ c33d369c-0054-4a9d-a5aa-f57732802d2f
+
+// Module: Readability
+// Tile: Fragments and Run-on sentences
+// Skills: Recognize sentence fragments
+// quiz
+
+Is the following a sentence fragment, a run-on sentence, or a complete sentence?<p>Whereas his mother, Diana, held the title of Ohio Corn Princess for three years when she was a teen.</p>
+~formative
+1. This is a sentence fragment because it is a dependent clause and does not convey a complete idea.*
+~feedback: Correct.
+2. This is a run-on sentence because of its length.
+~feedback: Incorrect. The length of a sentence does not automatically make it a run-on sentence. Consider whether this example expresses a complete idea.
+3. This is a complete sentence.
+~feedback: Incorrect. Consider whether this example expresses a complete idea.
+
+Which of these three examples is a sentence fragment?
+~formative
+1. My boss, a famous art inspector, was asked to look at a supposed Picasso.
+~feedback: Incorrect. This sentence expresses a complete idea so it is not a fragment.
+2. She said that it was a fake.
+~feedback: Incorrect. This sentence expresses a complete idea so it is not a fragment.
+3. Which, because she is so skilled, she was able to tell immediately.*
+~feedback: Correct. This is a sentence fragment because it is a dependent clause and does not convey a complete idea.
+
+Which of these three examples is a sentence fragment?
+~formative
+1. I used to like flying.
+~feedback: Incorrect. This sentence expresses a complete idea, so it is not a fragment.
+2. Then one day, I experienced a panic attack, which frightened me.
+~feedback: Incorrect. This sentence expresses a complete idea, so it is not a fragment.
+3. Because, even though I knew I was safe, it still felt like I couldn’t breathe.*
+~feedback: Correct. This is a sentence fragment because it is a dependent clause and does not convey a complete idea.
+
+Is the following a sentence fragment, a run-on sentence, or a complete sentence?<p>Whereas Thomas was five years older, making him the oldest and the smartest.</p>
+~summative
+1. This is a sentence fragment because it is a dependent clause and does not convey a complete idea.*
+2. This is a run-on sentence because of its length.
+3. This is a complete sentence.
+
+Which of these three examples is a sentence fragment?
+~summative
+1. Even though the dog was small enough to fit in her pants pocket.*
+2. Even though I love him, I will not marry him.
+3. The dog was tough, even though he was small.
+
+Una has written this passage. What is the best suggestion for how she should spend her time proofreading this draft?<p>Weary to my core, and shuffling upstairs from my parents’ basement. I tried not to think. Almost forty, and living with my parents while my husband tried to find a job in this post-crash economy. More than that was awful, though. My old, frayed pajamas; my inability to afford new ones; and the fact the pancakes I was smelling were ones my mom had made me. And I’m thirty-nine years old, I thought. An age when I’m supposed to be providing for myself.</p>
+~summative
+1. You need to work on fixing sentence fragments.*
+2. You need to work on run-on sentences.
+3. This passage is written correctly.
+
+
+### 3.4.3 Demonstrate revision for run-on sentences
+Demonstrate revision for run-on sentences
+~ f2c8bbae-39b9-42d1-9c10-37a9b2d14d94
+
+// Module: Readability
+// Tile: Fragments and Run-on sentences
+// Skills: Demonstrate revision for run-on sentences
+// quiz
+
+Which of the following options would most effectively revise the following run-on sentence?<p>Walking my bike across the street is safer and it only takes a few seconds longer than riding.</p>
+~formative
+1. Walking my bike across the street is safer, and it only takes a few seconds longer than riding.*
+~feedback: Correct. Adding the comma before the coordinating conjunction eliminates the comma splice.
+2. Walking my bike across the street is safer: and it only takes a few seconds longer.
+~feedback: Incorrect. Consider which punctuation mark should appear before “and.”
+3. Walking my bike, across the street is safer and it only takes a few seconds longer.
+~feedback: Incorrect. “Walking my bike across the street is safer” is a correct independent clause that does not need an additional comma. Consider which punctuation mark should appear before “and.”
+
+Which of the following options would most effectively revise the following run-on sentence?<p>The Jumeirah Beachcomber is my favorite restaurant in Dubai, it sits right on the beach, next to the iconic Burj al-Arab—the world’s only seven-star hotel—built right out in the Arabian Gulf. </p>
+~formative
+1. The Jumeirah Beachcomber is my favorite restaurant in Dubai; it sits right on the beach, next to the iconic Burj al-Arab--the world’s only seven-star hotel--built right out in the Arabian Gulf.*
+~feedback: Correct.
+2. The Jumeirah Beachcomber is my favorite restaurant in Dubai, it sits right on the beach. Next to the iconic Burj al-Arab--the world’s only seven-star hotel--built right out in the Arabian Gulf.
+~feedback: Incorrect. Replacing the comma after “beach” with a period does not resolve the run-on sentence error. Think about the separate ideas the sentence is trying to convey.
+3. The Jumeirah Beachcomber is my favorite restaurant in Dubai, it sits right on the beach. The restaurant is next to the iconic Burj al-Arab--the world’s only seven-star hotel--built right out in the Arabian Gulf.
+~feedback: Incorrect. Replacing the comma after “beach” with a period and adding “The restaurant” does not resolve the run-on sentence error. Think about the separate ideas the sentence is trying to convey.
+
+Which of the following options would most effectively revise the following run-on sentence?<p>My son ordered his usual: dragon fruit, chicken tikka masala, and beef with saffron, he headed to the restaurant’s game room.</p>
+~formative
+1. My son ordered his usual: dragon fruit, chicken tikka masala, and beef with saffron, however he headed to the restaurant’s game room.
+~feedback: Incorrect. The addition of the conjunctive adverb “however” without a preceding semicolon does not repair the run-on sentence.
+2. My son ordered his usual: dragon fruit; chicken tikka masala; and beef with saffron, he headed to the restaurant’s game room.
+~feedback: Incorrect. Replacing the first and second commas with semicolons is incorrect. Think about the two separate ideas the run-on sentence is trying to convey.
+3. My son ordered his usual: dragon fruit, chicken tikka masala, and beef with saffron. Then, he headed to the restaurant’s game room.*
+~feedback: Correct.
+
+Which of the options below would most effectively revise the following run-on sentence?<p>This violence is not being displayed in only magazines and television, rap songs are also conveying that sexual assault is acceptable. </p>
+~summative
+1. This violence is not being displayed in only magazines and television; rap songs are also conveying that sexual assault is acceptable.*
+2. This violence is not being displayed in only magazines and television, rap songs are also. Conveying that sexual assault is acceptable.
+3. The sentence is correct as written.
+
+Which of the options below would most effectively revise the following run-on sentence?<p>As college aptitude tests become more challenging and expensive, children from poor families become even more disadvantaged and despairing they just don’t have the educational or financial resources to compete.</p>
+~summative
+1. As college aptitude tests become more challenging and expensive, children from poor families become even more disadvantaged and despairing. They just don’t have the educational or financial resources to compete.*
+2. As college aptitude tests become more challenging and expensive. Children from poor families become even more disadvantaged and despairing. They just don’t have the educational or financial resources to compete.
+3. This sentence is correct as written.
+
+Which of the options below would most effectively revise the following run-on sentence?<p>Poor people do not want to stay poor forever or live in terrible conditions all of their lives, however, many are unable to rise above their circumstances.</p>
+~summative
+1. Poor people do not want to stay poor forever or live in terrible conditions all of their lives; however, many are unable to rise above their circumstances.*
+2. Poor people do not want to stay poor forever or live in terrible conditions all of their lives: however, many are unable to rise above their circumstances.
+3. Poor people do not want to stay poor forever or live in terrible conditions all of their lives however, many are unable to rise above their circumstances.
+
+
+### 3.4.4 Demonstrate revision for sentence fragments
+Demonstrate revision for sentence fragments
+~ 0dd24677-6a62-4937-9607-73161e9572c2
+
+// Module: Readability
+// Tile: Fragments and Run-On sentences
+// Skills: Demonstrate revision for sentence fragments 
+// self-check
+
+Which of the options below would most effectively revise the following sentence fragment?<p>Other symptoms to watch for would include changes in her mood. Such as sadness or irritability.</p>
+~formative
+1. Other symptoms to watch for would include changes in her mood, such as sadness or irritability.*
+~feedback: Correct.
+2. There are other symptoms to watch for would include changes in her mood. Such as sadness or irritability.
+~feedback: Incorrect. The first sentence is a complete idea so it does not need additional introductory words.
+3. Other symptoms to watch for would include changes in her mood; such as sadness or irritability.
+~feedback: Incorrect. You are on the right track, but the semicolon is not the correct punctuation mark.
+
+Evaluate the following sentences for fragments. Which option is best?<p>Low self-esteem, depression, bullying. These are four issues adolescent girls may face.</p>
+~formative
+1. Low self-esteem, depression, and bullying are four issues adolescent girls may face.*
+~feedback: Correct.
+2. Low self-esteem; depression; bullying. These are four issues adolescent girls may face.
+~feedback: Incorrect. Replacing the commas with semicolons doesn’t solve the problem. 
+Remember that a complete sentence expresses a complete idea (with a subject and verb).
+3. The sentences are correct as written and no fragment appears.
+~feedback: Incorrect. Remember that a complete sentence expresses a complete idea (with a subject and verb).
+
+Evaluate the following sentences for fragments. Which option is best?<p>Many girls don’t seek help. Which is a big part of the problem.</p>
+~formative
+1. Many girls don’t seek help, which is a big part of the problem.*
+~feedback: Correct.
+2. Many girls don’t seek help; which is a big part of the problem.
+~feedback: Incorrect. You are on the right track, but a semicolon is not correct here.
+3. The sentences are correct as written and no fragment appears.
+~feedback: Incorrect. Remember that a complete sentence expresses a complete idea (with a subject and verb).
+
+Which of the options below would most effectively revise the following sentence fragment?<p>This category consists of children who were born into successful families. Children of doctors, lawyers, and bankers.</p>
+~summative
+1. This category consists of children who were born into successful families, such as children of doctors, lawyers, and bankers.*
+2. This category consists of children who were born into successful families; such as, children of doctors, lawyers, and bankers.
+3. This category consists of children. Who were born into successful families. Children of doctors, lawyers, and bankers.
+
+Which of the options below would most effectively revise the following sentence fragment?<p>This group is large. And makes up a great deal of the nation’s population.</p>
+~summative
+1. This group is large and makes up a great deal of the nation’s population.*
+2. This group is large, and makes up a great deal of the nation’s population.
+3. This group is large and makes up a great deal. Of the nation’s population.
+
+Which of the options below would most effectively revise the following sentence fragment? <p>Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success. Many children fail.</p>
+~summative
+1. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success, many children fail.*
+2. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success; many children fail.
+3. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success: many children fail.
+
+
+
+
+
+
+
+// Module: Keys to Successful Argument
+# 8 Evaluate keys to successful argument 
+Argument
+~ 0c1c0290-a7bb-41e4-9849-17345b8b20d2
+
+// Tile 1: Constructing an Arguable Thesis 
+## 8.1 Evaluate an arguable thesis 
+Argumentative Thesis Statements
+~ 3f318460-cddb-4f6d-93d0-6a689630d0e8
+
+### 8.1.1 Recognize an arguable thesis
+Recognize an arguable thesis
+~ 38522086-923a-4ad5-9c3e-c56696dd55b1
+
+The following is an argumentative thesis: <em>ar is a huge problem that must be solved.</em>
+~formative
+1. True
+~feedback: Incorrect. Few people would disagree that war is a problem. An argumentative thesis presents an assertive, debatable claim.
+2. False*
+~feedback: Correct. Few people would disagree that war is a problem. An argumentative thesis presents an assertive, debatable claim.
+
+The following is an argumentative thesis: <em>Federal aid to Head Start programs should be increased to address the kindergarten readiness issue affecting children in poverty.</em>
+~formative
+1. True*
+~feedback: Correct. The statement presents an assertive, debatable, reasonable, focused claim that can be supported with evidence.
+2. False 
+~feedback: Incorrect. The statement presents an assertive, debatable, reasonable, focused claim that can be supported with evidence.
+
+An argumentative thesis incorporates all of the following characteristics except:
+~formative
+1. Debatable.
+~feedback: Incorrect. Argumentative theses are debatable.
+2. Reasonable
+~feedback: Incorrect. Argumentative theses are reasonable.
+3. Assertive
+~feedback: Incorrect. Argumentative theses are assertive.
+4. Value-based*
+~feedback: Correct. Value-based statements cannot be supported with evidence and are not argumentative theses.
+
+Which of the following is an argumentative thesis?
+~summative
+1. Although it is unpopular, the U.S. must continue to occupy Iraq for the foreseeable future in order to prevent its total economic collapse.*
+2. The continued occupation of Iraq by the United States is unpopular.
+3. Given its unpopularity, should the U.S. continue to occupy Iraq?
+4. One of the reasons for the U.S. occupation of Iraq is economic security.
+
+Which of the following is an argumentative thesis?
+~summative
+1. Current laws ban tobacco advertisements on television.
+2. Current laws banning tobacco advertisements on television were enacted due to growing health concerns about tobacco use.
+3. Current laws banning tobacco advertisements on television should be extended to include bans on beer advertisements.*
+4. Current laws ban tobacco advertisements on television but do not ban beer advertisements.
+
+Which of the following is an argumentative thesis?
+~summative
+1. In order to combat global warming and climate change, school lunches should be mandated as meatless at least two days a week.*
+2. A global vegan mandate should be enacted by 2030 to combat global warming and climate change.
+3. Meatless Monday is a campaign to encourage U.S. citizens to eat less meat.
+4. Eating less meat reduces the risk of certain diseases.
+
+### 8.1.2 Evaluate an argumentative thesis
+Evaluate an argumentative thesis 
+~ 99601245-8061-4bb9-a8b1-55d48982dc04
+
+Which of the following statements meets all the criteria of an argumentative thesis?
+~formative
+1. Many people visit dogs at shelters.
+~feedback: Incorrect. This is a statement of fact and not debatable.
+2. Stray dogs present a problem in many rural areas.
+~feedback: Incorrect. Most people would agree with this statement so it is not debatable.
+3. Dog owners who do not control their pets should be made to eat dog food.
+~feedback: Incorrect. This statement is not reasonable.
+4. The no-kill policy at the local shelter needs to be reconsidered because the increasing stray dog population is proving a hazard to the community.*
+~feedback: Correct. This statement is assertive, debatable, reasonable, focused and can be supported with evidence.
+
+Which of the following statements meets all the criteria of an argumentative thesis?
+~formative
+1. While they are often seen as threats or pests, bees play an important role in pollination, and a look at the collapse of bee colonies around the country indicates we should invest in beekeeping in urban areas.*
+~feedback: Correct. This statement is assertive, debatable, reasonable, focused and can be supported with evidence.
+2. While they are often seen as threats or pests, bees play an important role in pollination.
+~feedback: Incorrect. This is a statement of fact and not debatable.
+3. The collapse of bee colonies around the country suggests the world is ending.
+~feedback: Incorrect. This statement may not reasonable and is not focused.
+4. Investing in beekeeping in urban areas is an up-and-coming trend, but will it solve the problems of bee colony collapse?.
+~feedback: Incorrect. This is a question, not an arguable, assertive position.
+
+Which of the following statements meets all the criteria of an argumentative thesis?
+~formative
+1. Legalizing undocumented immigrants benefits the economy.*
+~feedback: Correct. This statement is assertive, debatable, reasonable, focused and can be supported with evidence.
+2. Legalizing undocumented immigrants is the moral course of action.
+~feedback: Incorrect. This statement is based on values and cannot be supported with evidence.
+3. In an era in which many areas of the country are searching for unskilled workers, legalizing undocumented immigrants is a hot-button issue.
+~feedback: Incorrect. This statement is an observation, not a debatable assertion.
+4. Legalizing undocumented immigrants has benefits and drawbacks.
+~feedback: Incorrect. This statement is a fact, not a debatable assertion.
+
+The following statement meets all of the criteria of an argumentative thesis: Colleges and universities in the United States should ban protests.
+~formative
+1. True. 
+~feedback: Incorrect. The statement is too broad. Is it referring to public and private universities? Protests by faculty members and students? Protests only on college or university property?
+2. False.*
+~feedback: Correct. The statement is too broad. Is it referring to public and private universities? Protests by faculty members and students? Protests only on college or university property?
+
+The following example incorporates all of the characteristics of an argumentative thesis except: Involvement by Russian Internet trolls in the recent U.S. elections should be combatted with nuclear missile attacks in Moscow, St. Petersburg, and Siberia.
+~summative
+1. Debatable.
+2. Assertive.
+3. Reasonable.*
+
+The following example incorporates all of the characteristics of an argumentative thesis except: The human soul is the seat of all wise action.
+~summative
+1. Debatable.
+2. Assertive.
+3. Able to be supported with evidence.*
+
+The following example incorporates all of the characteristics of an argumentative thesis except: Smoking is bad for your health.
+~summative
+1. Debatable.*
+2. Assertive.
+3. Able to be supported with evidence.
+
+The following is an effective argumentative thesis: The federal government should overhaul all of the laws regarding agriculture.
+~summative
+1. True. 
+2. False*
+
+// Tile 2: Logical Fallacies
+## 8.2 Evaluate logical fallacies
+Logical Fallacies
+~ b4f87c58-8f15-45af-b56a-551d7f2e5592
+
+### 8.2.1 Recognize common logical fallacies
+Recognize common logical fallacies
+~ 76609d6a-a416-41cd-b97c-68f04a40f775
+
+Concluding that vaccines cause autism is true because many celebrities believe it is
+~formative
+1. Bandwagon*
+~feedback: Correct. Bandwagon fallacies make the claim that since others are doing something, you should do it, too.
+2. Straw man
+~feedback: Incorrect. Strawman fallacies substitute another issue for the issue at hand. 
+3. False dichotomy
+~feedback: Incorrect. False dichotomies posit an “either or” scenario.
+4. Rumor
+~feedback: Incorrect. A rumor is an unconfirmed story that is being circulated.
+
+Concluding that all dogs are vicious because one dog snarls and bites is a 
+~formative
+1. Hasty generalization*
+~feedback: Correct. Hasty generalizations make a general claim based on one or a few incidents.
+2. Slippery slope
+~feedback: Incorrect. Slippery slope fallacies suggests that a relatively small step will lead to a large-scale, significant effect or event.
+3. False dichotomy
+~feedback: Incorrect. False dichotomies posit an “either or” scenario.
+4. Bias
+~feedback: Incorrect. Bias is a prejudice for or against something.
+
+Assuming that because a mosquito infestation came after the building of a dam, the building of the dam caused the mosquito infestation is 
+~formative
+1. Post hoc*
+~feedback: Correct. Post hoc is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+2. False dichotomy
+~feedback: Incorrect. False dichotomies posit an “either or” scenario
+3. Slippery slope
+~feedback: Incorrect. Slippery slope fallacies suggests that a relatively small step will lead to a large-scale, significant effect or event.
+4. Anachronism
+~feedback: Incorrect. An anachronism is a phrase or item appropriate to an earlier time period than the one in which it is being used.
+
+Proposing that legalizing marijuana will lead to a higher murder rate is
+~formative
+1. Slippery slope*
+~feedback: Correct. Slippery slope fallacies suggests that a relatively small step will lead to a large-scale, significant effect or event.
+2. Straw man
+~feedback: Incorrect. Strawman fallacies substitute another issue for the issue at hand. 
+3. Begging the question
+~feedback: Incorrect. Begging the question is a circular argument which assumes the truth of a premise with no evidence other than the premise itself.
+4. Doomsday prophet
+~feedback: Incorrect. A doomsday prophet is someone who always expects bad things to happen.
+
+Calling a proponent of a controversial environmental reform a “tree-hugger” rather than arguing against the reform is
+~summative
+1. Ad hominem* 
+2. Straw man
+3. Bandwagon
+4. Bullying
+
+Addressing the issue of standing for the national anthem during a debate about funding for immigration reform is 
+~summative
+1. Straw man* 
+2. Begging the question
+3. Post hoc
+4. Fake news
+
+Arguing that extra sensory perception is real because you have extra sensory perception is 
+~summative
+1. Begging the question*
+2. Ad hominem
+3. Post hoc
+4. Sleight of hand
+
+Suggesting that an individual is immoral because that individual doesn’t attend church is
+~summative
+1. False dichotomy*
+2. Slippery slope
+3. Bandwagon
+4. Limitation
+
+### 8.2.2 Evaluate logical fallacies in texts
+Evaluate logical fallacies in texts
+~ 84462439-6c3d-41b0-a988-336b67219b60
+
+Which logical fallacy occurs in the passage below? <p>Colorado, California, Washington, Oregon, and D.C. have legalized marijuana. Popular sentiment seems to be moving in that direction. I worry, though, that if we vote to legalize marijuana in every state, the next thing you know, we’ll be talking about legalizing heroin. We already have a huge opioid epidemic in the country. Do we want even more heroin addicts?</p>
+~formative
+1. Slippery Slope*
+~feedback: Correct. Slippery slope fallacies suggest that a relatively small step will lead to a large-scale, significant effect or event.
+2. Post Hoc
+~feedback: Incorrect. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+3. Ad Hominem 
+~feedback: Incorrect. An ad hominem fallacy is an overt or subtle attack on a person’s character or personal attributes.
+4. No Fallacy
+~feedback: Incorrect. Consider how the speaker is suggesting a small step will lead to a large-scale, significant effect or event.
+
+Which logical fallacy occurs in the passage below? <p>The votes are in, and Roberts ran away with the election. This district usually votes Republican, so that is why he won.</p>
+~formative
+1. Post hoc*
+~feedback: Correct. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+2. Ad Hominem 
+~feedback: Incorrect. An ad hominem fallacy is an overt or subtle attack on a person’s character or personal attributes.
+3. Hasty Generalization
+~feedback: Incorrect. A hasty generalization makes a general claim based on one or a few incidents.
+4. No Fallacy
+~feedback: Incorrect. Think about the implied causation in the passage. Just because X and Y both occur, does X necessarily cause Y?
+
+Which logical fallacy occurs in the passage below? <p>My opponent argues that funding for schools should be the number one priority of the next legislative session. I am surprised that my opponent hates the military so much. I didn’t realize he was anti-soldier. I, personally, am a huge fan of our brave soldiers abroad and at home.</p> 
+~formative
+1. straw man*
+~feedback: Correct. Strawman fallacies substitute another issue for the issue at hand.
+2. Ad hominem
+~feedback: Incorrect. An ad hominem fallacy is an overt or subtle attack on a person’s character or personal attributes.
+3. Bandwagon
+~feedback: Incorrect. Bandwagon fallacies make the claim that since others are doing something, you should do it, too.
+4. False Dichotomy 
+~feedback: Incorrect. False dichotomies posit an “either or” scenario.
+
+Which logical fallacy occurs in the passage below? <p>This was a tough election. Dave Roberts ran a great campaign, and in the end he impressed enough voters in the district to win. I hope our district is better off with him in office.</p> 
+~formative
+1. No fallacy*
+~feedback: Correct. No logical fallacy appears in this passage.
+2. Bandwagon
+~feedback: Incorrect. Bandwagon fallacies make the claim that since others are doing something, you should do it, too.
+3. False Dichotomy
+~feedback: Incorrect. False dichotomies posit an “either or” scenario.
+4. Post Hoc
+~feedback: Incorrect. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+
+Which logical fallacy occurs in the passage below? <p>The literature on the links between smoking and lung cancer seems so clear. But I think medical research is fallible. Take my grandmother for example. She smoked a pack a day and lived to 90. How harmful can smoking really be?</p>
+~formative
+1. hasty generalization*
+~feedback: Correct. A hasty generalization makes a general claim based on one or a few incidents.
+2. Begging the Question
+~feedback: Incorrect. Begging the question refers to a circular argument which assumes the truth of a premise with no evidence other than the premise itself.
+3. Post Hoc
+~feedback: Incorrect. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+4. No Fallacy
+~feedback: Incorrect. Consider how the writer makes a broad conclusion based on one incident.
+
+Which logical fallacy occurs in the passage below? <p>You know, that Virginia Starr may be a nice person and all, helping the orphans, feeding the stray cats, and building houses for the homeless, but she has got those tacky flamingos in her front yard and she wears those ridiculous hats. I just can’t be around her and I told the preacher to talk her out of coming to the church ladies’ league.</p> 
+~formative
+1. Ad hominem*
+~feedback: Correct. An ad hominem fallacy is an overt or subtle attack on a person’s character or personal attributes.
+2. Straw Man
+~feedback: Incorrect. Strawman fallacies substitute another issue for the issue at hand.
+3. Post Hoc
+~feedback: Incorrect. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+4. No Fallacy
+~feedback: Incorrect. Think about the writer’s attack on Starr’s flamingos and hats.
+
+Which logical fallacy occurs in the passage below? <p>Don’t be worried about the game. The Steelers are the most clutch team in pro sports history. There is no chance they will lose Sunday.</p> 
+~formative
+1. Begging the question*
+~feedback: Correct. Begging the question refers to a circular argument which assumes the truth of a premise with no evidence other than the premise itself.
+2. Hasty generalization
+~feedback: Incorrect. A hasty generalization makes a general claim based on one or a few incidents.
+3. Slippery Slope
+~feedback: Incorrect. Slippery slope fallacies suggest that a relatively small step will lead to a large-scale, significant effect or event.
+4. No Fallacy
+~feedback: Incorrect. Does the writer offer any proof that the Steelers are a clutch team other than saying the Steelers are a clutch team?
+
+Which logical fallacy occurs in the passage below? <p>That is a funny picture you took while driving on the highway. You could put it on your InstaCam, but everyone else in school is on FlashChat. You really should put it on your FlashChat story if you care about getting any new followers.</p>
+~formative
+1. bandwagon*
+~feedback: Correct. Bandwagon fallacies make the claim that since others are doing something, you should do it, too.
+2. Slippery Slope
+~feedback: Incorrect. Slippery slope fallacies suggest that a relatively small step will lead to a large-scale, significant effect or event.
+3. Begging the question
+~feedback: Incorrect. Begging the question refers to a circular argument which assumes the truth of a premise with no evidence other than the premise itself.
+4. No Fallacy 
+~feedback: Incorrect. Consider that the writer is suggesting that the picture should be on FlashChat because everyone else is using FlashChat.
+
+Which logical fallacy occurs in the passage below? <p>My opponent argues that funding for schools should be the number one priority of the next legislative session. I am surprised that my opponent hates the military so much. I didn’t realize he was anti-soldier. I, personally, am a huge fan of our brave soldiers abroad and at home.</p>
+~formative
+1. straw man*
+~feedback: Correct. Strawman fallacies substitute another issue for the issue at hand.
+2. Slippery Slope
+~feedback: Incorrect. Slippery slope fallacies suggest that a relatively small step will lead to a large-scale, significant effect or event.
+3. Post Hoc
+~feedback: Incorrect. A post hoc fallacy is a causation fallacy in which the writer argues that because X and Y occurred, X must have caused Y.
+4. No Fallacy
+~feedback: Incorrect. Consider that the argument is about funding for schools, but the writer is discussing support for the military.
+
+Which logical fallacy occurs in the passage below? <p>This election boils down to whether you want to make your community better. We have crime problems, we have too much poverty, and we don’t have enough local investment. Your choice is clear: You either vote for Dave Roberts or you vote against lifting up your community.</p>
+~formative
+1. False dichotomy*
+~feedback: Correct. False dichotomies posit an “either or” scenario.
+2. Hasty Generalization
+~feedback: Incorrect. A hasty generalization makes a general claim based on one or a few incidents.
+3. Ad Hominem
+~feedback: Incorrect. An ad hominem fallacy is an overt or subtle attack on a person’s character or personal attributes.
+4. No Fallacy
+~feedback: Incorrect. Consider that the writer is presenting an “either or” scenario.
+
+Which logical fallacy occurs in the passage below? <p>Mama and her hot flashes, I tell you what. She is on a rampage in this house opening every window. If we don’t get that air conditioner fixed, she is liable to smash the air conditioner with a bat, steal ice cubes from the neighbor’s freezer, kidnap the A/C repair man, and burn the house down.</p>
+~summative
+1. Slippery Slope*
+2. No Fallacy
+3. False dichotomy
+4. Post hoc* 
+
+Which logical fallacy occurs in the passage below? <p>The air conditioner has been out ever since that stray cat from down the road has been hanging out here. It’s August in Mississippi; you and your brother are burning up, and Mama was already having hot flashes. We never had a problem with the A/C until the cat got here. That cat needs to go. It’s way too hot in here and anything is worth a shot.</p>
+~summative
+1. Post hoc* 
+2. No Fallacy
+3. False dichotomy
+4. Begging the question
+
+Which logical fallacy occurs in the passage below? <p>One study from the American Dental Association suggests that flossing one’s teeth has little effect in the prevention of tooth decay. Therefore Coca-Cola has every right to sell its products in public school vending machines.</p>
+~summative
+1. Straw man*
+2. No Fallacy
+3. False dichotomy
+4. Post hoc
+
+Which logical fallacy occurs in the passage below? <p>I don’t understand why Americans are so serious. So many people think their daily routine is a matter of life and death. My cousins from Australia laugh frequently and don’t let bad situations keep them down for long. People overseas are far more relaxed than we are here in the U.S.</p>
+~summative
+1. Hasty generalization*
+2. No Fallacy
+3. False dichotomy
+4. Post hoc
+
+Which logical fallacy occurs in the passage below? <p>Polling data suggests that a majority of gun owners like cheese. </p>
+~summative
+1. No Fallacy*
+2. False dichotomy
+3. Post hoc
+4. Begging the question
+
+Which logical fallacy occurs in the passage below? <p>Did you see Janine MacPherson when she came to campus? She earned her Ph.D. at Columbia and did a postdoc at the London School of Economics. She examines gender stereotypes across culture and class in her new book, but her clothes and hairstyle are terrible. It’s almost impossible to take her research seriously. I mean really, who would believe her?</p>
+~summative
+1. Ad Hominem
+2. No Fallacy
+3. False dichotomy
+4. Post hoc* 
+
+Which logical fallacy occurs in the passage below? <p>The United States is the best country in the world. We believe in freedom and rights for everyone. Discriminating is a bad idea. This new immigrant ban will cause nothing but problems for everyone.</p>
+~summative
+1. Begging the question*
+2. No Fallacy
+3. False dichotomy
+4. Post hoc
+
+Which logical fallacy occurs in the passage below? <p>I hear you are considering doing your study abroad semester in Europe. Europe is okay, I guess, but most students I know are heading to the beach for study abroad. You should come to the Caribbean and see what everyone is raving about!</p> 
+~summative
+1. bandwagon*
+2. No Fallacy
+3. False dichotomy
+4. Post hoc
+
+Which logical fallacy occurs in the passage below? <p>One study from the American Dental Association suggests that flossing one’s teeth has little effect in the prevention of tooth decay. Therefore Coca-Cola has every right to sell its products in public school vending machines.</p>
+~summative
+1. Straw man* 
+2. No Fallacy
+3. False dichotomy
+4. Post hoc* 
+
+Which logical fallacy occurs in the passage below? <p>Our schools our so overcrowded that we are housing students in trailers. Our community needs a new school building. If you don’t support the bond issue for the new school, you are ensuring that our students will fail. You don’t want to have that on your conscience, do you?</p>
+~summative
+1. False dichotomy*
+2. No Fallacy
+3. Post hoc
+4. Begging the question
+
+
+// Tile 3: Building common ground 
+## 8.3 Evaluate rhetorical approaches to building common ground
+Building Common Ground
+~ d84775d6-71c6-493e-9816-f2515f53a46e
+
+### 8.3.1 Recognize rhetorical approaches to building common ground
+Recognize rhetorical approaches to building common ground 
+~ 33d1cfef-fd89-43cd-84f4-f943a6bcce49
+
+All of the following are important rhetorical factors to consider when building common ground except:
+~formative
+1. Number of Sources*
+~feedback: That’s correct. The number of sources could be important to the argument’s credibility, but it doesn’t build common ground with the audience. The main rhetorical factors to consider when building common ground are tone, language, and appeals. 
+2. Tone
+~feedback: That’s incorrect. The main rhetorical factors to consider when building common ground are tone, language, and appeals. If you do not consider tone, you risk patronizing or offending your audience. 
+3. Language
+~feedback: That’s incorrect. The main rhetorical factors to consider when building common ground are tone, language, and appeals. If you do not consider language, your risk alienating your audience or obfuscating your purpose. 
+4. Appeals
+~feedback: That’s incorrect. The main rhetorical factors to consider when building common ground are tone, language, and appeals. If you do not consider appeals, your argument may be easily ignored by your audience. 
+
+Which of the following would not be considered a discourse community?
+~formative
+1. A scientist, a politician, a baker, and a murderer who all speak the same language.*
+~feedback: That’s correct. Even though the scientist, politician, baker, and murderer probably have things in common, their common ground isn’t sufficient to be considered a discourse community (any more than speakers of the same language make up a discourse community). 
+2. A group of social workers attending a social work conference.
+~feedback: That’s incorrect. Social workers in general have a shared vocabulary and training, and since they are attending the same conference, they have shared professional interests. 
+3. The local bird watching club.
+~feedback: That’s incorrect. The local bird watching club has shared experience with the birds in the community, and use specialized language to refer to bird sightings. 
+4. Faculty members in a sociology department
+~feedback: That’s incorrect. Faculty members in academic departments usually have similar training, backgrounds, and interests. Though the focus of their research may differ, they share disciplinary common ground. 
+
+Which of the following is a way to build common ground in an argument essay about legislation to eliminate gender-based pay inequities? 
+~formative
+1. Changing the phrase “militant femi-Nazis” to “proponents of the pay equity legislation”*
+~feedback: Correct. Revising language so that it is not hostile is a way to build common ground.
+2. Adding more words to meet the length requirements 
+~feedback: Incorrect. While this action improve the essay, it is not a way to build common ground.
+3. Reorganizing paragraphs to improve the logic of the argument
+~feedback: Incorrect. While this action may improve the essay, it is not a way to build common ground.
+4. Adding transitions between paragraphs 
+~feedback: Incorrect. While this action may improve the essay, it is not a way to build common ground.
+
+True or False: An effective strategy for building common ground in an argument is to add more sources. 
+~summative
+1. False*
+2. True
+
+What is a common feature of an academic discourse community?
+~summative
+1. Specialized vocabulary*
+2. Religious beliefs
+3. Skin color
+4. Sentence structure 
+
+Reorganizing paragraphs to improve the logic of the argument is not an effective strategy for building common ground because…
+~summative
+1. A logical argument can still be offensive to an audience. Though reorganizing paragraphs might make the argument more clear, doing so doesn’t build common ground.*
+2. Arguments that are disorganized or illogical are more convincing to a hostile audience. 
+3. Arguments that are unclear are easier to use to deceive an audience that disagrees with the premise. 
+
+### 8.3.2 Evaluate rhetorical approaches to building common ground
+Evaluate rhetorical approaches to building common ground
+~ 17866769-b413-4a64-a810-ed9942ff1fe8
+
+You are a dietician invited to speak to a meeting of Overeaters Anonymous. What rhetorical approach should you use to build common ground with them? 
+~formative
+1. You should talk with them in a casual, informal tone, and work to build trust. Explain your purpose for being there without being patronizing. Make sure you use language that a general audience would understand, and work to build your credibility. *
+~feedback: Correct. All of these techniques would help build common ground.
+2. You should lecture them about their poor choices, and make sure they know you’re the authority on their poor choices. Explain that you are there to correct their ways, and give them instructions using formal, technical language. 
+~feedback: Incorrect. These actions would likely be seen as an attack, thereby decreasing the argument’s persuasiveness and failing to build common ground.
+3. You should lie about who you are and infiltrate the group in order to further your own dietetic clinic. You should exaggerate facts and play up your appeals to emotion in order to get the other members of the group to enlist your clinic’s services. 
+~feedback: Incorrect. These actions would decrease your credibility as a speaker rather than building common ground.
+
+Lisa is a first-year student who is working on a campus project to increase recycling in the fraternity and sorority houses. She has been invited to address the student body government about her ideas. The government has been very reluctant to pass measures in the past that add rules to Greek houses. What is Lisa’s best rhetorical approach in addressing the group?
+~formative
+1. Lisa should devote her energies to arguing that Greek houses haven’t have to abide by the same rules as do regular students and that it is time for that to change.
+~feedback: Incorrect. Approaching the situation from a negative perspective rather than a positive one is unlikely to win Lisa much support or to help her build common ground.
+2. Lisa should criticize members of the government for not caring about the school’s carbon footprint and bemoan their reluctance to enact more rules in the past.
+~feedback: Incorrect. Approaching the situation from a negative perspective rather than a positive one is unlikely to win Lisa much support or to help her build common ground.
+3. Lisa should emphasize the philanthropic aspect of fraternities and sororities and point out that enhanced recycling would give the Greek houses a chance to contribute positively to the community and campus while benefitting everyone in the long term because all students gain from a cleaner environment.*
+~feedback: Correct. Lisa can build common ground with both the student government and the Greek houses by highlighting how everyone gains from certain changes. Further, a positive tone is likely to help her cause. 
+
+Marcia is anticipating a difficult conversation with her parents in which she will be asking them to help her buy a car. She jots down a draft of what she might say and decides that the following sentences will be a way to build common ground: “Mom and Dad, I admire both of you so much. I know you both held jobs while you were in college to help out with expenses. You have told me so often how the time management skills you acquired by juggling the demands of work and school were so valuable to you. I would like to follow your lead and try to get a part-time job, too.” Do those sentences build common ground?
+~formative
+True*
+~feedback: Correct. By appealing to pathos and ethos (“admire”) as well as logos (acquiring time management skills), Marcia is building common ground.
+False
+~feedback: Incorrect. Think about the ways Marcia appeals to emotion, credibility, and logic.
+
+True or False: The following rhetorical approach would be effective in building common ground with a group of university administrators in your argument against the smoking ban:<p>You research each university administrator’s family and find members of their families who smoke. You locate pictures on social media of people close to the administrators smoking, and you plan to use this against them as you make your case that the smoking ban isn’t fair. You believe that shaming or embarrassing the audience is the best way to get them on your side.</p>
+~summative
+1. False*
+2. True
+
+Dean is a first-year student who is working on a campus project to increase ride-sharing among commuter students. He has been invited to address the student body government about his ideas. The government has been reluctant to pass legislation that addresses parking or transportation issues. What is Dean’s best rhetorical approach for making an argument? 
+~summative
+1. Dean should emphasize the hardship caused by students who commute long distances only to find that there are no parking spots for them. His argument should rely on logos (the number of parking spaces, the distance students drive, the environmental costs of driving around looking for parking) and pathos (students who are exhausted and stressed, students who have to spend too much money on gas).*
+2. Dean should berate the student government for their role in destroying the environment. He should shame them by pointing out how pollution comes from their personal vehicles. 
+3. Dean should go through each piece of legislation that the student government has passed so far this year and point out flaws. He should argue that passing a ride-sharing bill would be the only way the group could stay relevant on campus. 
+
+Which one of the sentences in the passage below does not build common ground:<p>Mom and Dad, I admire both of you so much. I know you both held jobs while you were in college to help out with expenses. You have told me so often how the time management skills you acquired by juggling the demands of work and school were so valuable to you. It’s also clear that you were still able to drink and party while you were working. I would like to follow your lead and try to get a part-time job, too.</p>
+~summative
+1. It’s also clear that you were still able to drink and party while you were working. *
+2. I know you both held jobs while you were in college to help out with expenses. 
+3. I would like to follow your lead and try to get a part-time job, too.
+4. You have told me so often how the time management skills you acquired by juggling the demands of work and school were so valuable to you.
+
+
+// Tile 4: Rebuttal and Refutation of Counter-argument 
+## 8.4 Evaluate strategies for rebuttal and refutation of counterargument
+Rebuttal and Refutation of Counterargument
+~ 017dcb21-bda5-4c3f-a1e2-7432dac3ad5f
+
+### 8.4.1 Recognize strategies for rebuttal and refutation of counterargument
+Recognize strategies for rebuttal and refutation of counterargument
+~ 41fddd1e-3ca6-4f6f-b322-9c80405766ca
+
+Which of the following is not normally a part of rebuttal/refutation in an academic argument?
+~formative
+1. Acknowledgement of opposing points of view
+~feedback: Incorrect. Writers wanting to rebut or refute claims need to acknowledge them first.
+2. Use of qualifying terms if necessary
+~feedback: Incorrect. Writers should use qualifying terms unless they can state their claims absolutely.
+3. Omission of facts that support a view opposing your main claim*
+~feedback: Correct. Writers should include facts that support views opposing their claim because it helps to be thorough in accurately representing those views in order to better rebut/refute them.
+
+Which of the following is not a qualifying term?
+~formative
+1. Normally
+~feedback: Incorrect. Remember that the opposite of a qualifying term is an absolute term, and “normally” isn’t absolute.
+2. Could
+~feedback: Incorrect. The word “could” is a qualifying term because it leaves room for doubt.
+3. All*
+~feedback: Correct. The word “all” is an absolute term because it leaves no room for exceptions.
+
+Which of the following is a key component of rebuttal/refutation?
+~formative
+1. Using a tone that doesn’t offend readers, even those who disagree with your claim*
+~feedback: Correct. Using a respectful tone is an important part of building your credibility as a writer.
+2. Making sure you win the argument using any means necessary
+~feedback: Incorrect. Academic argument is not about winning or losing. It is about thorough research and reasoned claims.
+3. Using better sources than the ones you use to present the counterargument
+~feedback: Incorrect. You want to use quality sources to present all perspectives in your argument. 
+
+Using a respectful tone that doesn’t offend others is an important part of rebuttal/refutation in academic argument?
+~summative
+1. True*
+2. False
+
+Accurately and fairly representing viewpoints that counter your own is a bad strategy for writing an academic argument?
+~summative
+1. True
+2. False*
+
+Having personal knowledge about a topic means you should be able to rebut/refute counterarguments without doing thorough research?
+~summative
+1. True
+2. False*
+
+### 8.4.2 Evaluate strategies for rebuttal and refutation of counter-argument
+Evaluate strategies for rebuttal and refutation of counter-argument
+~ 3bb70798-f71a-4bb7-8ef7-e9061870470b
+
+Hannah is writing an argument paper on why cosmetic companies should stop testing products on animals. She read a source that provided clear evidence showing how animal testing has saved thousands of human lives because scientists have been able to determine what products might cause illness or death in humans before they are sold to people. Which of the following options below is Hannah’s best way to rebut or refute the source?
+~formative
+1. She should acknowledge that there may be truth to the source’s claim but then offer realistic and credible alternatives to animal testing that would still benefit people.*
+~feedback: Correct. Remember that you don’t have to disprove a claim to rebut or refute it. 
+2. She should not include the source in her paper because it goes against her main point and would hurt her claims.
+~feedback: Incorrect. Remember that you don’t have to disprove a claim to rebut or refute it. 
+3. She should include the source in her paper but claim that it is not true because doing so would strengthen her own thesis.
+~feedback: Incorrect. Remember that you don’t have to disprove a claim to rebut or refute it. Also, it would be dishonest of Hannah to misrepresent a source, even if it presents information that isn’t convenient to her argument. 
+
+Sarah is working on her argument paper on why her campus should offer a pet-friendly dorm. Her friend at a different university posted online that she has her cat with her at school, which prompted Sarah to do some research. She found over twenty .edu websites online with pet-friendly housing options, but she couldn’t find any numbers suggesting the total number of four-year schools with such policies. She is now working on her section where she is refuting/rebutting claims that pets are a distraction to students, especially in the first year of their post-secondary education, and are a bad idea on campuses. Which of the following is her best option for phrasing in her paper?
+~formative
+1. Most colleges and universities in America offer pet-friendly living options for students.
+~feedback: Incorrect. The word “most” implies at least a majority of schools, and Sarah doesn’t have evidence that this is true.
+2. Many colleges and universities in America offer pet-friendly living options for students.*
+~feedback: Correct. The word “many” is much safer than the other options here because it implies more than a few schools without giving an exact number or implying a majority.
+3. Colleges and universities in America offer pet-friendly living options for students.
+~feedback: Incorrect. This is tricky. Even though the statement here is technically correct, it is misleading because readers may think the lack of a qualifying word means that “all” colleges and universities offer pet-friendly living options. Words like “many” or “several” make the statement much more precise and honest.
+
+Xavier is revising his argument paper because he received feedback that his coverage of counterargument is insufficient. His thesis statement is that football stadiums in the SEC should be allowed to feature alcohol sales. He just found a credible source with numbers proving that the frequency of fights and arrests is higher at college sporting events where alcohol is sold. The source goes on to suggest that no additional college stadiums should feature alcohol sales because of the findings. Which of the following is the best way for Xavier to incorporate but rebut/refute the source?
+~formative
+1. Xavier should include the numbers from the source but claim that the study shows mostly examples from schools in the North, so the results don’t apply at SEC schools.
+~feedback: Incorrect. The results of the study likely have nothing to do with region of the country. Claiming such could hurt Xavier’s credibility.
+2. Xavier should include the numbers from the source, acknowledging that an increase in drunkenness and rowdy behavior may result from alcohol sales, but suggest the extra revenue could cover increased security and still include large profits for the schools.*
+~feedback: Correct. The source is definitely worth including, so Xavier’s best bet is to acknowledge and accommodate the information and then rebut/refute the claim about expanding alcohol sales to other campuses.
+3. Xavier should not include the source in his paper because the findings of the study are problematic to his own main claim.
+~feedback: Incorrect. Excluding valid information from the work just because it differs from his own claim is not going to help Xavier’s credibility, and it leaves his paper open to an easy counterargument.
+
+Chase is a first-year student who served in Afghanistan after high school and is now returning to school. He is writing an argument paper claiming that the military should arm active-duty soldiers with a less expensive weapon than the one being used currently. Chase owns several weapons and is quite familiar with the specifications and prices of many models. He knows that lobbyists for one of the government weapons contracts made a strong pitch recently to keep their gun as the standard issue for troops, so he is writing a section rebutting some of the information they presented. Which of the following is his best path?
+~summative
+1. Chase should rely on his high knowledge of weapons to write the rebuttal/refutation. He has personal experience that will guide him through the argument.
+2. Chase’s personal experience does not matter in an academic argument. He needs to find other voices to put his thoughts into words.
+3. Chase should use his personal knowledge to help him, but he should also check his information and find source material that might assist in making his claims.*
+
+Sean is writing an argument essay claiming that violent games do not cause children to become more aggressive. He is incorporating a source from a journal on adolescent behavior which asserts male children between 9-13 who play violent video games participated in more aggressive acts over a two-month observation period than did male children the same ages who did not play violent video games. Sean has acknowledged the study, but he is now rebutting the source, noting that there isn’t much information about the subjects’ home lives. Which of the following is the best option for a sentence in his rebuttal?
+~summative
+1. Though the study reveals some troubling data, the researchers purposely ignored providing information about the children’s home lives so that video games looked like the culprit.
+2. Though the study reveals some troubling data, the article does not provide complete information on the children’s home lives, which may have shed more light into their behavioral patterns.* 
+3. Though the study reveals some troubling data, the article was published in an academic journal by liberal researchers who want to ban violent video games. 
+
+Denise has been reading up on vaccinations and how some parents choose not to immunize their children. She just read a source about a town in California that suffered a measles outbreak due to many children in the local school system not being vaccinated. She is incorporating information from this source into her paper to rebut claims from another source that says children who are not vaccinated are safer. Which of the following is the best option for a sentence in her rebuttal?
+~summative
+1. Children need to be vaccinated because outbreaks may occur within communities if enough people aren’t immunized.*
+2. Children need to be vaccinated because outbreaks will occur within communities if enough people aren’t immunized.
+3. Children need to be vaccinated because outbreaks always occur within communities if enough people aren’t immunized. 
+
+
+
+
+
+
+
+// Module: Evaluating Sources    
+
+# 9 Evaluate the quality and reliability of sources    
+Evaluating Sources
+~ 71a3b17c-4086-460c-a1ac-8b6a2f8bd33b
+ 
+// Tile 1: Types of Sources  
+## 9.1 Differentiate types of sources  
+Types of Sources 
+~ 0b383627-3eef-402a-84c5-e810c10f7054
+
+
+### 9.1.1 Differentiate types of sources  
+Differentiate types of sources  
+~ 1796102e-af0d-4eda-9119-231ee63c7607
+
+The term “print source” means that you accessed the printed version of a source.
+~formative
+1. True
+~feedback: Incorrect. A print source is one which has been published in a printed version, but many print sources are also available online and may be accessed online.
+2. False*
+~feedback: Correct. A print source is one which has been published in a printed version, but many print sources are also available online and may be accessed online.
+
+Which of the following is an example of a “multimedia” source based on this module’s definition? 
+~formative
+1. Google’s <a href=”https://searchingforsyria.org/en/”>interactive photo essay</a> about the refugee crisis in Syria that includes images, videos, and audio.*
+~feedback: That’s correct. Even without following the link, you know from the context that this source is more than just text. It involves multiple forms of media, and would be a good multimedia source to use in a research project. 
+2. A text-only article on <em>The Huffington Post</em> called “Betsy DeVos Visits Science Fair, Refuses To Talk About Climate Science.” 
+~feedback: That’s incorrect. Even though other content from <em>The Huffington Post</em> could be considered multimedia, a text-only article is just a regular online source. 
+3. Jacques Mattheij’s <a href=”https://jacquesmattheij.com/no-politics-please-we-are-hackers-busy-improving-the-world”>blog post</a> about software development, ethics, politics, and activism. 
+~feedback: That’s incorrect. Most blog posts would be considered typical online sources, even if they use some pictures. The medium is mostly textual. 
+
+Which types of source should you use for your research project?
+~formative
+1. Print, Online, and Multimedia*
+~feedback: That’s right. Research is contextual, and any type of source can have a specific use in your project. The key is to evaluate the source for its relevance to your own project.
+2. Print and Online, but not multimedia
+~feedback: That’s not right. Research is contextual, and any type of source can have a specific use in your project. The key is to evaluate the source for its relevance to your own project. Multimedia sources can be very relevant to your research.
+3. Print only 
+~feedback: That’s not right. Research is contextual, and any type of source can have a specific use in your project. The key is to evaluate the source for its relevance to your own project. Print sources are not automatically relevant just because they’re print. 
+
+The term “print source” means…
+~summative
+1. One which has been published in a printed version, but many print sources are also available online and may be accessed online.*
+2. One which is accessible only on paper.
+3. One which you must be able to print out in order to use it. 
+
+Which of the following is an example of an “online source” based on this module’s definition? 
+~summative
+1. Kairos, the online peer-reviewed journal of digital writing studies.*
+2. Computers and Writing, the printed journal of digital writing studies.
+3. Both.
+4. Neither. 
+
+True or False: You should never use YouTube videos as sources. 
+~summative
+1. False* 
+2. True
+
+// Tile 2: Evaluating Print Sources  
+## 9.2 Evaluate methods to assess the quality of print sources  
+Print Sources
+~ 416b9c5f-f1f8-4124-8059-d75fc3af4fc3
+
+
+### 9.2.1 Apply the CRAAP analysis method to evaluate print sources  
+Apply the CRAAP analysis method to evaluate print sources  
+~ 7e0010ed-1c9f-41c9-9b6b-1dda18c00579
+
+While researching a paper on the decline of the coal industry, a student finds a 2016 study quantifying U.S. coal reserves, written a team of Georgia Tech geology professors and published in the academic journal, <em>Marine and Petroleum Geology</em>. This source meets the criteria of “authority” in the student’s CRAAP analysis because:
+~formative
+1. Georgia Tech has a highly regarded school of geological engineering, and <em>Marine and Petroleum Geology</em> is a highly regarded journal in the field of geology.*
+~feedback: Correct. The key question for “authority:” Is the person, organization, or institution responsible for the content of the print source knowledgeable in that subject?
+2. The study is related to the student’s topic.
+~feedback: Incorrect. While the study does meet the demand of “relevance” by being related to the student’s topic, it does not meet the demand of “authority.” Remember the key question for “authority:” Is the person, organization, or institution responsible for the content of the print source knowledgeable in that subject?
+3. The study is from 2016.
+~feedback: Incorrect. While the study does meet the demand of “currency” by being up-to-date, it does not meet the demand of “authority.” Remember the key question for “authority”: Is the person, organization, or institution responsible for the content of the print source knowledgeable in that subject?
+
+While researching a paper on the causes of human-influenced climate change, a student receives in her mail a Green Party candidate’s campaign flier, which includes some uncited statistics about human-induced climate change. After performing a CRAAP analysis, she decides not to use the source because:
+~formative
+1. The source is not related to the paper topic, so it does not satisfy the relevance criteria.
+~feedback: Incorrect. The flier is related to the student’s topic so it meets the criteria of relevancy. 
+2. The source is not a print source. 
+~feedback: The flier is a print source. Remember that a print source is a source that has been published in print.
+3. The purpose of the flier is candidate advocacy so it is subject to bias and the authority of the information is in question because the source of the statistics is uncited.*
+~feedback: Correct. The flier does not meet the criteria of purpose and authority.
+
+Lily is writing a paper on the influence of the media on body image in teenage girls. She finds an article in a recent edition of <em>The Los Angeles Times</em> about cyber bullying among teenage girls. She reads the article and sees no mention of body image. After performing a CRAAP analysis, she decides to look for a different source because
+~summative
+1. The article does not meet the currency criteria.
+2. The article does not meet the relevance criteria. *
+3. The article does not meet the authority criteria.
+
+While researching a paper about the history of rule changes in the NBA, Mark reads a column in a February 2013 issue of <em>Sports Illustrated</em>, written by LeBron James, about the 1979 adoption of the three point line. While performing a CRAAP analysis, Mark decides the article does meet the criteria of <em>authority<em> because
+~summative
+1. The article was written in 2013.
+2. The article is related to the paper topic.
+3. LeBron James is a professional basketball player, and <em>Sports Illustrated</em> is a nationally-recognized sports magazine.*
+
+Brook is researching a paper on the influence of climate change on rising sea levels. Her roommate gives her a pamphlet from her church that tells the creation story from Genesis. Brook thanks her roommate but decides not to use the pamphlet. She tells her roommate that the article does not meet the <em>purpose<em> criteria because
+~summative
+1. The pamphlet cites the Bible.
+2. The pamphlet has some typos.
+3. The pamphlet is written for spiritual seekers.*
+
+A 1986 study of prenatal birth defects would be a current source for a paper about the fluctuation in birth defect statistics in the 21st century.
+~summative
+1. True.
+2. False.*
+
+An advertisement for a heating and cooling company would be a credible source for a paper on the causes of human-influenced climate change. 
+~summative
+1. True.
+2. False.*
+
+A recent research study on the effects of inherent bias by a team of Harvard sociologists which is published in a peer-reviewed academic journal would be a credible source for a paper on how inherent bias influences actions.
+~summative
+1. True.*
+2. False
+
+// Tile 3: Evaluating Online Sources  
+## 9.3 Evaluate methods to assess the quality of online sources  
+Online Sources
+~ a09c5a0c-6128-4330-b55f-f0759a09137d
+
+
+### 9.3.1 Apply the CRAAP analysis method to evaluate online sources  
+Apply the CRAAP analysis method to evaluate online sources  
+~ 5dbda362-a830-416e-a5bd-dad69ce14b68
+
+Which of the following is the best indicator that your online source has currency?
+~formative
+1. There is a date of two months ago on the part of the information you want to use.*
+~feedback: Correct. Unless you were researching something extremely recent and rapidly changing, information that is about two months old is usually very recent.
+2. There is information on the front page that the website was founded in 2017.
+~feedback: Incorrect. When the website was founded usually wouldn’t have any bearing on particular pieces of information you may need to cite. 
+3. There is no date listed on your website.
+~feedback: Incorrect. More reliable sources will usually have date information, even if it is just a year.
+
+You are researching your paper topic, which is about how the majority of Americans approve of gay marriage, when you come across an article on the online publication HuffPost dated four months ago with statistics from a survey conducted by the Gallup Poll. Which of the following best describes how you should evaluate this source?
+~formative
+1. You should feel free to use the numbers after you have verified them to make sure nothing was used out of context.*
+~feedback: Correct. Even if some people feel like a source may contain bias, if you can verify information in multiple places and determine that it is reliable, you should feel comfortable using it.
+2. You should skip using this source because there is no print version of the HuffPost.
+~feedback: Incorrect. Sources do not need to be available in print to be accurate or reliable.
+3. You should avoid using this source because the information is from four months ago.
+~feedback: Incorrect. Four months is not a long time when dealing with huge cultural and social issues where opinions may take long periods of time to shift. The information still has plenty of currency, and you should use it if it helps your point. 
+
+You are researching your paper on teenage pregnancy and you find a .gov website that has statistics on which states have the highest teen pregnancies per capita. Which of the following best describes how you should evaluate this source?
+~formative
+1. You should feel free to use the statistics in your paper after you have tried to verify them to make sure they sound accurate and reliable. *
+~feedback: Correct. Government websites usually provide objective data and information collected from knowledgeable people with authority in their areas.
+2. You should not use the source until you can verify the information in a print source.
+~feedback: Incorrect. Though you always want to try to verify information, it does not need to come from a print source to be accurate and reliable.
+3. You should not use this source because government websites are unreliable.
+~feedback: Incorrect. Government websites are generally great places to go to ensure authority and accuracy because people need certain levels of expertise to post.
+
+You are researching a paper on how often Hollywood casts minorities in starring roles when you come across the online blog of a famous director who writes about how he loves to cast Latina women in powerful roles. Which of the following best describes how you should evaluate this source?
+~summative
+1. You should use the information in your paper because the director is an authority in this area.*
+2. You should not use the source because blogs are not reliable sources.
+3. You should not use the source because it is not relevant enough to your topic.
+
+You are researching a paper on how more concussions are being diagnosed in college football each year when you find a source from ESPN on the number of total season-ending injuries sustained two season ago. After you apply the CRAAP analysis, your best choice is:
+~summative
+1. You should not use the source because total injuries is far broader than concussions, so the source may not be relevant.*
+2. You should not use the source because it is not current enough.
+3. You should not use the source because ESPN is not an authority on college football.
+
+You are researching a paper on sanctuary cities when you find a website with an article written by a Sociology professor. The article has numbers on how sanctuary cities have fewer violent crimes than non-sanctuary cities. When you research the site further by looking up who hosts the site, you discover that it is an openly left-leaning organization. After you apply the CRAAP analysis, your best choice is:
+~summative
+1. Try to find the information somewhere that might be considered more objective so that your readers don’t assume bias.*
+2. Use the information in your paper. Statistics are numbers and are thus objective.
+3. Avoid using the information in your paper because the author lacks authority. 
+
+You are writing a paper on how modern politicians interpret a constitution written by citizens well over 200 years ago when you encounter a state senator’s website with a quote by Thomas Jefferson. The site doesn’t provide a citation for the Jefferson quote, but you think it fits your work perfectly. After you apply the CRAAP analysis, your best choice is:
+~summative
+1. Avoid using the quotation unless you can verify it and properly cite it.*
+2. Use the quotation and cite the senator’s website as the source.
+3. Avoid using the quotation because of problems with currency. 
+
+A website ranking colleges and universities on affordability would be a good source in your paper about which majors students should seek out in the next ten years to ensure employment and good pay.
+~summative
+1. False*
+2. True
+
+A small, local publication puts out a weekly online-only newspaper. The latest issue features profiles and interviews with the two candidates for the open state representative position. This would make a good source for your paper on local elections.
+~summative
+1. True*
+2. False
+
+An online article from five years ago on the trendiest fashion styles for young men would make for a current source.
+~summative
+1. False*
+2. True 
+
+// Tile 4: Evaluating Multimedia Sources   
+## 9.4 Evaluate methods to assess the quality of multimedia sources  
+Multimedia Sources
+~ 701954da-91a2-48b0-84ef-3c6301293c0d
+
+
+### 9.4.1 Apply the CRAAP analysis method to evaluate multimedia sources  
+Apply the CRAAP analysis method to evaluate multimedia sources  
+~ f6646892-3733-4a6f-8644-690ac11a4e60
+
+
+While studying recent breakthroughs in autism research, James finds a news clip from 1978 in which a doctor is interviewed about his research about the causes of autism. This is a poor source for James to use because…
+~formative
+1. Currency is important to James’s research, and an interview from 1978 would not provide current information about research into the causes of autism.*
+~feedback: That’s correct. Unless James was researching the changes in beliefs about the causes of autism, a source this old would not be useful. 
+2. The doctor being interviewed is not an authority on the subject of autism. 
+~feedback: That’s incorrect. Whether the doctor is an authority in 1978 is besides the point: the source is too old to use for James’s research. 
+3. The source is irrelevant to the subject of James’s research.
+~feedback: That’s incorrect. James is studying recent breakthroughs in autism research. This would be a useful source if it were current. 
+
+Which of these examples is a source with authority to address the use of fidget spinners as a coping tool for ADHD patients?
+~formative
+1. Dr. JoAnn Comey, a pediatrician with several publications in child psychiatry journals, explains why ADHD patients can use objects like fidget spinners to reduce their anxiety in an informational video for a psychiatrist’s office.*
+~feedback: That’s correct. Dr. Comey has the authority to speak on this subject because of her expertise and her background.
+2. John T. McBlytheville, the president and C.E.O of Fidgets 4 U, Inc., claims in a video advertisement that his fidget spinners can reduce anxiety in children with ADHD by 98%. 
+~feedback: That’s incorrect. Though Mr. McBlytheville has expertise about fidget spinners, he also has a bias: he wants to sell his products. He also does not have the background to make statements about psychological efficacy. 
+3. SuperDadAlexander, a popular YouTube user, posts a video of his child, Sue Ann Alexander (who has a temper and an ADHD diagnosis) destroying the dining room at Golden Corral. When she is given a fidget spinner, she sits down and quietly returns to her pudding with the fidget spinner in hand.
+~feedback: That’s incorrect. Anecdotal experience is not sufficient evidence for authority. There are too many other variables at play in this source for it to be considered credible. 
+
+True or False: A podcast about grave robbers in Woolsey, Georgia could be a good source to use for a research project about the history of grave robbery in the American South. 
+~formative
+1. True*
+~feedback: That’s correct. This podcast could provide relevant information for the research project, especially if it discusses historical context.
+2. False
+~feedback: That’s incorrect. Though you can’t be certain of its usefulness, it’s very clear that the source is relevant to the research project. 
+
+Why is currency important for a multimedia source?
+~summative
+1. Multimedia sources can become outdated quickly, so it is important to check the publication date when determining a source’s relevance.*
+2. Newer sources are alway better than older sources, regardless of the topic. 
+3. Multimedia sources must be valued in specific denominations of currency in order to be valid for research. 
+
+A vlog by YouTuber SuperDadAlexander is a good source to learn about parenting techniques just because he has a high view count. 
+~summative
+1. False*
+2. True
+
+Which of the following would be a bad multimedia source to use in a paper about alcoholism on college campuses?
+~summative
+1. An Instagram video collection from the TotalFratMove account showcasing the most popular drinking-related videos of the year.*
+2. A PSA from the University’s health department about the dangers of alcohol abuse by college students. 
+3. A documentary on Netflix about alcoholism on college campuses. 
+
+Which answer is a fair evaluation of this statement: I am writing a research paper about the history of grave robbing in Georgia. I come across a podcast by a group of historians from Fayette County, Georgia about grave robbing in Woolsey, Georgia in the 1990s. This is an excellent source to use for my paper. 
+~summative
+1. This is sound reasoning, because the authors of the podcast have some authority on the subject, it is current to your research topic (historical events), and there is likely not a better source that explains grave robbing in Woolsey in the 1990s. *
+2. This is poor reasoning. Podcasts are never reputable sources of information because they are usually free and can be accessed from mobile devices. Real historians would only share their knowledge in peer-reviewed journal articles.
+3. This is sound reasoning because people from Fayette County, Georgia are experts about what happened in Woolsey in the 1990s.
+
+
+
+
+
+// Module: Using Souces
+
+# 10 Define and Evaluate Using Sources 
+Using Sources
+~ 6f111bd4-942d-4d61-8262-2c2f9009cd7e
+
+## 10.1 Identify the conventions of source integration
+Integrating Source Material
+~ d8543e5c-8990-499c-9fd5-04edf86d6d84
+
+// Module: Using Sources
+// Tile: Integrating Material from Sources
+// Skills: Identify the five components of the source sandwich. 
+// quiz 
+
+
+### 10.1.1 Identify the five components of the “source sandwich”
+Identify the five components of the “source sandwich”
+~ 4f358872-fa0a-4c4f-93e8-349c0d706bd6
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>Which of the following contains a signal phrase?</p>
+~formative
+1. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans.” *
+2. Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary.
+3. Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions. 
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>Where does the writer transition to using a source?</p>
+~formative
+1. Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary.*
+2. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans.” 
+3. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season.
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>Which part of the passage explains the relevance of the source to the writer’s thesis?</p>
+~formative
+1. Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions. 	*
+2. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans.”
+3. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election.
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>The phrase “the study also indicated that” is an example of</p>
+~summative
+1. a signal phrase*
+2. a transition
+3. a citation	
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>Consider the first sentence: “Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary.” This sentence serves as a(n)</p>
+~summative 
+1. transition and introduction to the source*
+2. paraphrase of important information
+3. explanation of the relevance of material to the author’s argument 
+
+<p>Read the following passage:</p><p>Although most people are confident that they could not be fooled by a fake news article, research shows evidence to the contrary. Economists Hunt Allcott and Matthew Gentzkow conducted an experiment to see if people believed fake articles that the researchers had created themselves. They called these articles “placebo” fake news articles. They surveyed people and asked them if they could recall seeing the article in question reported or discussed prior to the election. The researchers found that some participants claimed they had heard the “placebo” articles mentioned during the election season. However, the study also indicated that “most widely circulated hoaxes were seen by only a small fraction of Americans” (Crawford). Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.</p><p>Consider the following passage and determine what role it plays: “Despite the narrow viewership of fake news articles, they do have the power to influence at least some readers’ beliefs and possibly influence those readers’ actions.”</p>
+~summative
+1. The passage explains the relevance of the source to the writer’s thesis.*
+2. The passage shows the writer transitioning to using a source.
+3. The passage demonstrates the writer’s use of a signal phrase.
+
+
+
+## 10.2 Evaluate applications of paraphrase, summary, and quotation
+Using Paraphrase, Summary, and Quotation 
+~ c33c7df2-6289-458b-9cbb-5721cac9d4f3
+
+// Module: Using Sources
+// Tile: Using Paraphrase, Summary, and Quotation
+// Skills: Differentiate among paraphrase, summary, and quotation.
+// quiz 
+
+
+### 10.2.1 Differentiate among paraphrase, summary, and quotation
+Differentiate among paraphrase, summary, and quotation
+~ 0b09a4b7-f482-490f-9089-67eced6356ab
+
+<p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected," Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Selfe, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
+~formative
+Which of the following is an example of direct quotation?
+1. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).*
+~feedback: Correct. The phrase “as firm as bedrock, and just as difficult to remove” is original language from the source. The writer chose to incorporate this direct quotation because Seife’s metaphor concisely and cleverly captures an important point.
+2. In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.
+~feedback: Incorrect. In this passage, the writer is summarizing Seife’s article, noting just the author’s main points.
+3. As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife, 290-91).
+~feedback: Incorrect. In this passage, the writer is paraphrasing an extended example from Seife’s article, maintaining the main points and including several details.
+
+<p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
+~formative
+Which of the following is an example of paraphrase?
+1. As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290–91).*
+~feedback: Correct. In this passage, the writer is paraphrasing an extended example from Seife’s article, maintaining the main points and including several details.
+2.According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).
+~feedback: Incorrect. In this passage the author is directly quoting from the article, using the author’s original language.
+3. In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.
+~feedback: Incorrect. In this passage, the author is summarizing Seife’s article, noting just the main points.
+
+<p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Selfe, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290). As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
+~formative
+Which of the following is an example of summary?
+1. In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.*
+~feedback: Correct. In this passage, the author is summarizing Seife’s article, noting just the main points.
+2. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).
+~feedback: Incorrect. In this passage the author is directly quoting from the article, using the author’s original language.
+3. As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290–91).
+~feedback: Incorrect. In this passage, the writer is paraphrasing an extended example from Seife’s article, maintaining the original points and including several details.
+
+<p>Read the following passage and choose from the options below:</p><p>In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.</p>
+~summative
+1. This is an example of summary.*
+2. This is an example of direct quotation.
+3. This is an example of paraphrase.
+
+<p>Read the following passage and choose from the options below:</p><p>As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife, 290–91).</p>
+~summative
+1. This is an example of paraphrase.*
+2. This is an example of summary.
+3. This is an example of direct quotation.
+
+<p>Read the following passage and choose from the options below:</p><p>According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).</p>
+~summative 
+1. This is an example of direct quotation.*
+2. This is an example of summary.
+3. This is an example of paraphrase.
+
+// Module: Using Sources
+// Tile: Using Paraphrase, Summary, and Quotation
+// Skills: Evaluate application of paraphrase, summary, and quotation
+// quiz
+
+
+### 10.2.2 Evaluate application of paraphrase, summary, and quotation
+Evaluate application of paraphrase, summary, and quotation
+~ 544089b6-4d80-443d-9f75-315ffc77d362
+
+<p>A classmate comes to you for advice on an essay she has written. The instructor told her to revise the paper and use fewer direct quotations in the next draft. However, your classmate doesn’t want to lose the details from the source she is citing. You advise her to:</p>
+~formative
+1. Paraphrase and cite the significant parts of the article.*
+~feedback: That’s right! Concise, clear paraphrase ensures that more of the paper is in the classmate’s own voice. 
+2. Put all the quotations into her own words and add new details.
+~feedback: That’s incorrect. Some direct quotations may be necessary, and there is more to paraphrasing than simply changing the words. 
+3. Summarize and cite the entire article.
+~feedback: That’s incorrect. Summaries use fewer details than paraphrases or direct quotations. 
+
+<p>Read the following passage and a paraphrase of it. How would you evaluate the paraphrase?</p><p>Original: ”There is, in fact, a nearly universally accepted logical and rhetorical structure to mathematical exposition. For over two millennia serious mathematics has been presented following a format of definition-theorem-proof. Euclid’s <em>Elements</em> from circa 300 BC codified this mode of presentation which, with minor variations in style, is still used today in journal articles and advanced texts” (Jamison 46)”</p><p>Paraphrase: Mathematical exposition has a galactically believed rhetorical and logical foundation. For over two thousand years, difficult mathematics has been shown to adhere to a format of definition-theorem-proof. Euclid wrote <em>Elements</em> in 300 BC and talked about this method of math that math professors still write about these days in academic research. (Jamison 46)</p>
+~formative
+1. This is not a good paraphrase. It follows the word order of the original source too closely and merely changes the author’s words to their synonyms. The paraphrase is actually less clear than the original text. *
+~feedback: Correct! 
+2. This is a good paraphrase. It changes all the words from the original text and does not plagiarize the author’s ideas. It is also strong because it is equal in length to the original. 
+~feedback: That’s incorrect. Paraphrase should make the content clearer than the original text and simply choosing synonyms of the author’s words may change the meaning of the passage. 
+3. This is not a good paraphrase. It does not add the writer’s opinions and argument to the author’s original claim. 
+~feedback: That’s incorrect. A paraphrase should not change the meaning of the author’s original text. 
+
+
+Which of the following is an appropriate use of summary?
+~formative
+1. As part of your research paper, you are writing an annotated bibliography of 5 sources. Each of your sources is between 15 and 20 pages, and you write five sentences for each one that describe the author’s key points. *
+~feedback: Correct! 
+2. You are assigned to write a critical review of a book. Your approach is to write the “SparkNotes” version of the book, condensing each chapter by about 80%. You are careful not to make any new claims about the book. 
+~feedback: That’s incorrect. A <en>critical</em> book review should contain both summary and your own claims and evaluation of the text. 
+3. Your research paper should include citations from at least 5 sources. You do not have time to read the fifth article to find a specific passage to paraphrase or quote. Instead, you simply write about the article generally based on what the abstract says. 
+~feedback: That’s incorrect. Summary is not a useful shortcut, and you may miss important nuances if you don’t read the full source. 
+
+<p>What is the best advice you could offer your classmate for paraphrasing the following quote?</p><p>“There are surprisingly few methods of causing something to move. With a couple of exceptions, everything starts out going around and around, and then that circular motion gets turned into some other path as needed. That being said, there is often some other thing you might want your robot to do that isn't, strictly speaking, movement related, and all that goes into actuation” (Geiger).</p>
+~summative
+1. Start by putting the thesis into your own words; then list out the main ideas from the quote. Use quotation marks and cite the source if you borrow any phrasing. Expect your paraphrase to be about as long as the original.*
+2. Start by identifying the thesis statement. Then make sure that you get only the main ideas, so you can keep this really short. Don’t use any words from the original.
+3. Start by putting the thesis into your own words; then give your interpretation of the material. Highlight the points you find most interesting. Add quotes and citations when you make comments.
+
+<p>Which of the following is a good paraphrase of the following passage? </p><p>”The third feature that distinguishes mathematical from ordinary language, one which causes enormous difficulties for students, is its precision. Ordinary speech is full of ambiguities, innuendoes, hidden agendas, and unspoken cultural assumptions” (Jameson 47).”
+~summative
+1. Its precision distinguishes mathematical language from everyday conversation. This feature is very challenging to students. Everyday conversation is full of nuance, metaphor, bias, and cultural assumption, while mathematical language avoids these. *
+2. Students have a hard time with the precision of math articles. They are used to talking in slang, while as math is supposed to be boring and dry. 
+3. This quotation should not be paraphrased because the idea it expresses is already as clear as it can be. 
+
+Which of the following is <strong>not</strong> an appropriate use of summary? 
+~summative 
+1. You are assigned to write an argument about the cultural impact of a short story. You write a paper simply condensing the story to its main ideas and removing extra details without making a new claim.* 
+2. You are writing an annotated bibliography of 5 article for your final research paper. Each of your articles is between 10 and 15 pages, and you write six sentences for each one that describe the author’s key points.
+3. For your science class, you are assigned to write a concise lab report documenting your experiment. You write a short paragraph including the steps you undertook and then briefly describe the results.  
+
+
+## 10.3 Identify the conventions of citation and references.
+Citing Sources
+~ 1e6b30c2-3b11-41c5-930b-a475ae8cf511
+
+// Module: Using Sources
+// Tile: Citing Sources
+// Skills: Identify the conventions of citation and references
+// quiz 
+
+// Hanging indents are somewhat important here, but without adding in-line style or CSS I am not sure how to do it.
+
+
+### 10.3.1 Identify the conventions of citation and references
+Identify the conventions of citation and references
+~ 62683967-574b-4beb-8dc3-33e6a89957ac
+
+
+<p>Identify the error in the following citation:</p><p>Jay David Bolter and Richard Grusin. Remediation: Understanding New Media. Cambridge: MIT Press, 1999.</p>
+~formative
+1. The word order of the author’s name should be “Bolter, Jay David.”*
+~feedback: That’s correct. Because the works cited page is alphabetical by author last name, the last name should come first in the citation. 
+2. Understanding New Media should be underlined.
+~feedback. Incorrect. According to the most recent MLA style guide, titles of books and periodicals should be italicized. 
+3.  The city of publication should come after the name of the published (MIT Press, Cambridge). 
+~feedback: Incorrect: The city of publication always comes first.
+4. There is nothing wrong with this citation.
+~feedback: Incorrect. Take a look at the citation’s word order. 
+
+What citation is in the correct order?
+~formative
+1. Hudson-Smith, Andrew, Michael Batty, Andrew Crooks, and Richard Milton. “Mapping for the Masses: Accessing Web 2.0 Through Crowdsourcing.” Social Science Computer Review, 27, 2009, pp. 524-538.*
+~feedback: Correct!
+2. Hudson-Smith, Andrew, Michael Batty, Andrew Crooks, and Richard Milton. Social Science Computer Review,  “Mapping for the Masses: Accessing Web 2.0 Through Crowdsourcing,” 27, 2009, pp. 524-538.
+~feedback: That’s incorrect. The title of an article should always come before the title of a journal.
+3. Hudson-Smith, Andrew, Michael Batty, Andrew Crooks, and Richard Milton. (2009). “Mapping for the Masses: Accessing Web 2.0 Through Crowdsourcing.” Social Science Computer Review, 27, pp. 524-538.
+~feedback: That’s incorrect. The year goes after the author’s name(s) in APA style, but in MLA it goes closer to the end of a citation. 
+
+<p>What is the correct revision of the following incorrect citation?</p><p>David Beer, Roger Burros. (Sept. 2007)  Sociology and, of, and in Web 2.0.: Some Initial Considerations. Vol. 12  “Sociological Research Online,” issue 5. </p>
+~formative
+1. Beer, David & Roger Burrows. “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, September 2007, n.p.*
+~feedback: That’s correct! 
+2. Beed, David & Roger Burrons.” (2007). “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, n.p.
+~feedback: That’s incorrect. Remember that MLA style places the date closer to the end of a citation. 
+3. David Beer & Roger Burrows. “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, September 2007, n.p.
+~feedback: That’s incorrect. Remember that MLA style citations should be organized alphabetically by author last name. 
+
+Which citation has the year of publication in the correct position? 
+~summative
+1. Bolter, Jay David & Richard Grusin. Remediation: Understanding New Media. Cambridge: MIT Press, 1999.* 
+2. Bolter, Jay David & Richard Grusin (1999).  Remediation: Understanding New Media. Cambridge: MIT Press.
+3. Bolter, Jay David & Richard Grusin. Remediation: Understanding New Media. 1999.  Cambridge: MIT Press.
+        
+Which citation of a journal article has the required components? 
+~summative
+1. van Dijck, Jose. “Users like you? Theorizing agency in user-generated content.” Media, Culture, and Society, Vol. 31, 2009, pp. 41-58.*
+2. van Dijck, Jose. “Users like you? Theorizing agency in user-generated content,”, Vol. 31, 2009, pp. 41-58.
+3. van Dijck, Jose. (University of Mississippi). “Users like you? Theorizing agency in user-generated content.” Media, Culture, and Society, Vol. 31, 2009, pp. 41-58.
+
+<p>True or False: The following citation is incorrect: </p><p>Beer, David & Roger Burrows. “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, September 2007, n.p. </p>
+~summative
+1. False*
+2. True
+
+
+### 10.3.2 Interpret the conventions of citation and references
+Interpret the conventions of citation and references
+~ 740b5d99-744c-4ceb-9225-1ad7749e0147
+
+
+<p>Does the citation below have an error? If so, how does the error take away from the meaning of the citation? </p><p>Hopmann, David N., et al. "Contagious Media Effects: How Media use and Exposure to Game-Framed News Influence Media Trust." EBSCOhost, vol. 18, no. 6, 2015., pp. 776. </p>
+~formative
+1. EBSCOHost is the name of a database, not a journal. Journal articles can be accessed by many different databases, but without the title of the journal, a reader may have a hard time finding the original article.* 
+2. The year of publication, 2015, should come after the author’s name in order for the citation to have correct MLA style. 
+3. The author “et al” should come before “Hopmann, David N.” because authors should be listed alphabetically. 
+4. There is nothing wrong with this citation. 
+
+<p>Does the citation below have an error? If so, how does the error take away from the meaning of the citation?</p><p>"Do Citizens (not Police Officers) with Guns Ever Stop Mass Shootings?" The Washington Post., n.d. Web. 03 Nov. 2016.</p>
+~formative
+1. The error is n.d., signifying “no date.” The Washington Post is a daily newspaper, and newspaper articles will always be associated with a date. The date of publication is important in news articles because they are time-sensitive.*
+2. The error is that “Washington Post” should not be italicized.  Titles of full-length works, like newspapers, should be in quotation marks.  This distinction is important because readers may need to know what type of publication this article comes from.
+3. The error is no author is listed.  All newspaper articles list authors.  Without knowing the author, it would be difficult to find the article.
+4. There is nothing wrong with this citation.
+
+<p>Does the citation below have an error? If so, how does the error take away from the meaning of the citation?</p><p>Professor of Economics, Rhodes University, Snow, Jen. "Why Art and Culture Contribute More to an Economy than Growth and Jobs." The Conversation. N.p., 19 Jan. 2016. Web. 28 Oct. 2016.</p>
+~formative
+1. The error is in the author’s name. The author’s title, Professor of Economics at Rhodes University, should not appear in the Works Cited entry.  The author’s name should appear first in the entry because that ensures that the source is easily searchable. In addition, knowing the author’s title may not be relevant as, for instance, the author may have moved on to a new position.*
+2. The error is in the order.  The title of the publication should come before the title of the article.  This is important because most databases search by publication rather than title.
+3. The error is in the punctuation.  There should be a comma, not a period, after the author’s first name.  This is important because the author has ownership of the article and the comma identifies that ownership.
+4. There is nothing wrong with this citation.
+
+Which citation mistakenly lists the database an article was found in instead of the journal?
+~summative
+1. Robbins, Michael. "Paul Muldoon's Covert Operations." Academic Search Premier, vol. 109, no. 2, 2011, pp. 266-99.* 
+2. Robbins, Michael. "Paul Muldoon's Covert Operations." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
+3. Robbins, Michael. "Academic Search Premier." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
+
+Which citation mistakenly lists the access date of an online monthly magazine in place of its publication date? 
+~summative
+1. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html. Aug. 2008.*
+2. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. Aug. 2002, example.com/092002/cats-train-methods.html. Accessed 9 June 2017. 
+3. Johnson, Steve. (Aug 2008). “10 Methods to Train your Cat” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html.
+
+Which citation lists unnecessary, time-sensitive information that could make a citation incorrect at a later date? 
+~summative
+1. Starr, Virginia. (University of Mississippi). “Saving the Nation. A research study of rural outreach programs.” Journal of Philanthropy in the American South, vol. 15, no. 1, 1977. pp. 41-67. * 
+2. Starr, Virginia. “Saving the Nation: A research study of rural outreach programs.” Journal of Philanthropy in the American South, vol. 15, no. 1, 1977. pp. 41-67. 
+3. Starr, Virginia. “Saving the Nation: A research study of rural outreach programs.” Journal of Philanthropy in the American South, 15:1, 1977. pp. 41-67. 
+
+
+
+## 10.4 Establishing Credibility when Using Sources
+Establishing Source Credibility
+~ 9921ffc7-bd57-4def-8a20-5fcb8d723f48
+
+// Module: Using Sources
+// Tile: Establishing Credibility when Using Sources   
+// Skills: Recognize markers of credibility [when integrating a source] into writing
+// quiz
+
+
+### 10.4.1 Recognize markers of credibility in writing
+Recognize markers of credibility in writing
+~ 188bdc6e-2f2e-4837-afb1-f2a0d6385f04
+
+
+Effective integration of source material builds credibility in each of the following ways except:
+~formative
+1. Length of the source material adds to the word count.*
+~feedback: Correct.  Length is not a marker of credibility.
+2. Evidence adds to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence adds to the argument’s persuasiveness, thereby building credibility.
+3. Signal phrase highlights the reputation and qualifications of the source.
+~feedback: Incorrect.  Signal phrases highlight the source’s reputation and qualifications, thereby building credibility. 
+4. Citation demonstrates trustworthiness of the writer.
+~feedback: Incorrect.  Citation demonstrates the writer’s trustworthiness, thereby building credibility.
+  
+Effective integration of source material builds credibility in each of the following ways except:
+~formative
+1. Source material is substituted for the writer’s arguments.*
+~feedback: Correct.  Source material supports a writer’s arguments rather than substituting for the writer’s arguments.  If the source material takes the place of the writer’s own ideas and arguments, it diminishes the writer’s credibility.
+2. Explanation of relevance of the source material to the writer’s argument.
+~feedback: Incorrect.  Explanation of the relevance of the source material to the writer’s argument demonstrates the writer’s critical thinking and reasoning, thereby enhancing his or her credibility.
+3. Evidence adds to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence adds to the argument’s persuasiveness, thereby enhancing credibility.
+4. Signal phrase highlights the reputation and qualifications of the source.
+~feedback: Incorrect.  Signal phrases highlight the source’s reputation and qualifications, thereby enhancing credibility.
+
+One way effective integration of source material builds credibility is by demonstrating the relevance of the material to the writer’s argument.
+~formative
+1. True*
+~feedback: Correct.  By demonstrating the relevance of the source material to the argument, the writer demonstrates his or her critical thinking and reasoning skills, thereby building his or her credibility.
+2. False
+~feedback: Incorrect.  By demonstrating the relevance of the source material to the argument, the writer demonstrates his or her critical thinking and reasoning skills, thereby building his or her credibility.
+
+One way effective integration of source material builds credibility is by including a signal phrase.
+~summative
+1. True*
+~feedback: Correct.  A signal phrase highlights the reputation and qualifications of the source and builds credibility.
+2. False
+~feedback: Incorrect.  A signal phrase highlights the reputation and qualifications of the source and builds credibility.
+
+One way effective integration of source material builds credibility is by increasing the length of the paper.
+~summative
+1. True
+~feedback: Incorrect. Adding length to a paper does not necessarily increase credibility.
+2. False*
+~feedback: Correct.  Adding length to a paper does not necessarily increase credibility.
+
+One way effective integration of source material builds credibility is by providing evidence to support the writer’s argument.
+~summative
+1. True*
+~feedback: Correct. Evidence from source material supports the writer’s argument making it more persuasive and credible.
+2. False
+~feedback: Incorrect.  Evidence from source material supports the writer’s argument making it more persuasive and credible.
+
+// Module: Using Sources
+// Tile: Establishing Credibility when Using Sources   
+// Skills: Differentiate among the markers of credibility [when integrating a source] into writing
+// quiz 
+
+// I am not sure why this one has feedback
+
+
+### 10.4.2 Differentiate among the markers of credibility in writing
+Differentiate among the markers of credibility in writing
+~ 0e1c967f-e65c-4c48-a2e3-b1908d7a350e
+
+
+Including a source’s credentials, such as Harvard Distinguished Professor, in the first reference to a source is an example of:
+~formative
+1. Signal phrase highlighting the reputation and qualifications of the source.*
+~feedback: Correct.  By highlighting the reputation and qualifications of a source through a signal phrase, the writer builds the credibility of the source.
+2. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence is the source material itself, not the source’s credentials.
+3. Citation demonstrating the trustworthiness of the writer.
+~feedback: Incorrect.  Citation is the bibliographic information for the source, not the source’s credentials.
+4. Relevance of the source to the writer’s argument
+~feedback: Incorrect.  Relevance is the way the source material is related to the writer’s argument, not the source’s credentials.
+
+Including reference information which helps the reader easily find the source is an example of:
+~formative
+1. Citation demonstrating the trustworthiness of the writer.*
+~feedback: Correct.  By providing accurate, complete citation of a source, the writer demonstrates his or her trustworthiness.
+2. Signal phrase highlighting the reputation and qualifications of the source.
+~feedback: Incorrect.  A signal phrase is an introduction to the source material, not reference information.
+3. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence adding to the argument’s persuasiveness is the source material itself, not the reference information.
+4. Relevance of the source to the writer’s argument.
+~feedback: Incorrect.  Explaining the relevance of the source to the writer’s argument is how the writer demonstrates his or her critical thinking and reasoning, not reference information.
+
+Explaining how the source material supports the writer’s point is an example of:
+~formative
+1. Relevance of the source to the writer’s argument.*
+~feedback: Correct.  By explaining the relevance of the source to the argument, a writer demonstrates critical thinking and reasoning, thereby building credibility.
+2. Citation demonstrating the trustworthiness of the writer.
+~feedback: Incorrect.  Citation is providing accurate, complete bibliographical information for a source, not explaining how the source material is related to the writer’s point.
+3. Evidence adding to the argument’s persuasiveness.
+~feedback: Incorrect.  Evidence is material from the source, not the writer’s explanation of that material’s relevance to his or her point.
+4. Signal phrase highlighting the reputation and qualifications of the source.
+~feedback: Incorrect.  A signal phrase introduces source material rather than explaining its relevance to the writer’s point.
+
+Integrating statistics from the National Institutes of Health about the high teenage pregnancy rate into a paragraph arguing for greater access to birth control is an example of:
+~summative
+1. Evidence adding to the argument’s persuasiveness.*
+// ~feedback: Correct.  Integrating supporting evidence, such as statistics from a reliable source, can improve the persuasiveness of a writer’s argument, thereby building credibility of the argument.
+2. Signal phrase highlighting the reputation and qualifications of the source.
+//~feedback: Incorrect.  A signal phrase is an introduction to source material, not the source material itself.
+3. Relevance of the source to the writer’s argument.
+// ~feedback: Incorrect.  A writer explains the relevance of the source material to his or her point after he or she has integrated the source material.
+4. Citation demonstrating the trustworthiness of the writer.
+//~feedback: Incorrect.  Citation of the source directs the reader to the location of the source.  It is not the source material itself.
+
+A signal phrase differs from evidence because it introduces the evidence and highlights the source’s reputation and qualifications.
+~summative
+1. True*
+// ~feedback: Correct.  The signal phrase is the introduction to the evidence. The evidence is the material from the source that the writer integrates to support his or her point.
+2. False
+//~feedback: Incorrect.  The signal phrase is the introduction to the evidence. The evidence is the material from the source that the writer integrates to support his or her point.
+
+Integrating evidence from a source is the same as relating the source to the writer’s argument.
+~summative
+1. True
+// ~feedback: Incorrect.  Evidence is the source material.  In relating the source material to the writer’s argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility.  These are two separate strategies.
+2. False*
+//~feedback: Correct. Evidence is the source material.  In relating the source material to the writer’s argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility. These are two separate strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
