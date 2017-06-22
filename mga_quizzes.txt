@@ -183,9 +183,9 @@ Which punctuation mark should be used after “rubies” and “copper” in the
 
 Which punctuation mark should be used after “levels” in the following sentence?<p>The mission was deemed a success on two levels recovery of precious metals and preservation of original material.</p>
 ~summative
-1. A colon should be used after “recovery.”*
-2. A semicolon should be used after “recovery.”
-3. No punctuation mark should be used after “recovery.”
+1. A colon should be used after “levels.”*
+2. A semicolon should be used after “levels.”
+3. No punctuation mark should be used after “levels.”
 
 Which punctuation mark should be used after “mechanism” in the following sentence?<p>Antikythera mechanism a discovery that will have lasting impact for centuries to come.</p>
 ~summative
@@ -237,7 +237,7 @@ A semicolon is used correctly in the following sentence:<p>Sea tulips come in a 
 A semicolon is used correctly in the following sentence:<p>The sea tulip’s name comes from the organism’s appearance it looks like a knobby “bulb;” or flower attached to a long stalk.</p>
 ~summative
 1. True
-2.False*
+2. False*
 
 Semicolons are used correctly in the following sentence:<p>You may spot this phenomenon in ocean waters near Sydney, Australia; Vancouver, Canada; and Acapulco, Mexico.</p>
 ~summative
@@ -761,7 +761,7 @@ Which of the following statements meets all the criteria of an argumentative the
 ~feedback: Incorrect. This is a statement of fact and not debatable.
 3. The collapse of bee colonies around the country suggests the world is ending.
 ~feedback: Incorrect. This statement may not reasonable and is not focused.
-4. Investing in beekeeping in urban areas is an up-and-coming trend, but will it solve the problems of bee colony collapse?.
+4. Investing in beekeeping in urban areas is an up-and-coming trend, but will it solve the problems of bee colony collapse?
 ~feedback: Incorrect. This is a question, not an arguable, assertive position.
 
 Which of the following statements meets all the criteria of an argumentative thesis?
@@ -1005,7 +1005,7 @@ Which logical fallacy occurs in the passage below? <p>Mama and her hot flashes, 
 1. Slippery Slope*
 2. No Fallacy
 3. False dichotomy
-4. Post hoc* 
+4. Post hoc 
 
 Which logical fallacy occurs in the passage below? <p>The air conditioner has been out ever since that stray cat from down the road has been hanging out here. It’s August in Mississippi; you and your brother are burning up, and Mama was already having hot flashes. We never had a problem with the A/C until the cat got here. That cat needs to go. It’s way too hot in here and anything is worth a shot.</p>
 ~summative
@@ -1310,11 +1310,11 @@ The term “print source” means that you accessed the printed version of a sou
 
 Which of the following is an example of a “multimedia” source based on this module’s definition? 
 ~formative
-1. Google’s <a href=”https://searchingforsyria.org/en/”>interactive photo essay</a> about the refugee crisis in Syria that includes images, videos, and audio.*
+1. Google’s <a href=”https://searchingforsyria.org/en/” target="_blank">interactive photo essay</a> about the refugee crisis in Syria that includes images, videos, and audio.*
 ~feedback: That’s correct. Even without following the link, you know from the context that this source is more than just text. It involves multiple forms of media, and would be a good multimedia source to use in a research project. 
 2. A text-only article on <em>The Huffington Post</em> called “Betsy DeVos Visits Science Fair, Refuses To Talk About Climate Science.” 
 ~feedback: That’s incorrect. Even though other content from <em>The Huffington Post</em> could be considered multimedia, a text-only article is just a regular online source. 
-3. Jacques Mattheij’s <a href=”https://jacquesmattheij.com/no-politics-please-we-are-hackers-busy-improving-the-world”>blog post</a> about software development, ethics, politics, and activism. 
+3. Jacques Mattheij’s <a href=”https://jacquesmattheij.com/no-politics-please-we-are-hackers-busy-improving-the-world target="_blank”>blog post</a> about software development, ethics, politics, and activism. 
 ~feedback: That’s incorrect. Most blog posts would be considered typical online sources, even if they use some pictures. The medium is mostly textual. 
 
 Which types of source should you use for your research project?
@@ -1334,8 +1334,8 @@ The term “print source” means…
 
 Which of the following is an example of an “online source” based on this module’s definition? 
 ~summative
-1. Kairos, the online peer-reviewed journal of digital writing studies.*
-2. Computers and Writing, the printed journal of digital writing studies.
+1. <em>Kairos</em>, the online peer-reviewed journal of digital writing studies.*
+2. <em>Computers and Writing</em>, the printed journal of digital writing studies.
 3. Both.
 4. Neither. 
 
@@ -1378,7 +1378,7 @@ Lily is writing a paper on the influence of the media on body image in teenage g
 2. The article does not meet the relevance criteria. *
 3. The article does not meet the authority criteria.
 
-While researching a paper about the history of rule changes in the NBA, Mark reads a column in a February 2013 issue of <em>Sports Illustrated</em>, written by LeBron James, about the 1979 adoption of the three point line. While performing a CRAAP analysis, Mark decides the article does meet the criteria of <em>authority<em> because
+While researching a paper about the history of rule changes in the NBA, Mark reads a column in a February 2013 issue of <em>Sports Illustrated</em>, written by LeBron James, about the 1979 adoption of the three point line. While performing a CRAAP analysis, Mark decides the article does meet the criteria of <em>authority</em> because
 ~summative
 1. The article was written in 2013.
 2. The article is related to the paper topic.
@@ -1616,9 +1616,9 @@ Using Paraphrase, Summary, and Quotation
 Differentiate among paraphrase, summary, and quotation
 ~ 0b09a4b7-f482-490f-9089-67eced6356ab
 
-<p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected," Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Selfe, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
-~formative
+<p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected," Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Selfe, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged under water from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
 Which of the following is an example of direct quotation?
+~formative
 1. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).*
 ~feedback: Correct. The phrase “as firm as bedrock, and just as difficult to remove” is original language from the source. The writer chose to incorporate this direct quotation because Seife’s metaphor concisely and cleverly captures an important point.
 2. In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.
@@ -1627,8 +1627,8 @@ Which of the following is an example of direct quotation?
 ~feedback: Incorrect. In this passage, the writer is paraphrasing an extended example from Seife’s article, maintaining the main points and including several details.
 
 <p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
-~formative
 Which of the following is an example of paraphrase?
+~formative
 1. As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290–91).*
 ~feedback: Correct. In this passage, the writer is paraphrasing an extended example from Seife’s article, maintaining the main points and including several details.
 2.According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).
@@ -1637,8 +1637,8 @@ Which of the following is an example of paraphrase?
 ~feedback: Incorrect. In this passage, the author is summarizing Seife’s article, noting just the main points.
 
 <p>Read the passage below and answer the following questions about using sources appropriately.</p><p>In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information. According to Selfe, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290). As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife 290-91). This type of herd mentality and definition of self convinces people to drink poisoned Kool-Aid.</p> 
-~formative
 Which of the following is an example of summary?
+~formative
 1. In the article, "The Loneliness of the Interconnected", Charles Seife argues that people are becoming more and more isolated in our increasingly interconnected world and, furthermore, that bits and pieces of our delicate mental structure are withered away as we increasingly rely on the internet as our source of information.*
 ~feedback: Correct. In this passage, the author is summarizing Seife’s article, noting just the main points.
 2. According to Seife, this mental decay leaves us with some opinions "as firm as bedrock, and just as difficult to remove" (290).
@@ -1652,7 +1652,7 @@ Which of the following is an example of summary?
 2. This is an example of direct quotation.
 3. This is an example of paraphrase.
 
-<p>Read the following passage and choose from the options below:</p><p>As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged underwater from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife, 290–91).</p>
+<p>Read the following passage and choose from the options below:</p><p>As an example of this phenomenon, Seife describes how, in the 1950s, psychologist Leon Festinger sought to research the point at which this crisis occurs. He contacted a woman by the name of Dorothy Martin who was the leader of a small cult in Chicago. Martin believed that she was writing letters under the command of Clarion, a distant planet. She had concrete belief that Chicago would be wiped out and that the United States would be submerged under water from a great flood on the morning of December 21, 1955. Her salvation? A spaceman, assumed to be a Clarion, would visit Dorothy and her followers hours before the disaster, whisking them away on a spaceship to safety. This bizarre and radical belief was only strengthened when the calamity never arose. The cult members convinced themselves that the Clarions managed to stop the destruction from happening (Seife, 290–91).</p>
 ~summative
 1. This is an example of paraphrase.*
 2. This is an example of summary.
@@ -1738,7 +1738,7 @@ Identify the conventions of citation and references
 ~ 62683967-574b-4beb-8dc3-33e6a89957ac
 
 
-<p>Identify the error in the following citation:</p><p>Jay David Bolter and Richard Grusin. Remediation: Understanding New Media. Cambridge: MIT Press, 1999.</p>
+<p>Identify the error in the following citation:</p><p>Jay David Bolter and Richard Grusin. <emRemediation: Understanding New Media.</em> Cambridge: MIT Press, 1999.</p>
 ~formative
 1. The word order of the author’s name should be “Bolter, Jay David.”*
 ~feedback: That’s correct. Because the works cited page is alphabetical by author last name, the last name should come first in the citation. 
@@ -1775,11 +1775,11 @@ Which citation has the year of publication in the correct position?
         
 Which citation of a journal article has the required components? 
 ~summative
-1. van Dijck, Jose. “Users like you? Theorizing agency in user-generated content.” Media, Culture, and Society, Vol. 31, 2009, pp. 41-58.*
+1. van Dijck, Jose. “Users like you? Theorizing agency in user-generated content.” <em>Media, Culture, and Society</em>, Vol. 31, 2009, pp. 41-58.*
 2. van Dijck, Jose. “Users like you? Theorizing agency in user-generated content,”, Vol. 31, 2009, pp. 41-58.
-3. van Dijck, Jose. (University of Mississippi). “Users like you? Theorizing agency in user-generated content.” Media, Culture, and Society, Vol. 31, 2009, pp. 41-58.
+3. van Dijck, Jose. (University of Mississippi). “Users like you? Theorizing agency in user-generated content.” <em>Media, Culture, and Society</em>, Vol. 31, 2009, pp. 41-58.
 
-<p>True or False: The following citation is incorrect: </p><p>Beer, David & Roger Burrows. “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, September 2007, n.p. </p>
+<p>True or False: The following citation is incorrect: </p><p>Beer, David and Roger Burrows. “Sociology and, of, and in Web 2.0: Some Initial Considerations.” Sociological Research Online, vol. 12, issue 5, September 2007, n.p. </p>
 ~summative
 1. False*
 2. True
@@ -1814,14 +1814,14 @@ Interpret the conventions of citation and references
 Which citation mistakenly lists the database an article was found in instead of the journal?
 ~summative
 1. Robbins, Michael. "Paul Muldoon's Covert Operations." Academic Search Premier, vol. 109, no. 2, 2011, pp. 266-99.* 
-2. Robbins, Michael. "Paul Muldoon's Covert Operations." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
-3. Robbins, Michael. "Academic Search Premier." Modern Philology, vol. 109, no. 2, 2011, pp. 266-99.
+2. Robbins, Michael. "Paul Muldoon's Covert Operations." <em>Modern Philology</em>, vol. 109, no. 2, 2011, pp. 266-99.
+3. Robbins, Michael. "Academic Search Premier." <em>Modern Philology</em>, vol. 109, no. 2, 2011, pp. 266-99.
 
 Which citation mistakenly lists the access date of an online monthly magazine in place of its publication date? 
 ~summative
-1. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html. Aug. 2008.*
-2. Johnson, Steve. “10 Methods to Train your Cat.” Cat Freaks Monthly. Aug. 2002, example.com/092002/cats-train-methods.html. Accessed 9 June 2017. 
-3. Johnson, Steve. (Aug 2008). “10 Methods to Train your Cat” Cat Freaks Monthly. 9 June 2017. example.com/092002/cats-train-methods.html.
+1. Johnson, Steve. “10 Methods to Train your Cat.” <em>Cat Freaks Monthly</em>. 9 June 2017. example.com/092002/cats-train-methods.html. Aug. 2008.*
+2. Johnson, Steve. “10 Methods to Train your Cat.” <em>Cat Freaks Monthly</em>. Aug. 2002, example.com/092002/cats-train-methods.html. Accessed 9 June 2017. 
+3. Johnson, Steve. (Aug 2008). “10 Methods to Train your Cat” <em>Cat Freaks Monthly</em>. 9 June 2017. example.com/092002/cats-train-methods.html.
 
 Which citation lists unnecessary, time-sensitive information that could make a citation incorrect at a later date? 
 ~summative

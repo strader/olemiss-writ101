@@ -20,7 +20,7 @@ A store refund may be, for example: a cash refund, a store credit, or a gift car
 2. Yes
 ~feedback: Incorrect. A comma is the better choice for a short series or list. Normally, “for example” lists just a couple examples (a couple as an example of the larger list.) 
 
-A store may charge a restocking fee in the following circumstances: (1) If the item is removed from plastic wrapping, (2) If the box is torn, (3) If tags or labels have been removed from the item.
+A store may charge a restocking fee in the following circumstances: (1) if the item is removed from plastic wrapping, (2) if the box is torn, (3) if tags or labels have been removed from the item.
 1. Yes*
 ~feedback: Correct. A colon is used before a list. However, the initial word of the list item is lowercase if it is not a complete sentence.
 2. No
@@ -34,9 +34,9 @@ If a store’s policy differs from the state-wide, seven-day policy, then the st
 
 California law is very exact about posting store policy: The policy must be displayed either at each entrance to the store, at each cash register and sales counter, on tags attached to each item, or on the company’s order forms, if any.
 1. Yes*
-~feedback: Correct. A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
+~feedback: Correct. A colon is used before a second clause which explains or illustrates the first clause. 
 2. No
-~feedback: Incorrect A colon is used before a second clause which explains or illustrates the first clause. Incorrect initial capital after the colon.
+~feedback: Incorrect A colon is used before a second clause which explains or illustrates the first clause.
 
 
 
@@ -53,12 +53,12 @@ California law is very exact about posting store policy: The policy must be disp
 
 Which of the sentences are run-ons? Identify them based on their number. 
 1. 3, 4 *
-~feedback: Correct. Sentence 3 needs a comma inserted before the word “and”: Apparently we were wizards, and the law was cracking down on magic. Sentence 4 is also a run-on sentence: While “So” at the beginning of the sentence is technically fine, it’s unnecessary.
+~feedback: Correct. Sentence 3 needs a comma inserted before the word “and”: Apparently we were wizards, and the law was cracking down on magic. Sentence 4 is also a run-on sentence: a comma should appear before "but."
 2. 1, 2, 5
 ~feedback: That’s not right. All three sentences are technically correct, even though the “But” at the start of sentence 5 is unnecessary, and it could be removed without affecting the meaning of the sentence.
-3. All the sentences are fragments.
+3. All the sentences are run-ons.
 ~feedback: That’s incorrect. Look at the difference between sentences 1 and 3. 
-4. None of the sentences are fragments. 
+4. None of the sentences are run-ons. 
 ~feedback: That’s incorrect. Look at the difference between sentences 1 and 3. 
 
 
@@ -125,7 +125,7 @@ Which of the following is an argumentative thesis?
 ~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
 3. False Dichotomy
 ~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
-4. Straw man
+4. Strawman
 ~feedback: Incorrect.  Think about the relationship between saying goodnight and falling asleep.  Does one cause the other?
 5. Hasty generalization
 ~feedback: Incorrect.  Remember that hasty generalization takes one instance and tries to generalize it.  In this passage there is an implication that there is a causal relationship.
@@ -143,7 +143,7 @@ Which of the following is an argumentative thesis?
 ~feedback: Correct.  This is bandwagon because the person is basing their conclusion on the fact that many others think this, rather than evidence backing that conclusion.
 3. False Dichotomy
 ~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
-4. Straw man
+4. Strawman
 ~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
 5. Hasty generalization
 ~feedback: Incorrect.  What’s the implication of the phrase ‘shared widely’ in this passage?
@@ -161,7 +161,7 @@ Which of the following is an argumentative thesis?
 ~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
 3. False Dichotomy
 ~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
-4. Straw man
+4. Strawman
 ~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
 5. Hasty generalization
 ~feedback: Incorrect.  One crash does not necessarily mean that a chain of negative events will occur.
@@ -177,7 +177,7 @@ Which of the following is an argumentative thesis?
 <p>I am a smoker, and I have a lot of friends who are smokers, and we all agree that this policy should be overturned.</p>
 1. Bandwagon*
 2. Slippery Slope
-3. Straw Man
+3. Strawman
 4. No fallacy
 
 <p>This policy is framed in terms of health outcomes and promoting individual well-being, but the University has not instituted policies regarding many other behaviors related to health such as exercising.</p>
@@ -188,7 +188,7 @@ Which of the following is an argumentative thesis?
 
 <p>Smoking is a right, and Americans have rights, so the smoking ban is wrong.</p>
 1. False Dichotomy
-2. Straw Man
+2. Strawman
 3. Begging the Question*
 4. No fallacy
 
@@ -199,7 +199,7 @@ Which of the following is an argumentative thesis?
 4. No fallacy
 
 <p>People eighteen years old and up are adults and have the ability to make their own decisions regarding their health and habits. That type of language asks students and faculty to be informants against each other. A college campus is a place for free expression of ideas and behaviors. </p>
-1. Straw Man
+1. Strawman
 2. Ad hominem
 3. Post Hoc
 4. No fallacy*
@@ -290,7 +290,7 @@ Read the statements below carefully. Which describes one of President Obama’s 
 
 ~file: types_sources_practice
 
-Take a look at the banner image from <em>The Washington Post</em>. Would this source be considered “print” or “online,” and why? <img src =”/assets/types_practice_1.png” alt=”Image of the Washington Post page header, including the date of publication, the print-styled logo of the paper, and a link to the current edition the viewer is accessing.”>
+Take a look at the banner image from <em>The Washington Post</em>. Would this source be considered “print” or “online,” and why? <img src =”https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/06/22022102/types_practice_1.png” alt=”Image of the Washington Post page header, including the date of publication, the print-styled logo of the paper, and a link to the current edition the viewer is accessing.”>
 1. Print Source: Even though the newspaper can be accessed online, it is still published in print form, and follows the conventions of a print newspaper. *
 ~feedback: That’s correct. <em>The Washington Post</em> is considered a credible, well-respected newspaper, and would generally be categorized as a print source. Keep in mind that some parts of the <em>Post’s</em> website are more problematic, like blogs and interactive media content. 
 2. Online Source: Because the source is viewed on a webpage, it’s always considered an online source, regardless of the medium of original publication. 
