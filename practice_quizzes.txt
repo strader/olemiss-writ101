@@ -290,7 +290,7 @@ Read the statements below carefully. Which describes one of President Obama’s 
 
 ~file: types_sources_practice
 
-Take a look at the banner image from <em>The Washington Post</em>. Would this source be considered “print” or “online,” and why? <img src =”https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/06/22022102/types_practice_1.png” alt=”Image of the Washington Post page header, including the date of publication, the print-styled logo of the paper, and a link to the current edition the viewer is accessing.”>
+<p>Take a look at the banner image from <em>The Washington Post</em>. Would this source be considered “print” or “online,” and why?</p><img src ="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/06/22022102/types_practice_1.png" width="100%" alt="Image of the Washington Post page header, including the date of publication, the print-styled logo of the paper, and a link to the current edition the viewer is accessing.">
 1. Print Source: Even though the newspaper can be accessed online, it is still published in print form, and follows the conventions of a print newspaper. *
 ~feedback: That’s correct. <em>The Washington Post</em> is considered a credible, well-respected newspaper, and would generally be categorized as a print source. Keep in mind that some parts of the <em>Post’s</em> website are more problematic, like blogs and interactive media content. 
 2. Online Source: Because the source is viewed on a webpage, it’s always considered an online source, regardless of the medium of original publication. 
