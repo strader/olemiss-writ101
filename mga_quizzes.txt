@@ -1310,11 +1310,11 @@ The term “print source” means that you accessed the printed version of a sou
 
 Which of the following is an example of a “multimedia” source based on this module’s definition? 
 ~formative
-1. Google’s <a href=”https://searchingforsyria.org/en/” target="_blank">interactive photo essay</a> about the refugee crisis in Syria that includes images, videos, and audio.*
+1. Google’s interactive photo essay about the refugee crisis in Syria that includes images, videos, and audio.*
 ~feedback: That’s correct. Even without following the link, you know from the context that this source is more than just text. It involves multiple forms of media, and would be a good multimedia source to use in a research project. 
 2. A text-only article on <em>The Huffington Post</em> called “Betsy DeVos Visits Science Fair, Refuses To Talk About Climate Science.” 
 ~feedback: That’s incorrect. Even though other content from <em>The Huffington Post</em> could be considered multimedia, a text-only article is just a regular online source. 
-3. Jacques Mattheij’s <a href=”https://jacquesmattheij.com/no-politics-please-we-are-hackers-busy-improving-the-world target="_blank”>blog post</a> about software development, ethics, politics, and activism. 
+3. Jacques Mattheij’s text-only blog post about software development, ethics, politics, and activism. 
 ~feedback: That’s incorrect. Most blog posts would be considered typical online sources, even if they use some pictures. The medium is mostly textual. 
 
 Which types of source should you use for your research project?
