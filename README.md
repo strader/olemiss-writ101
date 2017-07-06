@@ -1,4 +1,4 @@
-x# olemiss-writ101
+# olemiss-writ101
 Development repo for UM WRIT 101 Waymaker Project
 
 ## Schedule 
@@ -15,7 +15,7 @@ Development repo for UM WRIT 101 Waymaker Project
 6. [ ] Rhetorical Appeals
 7. [ ] Rhetorical Situation/Revision
 8. [x] Keys to Successful Argument
-9. [ ] Evaluating Sources
+9. [x] Evaluating Sources
 10. [x] Using Sources
 11. [ ] What is multimodality?
 12. [ ] Audience and Delivery
