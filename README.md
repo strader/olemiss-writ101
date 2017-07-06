@@ -10,7 +10,7 @@ Development repo for UM WRIT 101 Waymaker Project
 1. [x] Rhetorical Reading
 2. [ ] Beyond the Five Paragraph Essay
 3. [x] Readability
-4. [x] What is analysis?
+4. [ ] What is analysis?
 5. [ ] Prewriting
 6. [ ] Rhetorical Appeals
 7. [ ] Rhetorical Situation/Revision
