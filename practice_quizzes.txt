@@ -1,16 +1,160 @@
 OleMiss Writing 100 - F17
 ~71247c03-c642-4652-a825-23edd4d1d8e1
 
-# 3 Primary Outcome
+// Module: Rhetorical Reading
+
+# 1 Define and evaluate strategies for rhetorical reading and building vocabulary. 
+
+## 1.1 Define and identify rhetorical contexts
+
+### 1.1.2 Identify writers' rhetorical contexts
+
+~file: rhetorical_context_practice
+
+Which of the following lines reveals the purpose of Kennedy's speech?
+1. Today I want to discuss education with you - the current crisis in our educational system is a crisis caused by our failure to meet our responsibilities over the past 8 years; and tell you what I think we must do in the future to build an educational system to meet our expanding needs.*
+~feedback: Correct. Purpose refers to what the speaker is trying to accomplish.
+2. In one community a dog kennel was converted into a school where four classes were being held.
+~feedback: Incorrect. Remember that purpose refers to what the speaker is trying to accomplish.
+3. We live in a fast moving nation.
+~feedback: Incorrect. Remember that purpose refers to what the speaker is trying to accomplish.
+
+Which of the following lines speaks to the occasion of Kennedy's speech?
+1. But one thing constant from the birth of our Republic has been our faith in education and our determination to make it available to all our citizens.
+~feedback: Incorrect. Remember that occasion refers to the motivation of the speaker.
+2. We of the Democratic Party criticize our educational system - and the leadership which has permitted it to falter - because we have the heart to help, and, even more, the programs and the leadership which can build an educational system of which all Americans can be proud.*
+~feedback: Correct. Occasion refers to the motivation of the speech. In this case, Kennedy and the Democrats are motivated by winning the election.
+3. Thus the value and importance of education was at the foundation of Western thought - and was again present at the foundation of the American Republic.
+~feedback: Incorrect. Remember that occasion refers to the motivation of the speaker.
+
+In delivering the speech, Kennedy included this line, which does not appear in the advance text:
+<p style="padding-left: 30px;">"I am delighted to be here this morning . . . this is a beautiful State."</p>  His decision to include that line demonstrates his consideration of:
+1. Purpose.
+~feedback: Incorrect. Think about whom Kennedy is addressing.
+2. Author.
+~feedback: Incorrect. Think about whom Kennedy is addressing.
+3. Audience.*
+~feedback: Correct. Kennedy is appealing to his audience with "beautiful State."
+
+// 1.1.3 Identify readers'/responders' rhetorical contexts
+
+You have been assigned to read the speech as part of a research project on the history of federal student loans. Which line speaks most directly to your purpose in reading the speech?
+1. Therefore, I propose the enactment of a Student Loan Insurance Act - modeled on the highly successful program which has been adopted by my native State of Massachusetts. Under this program the Federal Government - in return for a small premium - would guarantee student loans made by colleges and universities.*
+~feedback: Correct.  Purpose refers to what you are trying to accomplish. In this case, you are trying to research federal student loans.
+2. But one thing constant from the birth of our Republic has been our faith in education and our determination to make it available to all our citizens.
+~feedback: Incorrect. Remember that purpose refers to what you are trying to accomplish.
+3. Thus the value and importance of education was at the foundation of Western thought - and was again present at the foundation of the American Republic.
+~feedback: Incorrect. Remember that purpose refers to what you are trying to accomplish.
+
+Your assignment asks for an objective report on the history of federal student loans. How will you position yourself as an author in the assignment?
+1. You will make sure readers know your personal political persuasion by praising or deriding Kennedy's speech.
+~feedback: Incorrect. For this assignment, you must present yourself as an objective author, free of political partisanship.
+2. You will express support for some programs, such as the one Kennedy proposes in this speech, but express skepticism for others.
+~feedback: Incorrect. For this assignment, you must present yourself as an objective author, not as an evaluator.
+3. You will report on the programs without revealing any personal bias.*
+~feedback: Correct. For this assignment, you must present yourself as an objective author.
+
+Your assignment asks for an objective report on the history of federal student loans.  Which of the following lines will not be relevant to the topic of your paper?
+1. We of the Democratic Party criticize our educational system - and the leadership which has permitted it to falter - because we have the heart to help, and, even more, the programs and the leadership which can build an educational system of which all Americans can be proud.*
+~feedback: Correct. This line is not relevant to the topic of your paper.
+2. Therefore, I propose the enactment of a Student Loan Insurance Act - modeled on the highly successful program which has been adopted by my native State of Massachusetts.
+~feedback: Incorrect. This line is relevant to the topic of federal student loans.
+3. Basic responsibility for repayment would be in the hands of the student, and the loan program itself would be administered by the individual college or university.
+~feedback: Incorrect. This line is relevant to the topic of federal student loans.
+
+// 1.2 Identify active reading strategies
+// no separate practice for this tile 
+
+## 1.3 Evaluate strategies for retaining new words
+### 1.3.1 Identify strategies for using context clues
+
+~file: context_clues_practice1
+
+// Excelsior OWL question
+Which type of context clue is being used in the following passage? <p><strong>Parallax</strong> is becoming a common effect used in mobile device screens. <em>With this effect,</em> the direction of objects on the screen appears to shift depending on the position of the viewer.</p>
+1. Adjacent Clue* 
+~feedback: That's correct. Even if you don't know what <strong>parallax</strong> is, if you keep reading you can determine its meaning from the rest of the passage. 
+2. Definition Clue
+~feedback: That's not correct. The passage doesn't explicitly define <strong>parallax</strong>. We can only determine the meaning from the proximity of other words and phrases.
+3. Example Clue
+~feedback: That's not correct. Though this passage explains how  <strong>parallax</strong> works, it doesn't provide an actual example of the effect. 
+
+Which type of context clue is being used in the following passage? 
+<p><strong>Obfuscation</strong>, <em>or</em> intentionally making things difficult to understand, was Senator Biddy's main strategy in the agriculture committee.
+1. Definition Clue*
+~feedback: That's correct. The appositive after <em>or</em> provides an informal definition for the word. You could switch the word order, making "obfuscation" the appositive, and the sentence would still make sense. 
+2. Synonym Clue
+~feedback: That's not correct.  Synonyms typically mean the same thing as the original word, but don't necessarily break it down any more. A synonym of <p><strong>obfuscation</strong> might be <em>over-complication</em>.
+3. Experience Clue
+~feedback: That's not correct. Nothing in this passage draws on personal experiences to help infer meaning. 
+
+// quote origin: Richard F. Shepard, "Despite the Heat Summer in the City Has Always Been An Outdoor Affair," New York Times, July 8, 1990 
+Using the context clue provided, what is the most accurate definition of the word in bold? <p>Water and ice go to extremes in <strong>estival</strong> New York. Water consumption in summer averages 1.6 billion gallons a day, as against 1.2 billion in winter.</p>
+1. pertaining or appropriate to summer*
+~feedback: That's correct. You can infer from the adjacent sentence that this passage is referring to water consumption in summer, so it's a safe bet that <strong>estival</strong> has something to do with summer. 
+2. Thirst or thirstiness
+~feedback: That's not correct. Though the second sentence does deal with water consumption, it's clearly making a comparison between two seasons, winter and summer. 
+3. Non-free festival
+~feedback: That's not correct. Though the word may have a similar root to "festival," nothing in this passage suggests any connection to festivals or their cost. 
+
+Using the context clue provided, what is the most accurate definition of the word in bold? 
+<p>Adults born in the 1980s have almost a <strong>prelapsarian</strong> nostalgia for the <em>Oregon Trail</em> game, with it's straight-forward game play and its association with elementary school. </p>
+1. characteristic of or pertaining to any innocent or carefree period* 
+~feedback: That's correct. This passage uses examples of personal experience to provide context for the word <strong>prelapsarian.</strong>
+2. Scholarly or based on academic work
+~feedback: That's not correct. Though <em>Oregon Trail</em> is associated with school, this passage isn't about its relationship to academia. 
+3. Pre-running stretching exercises
+~feedback: That's not correct. The root of this word is "lapse," not "lap," so it has nothing to do with running. 
+
+## 1.3 Evaluate strategies for retaining new words
+
+### 1.3.1 Identify strategies for using context clues
+
+~file: context_clues_practice2
+
+Based on what you learned in the last section, what is the correct definition of <strong>voracious</strong>?
+1. exceedingly eager or avid.*
+~feedback: That’s correct. This passage is encouraging you to read more often and more enthusiastically. 
+2. Thankful or exceedingly humble
+~feedback: That’s not correct. This passage has nothing to do with being thankful or humble, even though the word sounds similar to “gracious.”
+3. Aloud or out loud
+~feedback: That’s not correct. This passage doesn’t tell you whether to read aloud or silently: it’s just suggesting that you read more. 
+
+### 1.3.2 Evaluate strategies for retaining new words
+
+~file: retain_words_practice
+
+Which of the following is a good strategy to retain new words?
+1. Write them down in a personal lexicon.*
+~feedback: That's correct. Recording a word will help you come back to it later. 
+2. Use them in your next history paper.
+~feedback: While this might help you remember the word, it might not be appropriate for every paper. Don't use big words just for the sake of using them. 
+3. Create flashcards with the definitions. 
+~feedback: Drill-based memorization methods are not as effective as actually using the words in context. 
+
+Which of the following words is not based on the Latin root "brev" (meaning brief or short)?
+1. Abbreviate
+~feedback: That's incorrect. To abbreviate means to shorten a word or phrase. 
+2. Brevity 
+~feedback: That's incorrect. Brevity is the state of being short, or brief. 
+3. Bravado* 
+~feedback: Correct. Though "bravado" sounds similar to the "brev" root, it has a different origin. Bravado means "a bold manner or a show of boldness intended to impress or intimidate."
+
+What is the meaning of the word "antithesis," based on the Latin root "anti" (against) and the Greek root "the" (position)?
+1. A proposition that is the diametric opposite of some other proposition.*
+~feedback: That's correct. The literal meaning is the opposite of the position. 
+2. The state of being opposed to a certain location.
+~feedback: That's incorrect. Position in this case is rhetorical rather than physical. 
+3. A statement that doesn't make a claim. 
+~feedback: That's incorrect. "Anti" doesn't mean "lack of"-- the root for that is "a" or "an." 
+
+# 3 Recognize and resolve readability errors
 
 ## 3.2 Critique the use of semicolons and colons.
 
 ### 3.2.3 Demonstrate the standard uses of colons
 
 // Module: Readability 
-// Tile: Semicolons and Colons
-// Skills: Demonstrate the standard uses of colons
-// practice
 
 ~file:demonstrate_colons_practice
 
