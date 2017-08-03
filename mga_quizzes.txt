@@ -1311,11 +1311,297 @@ Which of the options below would most effectively revise the following sentence 
 2. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success; many children fail.
 3. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success: many children fail.
 
+// Module: Analysis
+
+# 4 Evaluate keys to successful analysis
+## 4.1 Outcome: Define analysis
+### 4.1.1 Skill Identify the domain of analysis
+
+// self-check
+
+Which of the following is a definition of analysis?
+~formative
+1. The process of methodically breaking something down to gain a better understanding of it*
+~feedback: Correct. Analysis is breaking something down to gain a better understanding of it
+2. The making of a judgment or assessment
+~feedback: Incorrect. This is the definition of evaluation. While evaluation is often coupled with analysis, it is not the same thing.
+3. A brief statement or account of the main points of something
+~feedback: Incorrect. This is the definition of summary. Summary condenses things. While summary can be coupled with analysis, it is not the same thing.
+
+Outlining can be a form of analysis.
+~formative
+1. True.*
+~feedback: Correct. Outlining can involve breaking down an original artifact into its component parts so it can be part of analysis.
+2. False.
+~feedback: Incorrect. Outlining can involve breaking down an original artifact into its component parts so it can be part of analysis.
+
+Each of the following is a type of analytic assignment <strong>except</strong>:
+~formative
+1. An assignment that asks you to explain how the parts relate to the whole
+~feedback: Incorrect. This assignment is asking for analysis.
+2. An assignment that asks you to report what happened at an event.*
+~feedback: Correct. This assignment is asking you to retell something rather than analyzing it.
+3. An assignment that asks you to explain how something works.
+~feedback: Incorrect. This assignment is asking for analysis.
+
+// quiz
+
+Which of the following is a definition of analysis?
+~summative
+1. The ability to connect pieces of information as the basis for generalization, explanation, or interpretation*
+2. Reasons given with the aim of persuading others an action is right or wrong
+3. A written account of something one has observed
+
+Each of the following verbs may denote analysis <strong>except</strong>:
+~summative
+1. Deduce
+2. Inspect
+3. Categorize
+4. State*
+
+An assignment that asks you to explain why something is important is asking for analysis.
+~summative
+1. True*
+2. False
+
+### 4.1.2 Skill Recognize the barriers to analysis
+
+// self-check
+
+A way to prevent the exhaustion analysis can bring is to perform the analysis in one long stretch.
+~formative
+1. True.
+~feedback: Incorrect. Performing an analysis in one long stretch will lead to exhaustion.
+2. False.*
+~feedback: Correct. Short sessions of analysis with breaks in-between will help you forestall exhaustion.
+
+Before undertaking an analysis, writers should:
+~formative
+1. Decide what the analysis will prove.
+~feedback: Incorrect. Analysis should be undertaken with an open mind.
+2. Put aside preconceived ideas or judgments.*
+~feedback: Correct. Analysis should be undertaken with an open mind.
+3. Situate themselves as an advocate or opponent of the subject under analysis.
+~feedback: Incorrect. Analysis should be undertaken with an open mind.
+
+The task of the analyst is to:
+~formative
+1. Offer a well-supported interpretation with the aim of convincing the reader that the interpretation is plausible, rather than invincible.*
+~feedback: Correct. Analysis offers a well-supported interpretation or generalization.
+2. Attack the subject under consideration.
+~feedback: Incorrect. Analysis offers a well-supported interpretation or generalization.
+3. Make something up or suggest something that isn't there.
+~feedback: Incorrect. Analysis offers a well-supported interpretation or generalization.
+
+// quiz
+
+Each of the following may be a barrier to analysis except:
+~summative
+1. Analysis may challenge a person's ideas or beliefs.
+2. Analysis may facilitate deeper understanding.*
+3. Analysis kills fun.
+4. Analysis invents meaning.
+
+Analysis should be undertaken with an open mind.
+~summative
+1. True.*
+2. False
+
+To avoid the criticism that an analytic interpretation is "mere speculation," an analyst should:
+~summative
+1. Offer a variety of evidence.*
+2. Use unequivocal language.
+3. Repeat the interpretation often.
+
+## 4.2 Recognize and evaluate keys to successful writing
+### 4.2.1 Recognize keys to successful analysis writing
+
+// self-check
+
+Which of the following is a question you normally don't need to address when formulating an analytic thesis statement?
+~formative
+1. How?
+~feedback: Incorrect. Addressing "how" something means what it does is a key part of forming an analytic thesis statement.
+2. Who?*
+~feedback: Correct. Though thinking about "who" might be important for some analysis, it is not one of the main terms to consider when forming an analytic thesis statement.
+3. So what?
+~feedback: Incorrect. Thinking about the "so what" helps take an analytic thesis statement into a bigger picture and is an important step.
+4. Why?
+~feedback: Incorrect. Addressing "why" something means what it does is a key part of forming an analytic thesis statement.
+
+Which of the following is not a good tip to consider when thinking about evidence?
+~formative
+1. Be selective about evidence.
+~feedback: Incorrect. Being selective with evidence will lead to a more focused final product. 
+2. Move past obvious interpretations.
+~feedback: Incorrect. Moving past obvious interpretations will help your work. 
+3. Only provide evidence that comes from scholarly sources.*
+~feedback: Correct. Good analytic evidence often comes from your own thinking.
+4. Be clear and explicit with your evidence.
+~feedback: Incorrect. You want to clearly explain and show your analytic evidence.
+
+Which of the following best defines the idea of suspending judgment when analyzing?
+~formative
+1. Making a decision about a topic, idea, or artifact based on your beliefs before doing research.
+~feedback: Incorrect. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions.
+2. Approaching a topic, idea, or artifact with an open mind.*
+~feedback: Correct. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions.
+3. Setting a predetermined amount of time before you will make judgment about a topic, issue, or artifact.
+~feedback: Incorrect. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions. Setting an amount of time before you judge something does not guarantee you are looking at it with an open mind.  
+
+// quiz
+
+It is a good idea to use all possible evidence you can find in support of a point when writing an analysis.
+~summative
+1. True
+2. False*
+
+Which of the following is not good advice to follow when formulating an analytic thesis?
+~summative
+1. Make sure your main claim is reasoned.
+2. Decide on a main claim and stick to it exactly throughout your drafting process.*
+3. Use analysis to help you get to a main claim.
+
+Which of the following best describes how evidence should function in an analytic writing?
+~summative
+1. Evidence should be complex and come all from expert sources who have analyzed the subject matter beforehand.
+2. Writers should be selective, not including all possible evidence just because it relates to the main claim.*
+3. Writers don't need to explain all evidence because some of it will be obvious to readers.
+
+### 4.2.2 Evaluate keys to successful analysis writing
+// self-check
+
+Which of the following sentences does not make for a good analytic thesis statement?
+~formative
+1. The idea behind the Sports Illustrated Swimsuit Issue needs to be viewed in context of the feminist movement of the 1960s.
+~feedback: Incorrect. This sentence sets up a deeper exploration of the "how," "why," and "so what" and lets readers know they will need to look into the context of the time.
+2. The idea behind the Sports Illustrated Swimsuit Issue was to bring images of beautiful women to readers across the globe through full-color images and interesting stories.*
+~feedback: Correct. This sentence presents an obvious reason for the advent of the magazine and does not set up a deeper exploration of "how," "why," and "so what."
+3. The idea behind the Sports Illustrated Swimsuit Issue may seem like sexual exploitation but was really a reaction to a changing market that viewed sex and sport as intertwined.
+~feedback: Incorrect. This sentence sets up a deeper exploration of the "how," "why," and "so what" and lets readers know they will need to look into the context of the time.
 
 
+Read the following analytic thesis statement and determine which answer below best addresses the problem with it: Maybelline's new ad campaign features beautiful models in fun situations because the company wants to distract people from the fact that it still tests products on animals.
+~formative
+1. The claim doesn't address the "why."
+~feedback: Incorrect. The statement does include the writer's interpretation of why the ads are produced in a certain way.
+2. The claim isn't reasoned.*
+~feedback: Correct. Though the ad may feature beautiful models in fun situations and Maybelline may still test products on animals, it is extremely unlikely that the two ideas are related, and very few, if any, reasonable readers would see a connection.
+3. The student didn't use analysis to reach the claim.
+~feedback: Incorrect. Though the claim here is extremely unlikely, the writer is technically analyzing and making an interpretation.
 
+Read the following analytic thesis statement and determine which of the approaches below is the best for incorporating evidence: Dave Eggers' novel The Circle continues a rich American dystopian literary tradition by showing how those struggling for control of the masses might not always be whom we think and by prodding us to consider the potential consequences of sharing details of our lives with others on social media.
+~formative 
+1. The writer could reference some previous dystopian works and analyze how Eggers' book builds on those ideas in a modern context where many people don't see dangers in technology.*
+~feedback: Correct. This example would contain evidence to back the specific claim that the writer has introduced. 
+2. The writer could point out examples of how he or she has shared information on social media and then regretted it later.
+~feedback: Incorrect. This example contains no reference to The Circle when the claim sets up an analysis of Eggers' book.
+3. The writer could detail a list of previous dystopian literature and analyze the impact it had on the role of technology in American culture.
+~feedback: Incorrect. While some such information might work well, this example contains no reference to The Circle when the claim sets up an analysis of Eggers' book.   
 
+// quiz
 
+Read the following analytic thesis statement and determine what is missing that could improve it: McDonald's latest ad campaign incorporates throwbacks to previous decades such as images of drive-ins as part of an effort to appeal to more senior citizens.
+~summative
+1. The thesis statement is missing the "how."
+2. The thesis statement is missing the "why."
+3. The thesis statement is missing the "so what."*
+
+Read over the following scenario and then determine what is the best approach for the student: Philip is taking a Writing class, and he has been assigned an analysis essay on looking into if a system to pay college athletes is possible across the country. Philip's brother Jackson is a year older than him and plays football for the university. Jackson doesn't have time to work due to his commitments to academics and sports, and Philip knows that his brother has had to borrow money from their uncle to keep up with bills and to afford his car. The writing assignment requires objective research and a minimum of four expert sources. What is Philip's best next step?
+~summative
+1. Philip knows from his brother's experience that college athletes should be paid, so he should find sources that have endorsed the same view, read them over, and start writing once he decides how to work in the outside material.
+2. Philip should step back and do some objective research on how the issue is viewed nationwide, and then he can weigh how his own knowledge of the issue fits into the current discussion.*
+3. Philip should contact his brother and ask him for the names of other football players he can talk to so he can be sure to have evidence from people who are close to the situation.
+
+Janelle is taking a Business Management class. Her current assignment is to write a 700-900 word analysis of a business plan where she is supposed to examine how feasible the plan is. After Janelle writes about 750 words explaining potential problems with some of the plan's budget projections, she writes the following: "Additionally, the third paragraph on page two about isn't clear." What is the problem with Janelle's response?
+~summative
+1. Janelle isn't being explicit and is assuming the author already understands what problems exist in the paragraph.*
+2. Janelle isn't using the proper format to respond to business plans.
+3. Janelle isn't analyzing at all in her writing.
+
+## 4.3 Identify and apply different types of analytic processes 
+### 4.3.1 Identify different types of analytic processes 
+
+// self-check
+
+Which type of analysis focuses on the way authors or speakers communicate their message? 
+~formative
+1. Rhetorical analysis*
+2. Critical analysis
+3. Process analysis
+
+Process analysis requires a recommendation or proposed resolution
+~formative 
+1. False*
+2. True
+
+Ricky plans to write a process analysis of his delivery routes for his analysis essay project. His teacher agrees that this would be a fine topic as long as he sticks to the best practices for process analysis.. Would this analysis be descriptive or prescriptive, and why?
+~formative
+1. Descriptive: Ricky wants to study and speculate about the efficiency of his delivery routes. *
+2. Prescriptive: Ricky's purpose in writing the analysis is to issue specific recommendations to his employer about how his route can be improved.
+3. Descriptive: Ricky needs to write about a process by people, and such an analysis is always descriptive.
+4. Prescriptive: Ricky knows that all process analyses are basically step-by-step guides and approaches his essay as a user manual. 
+
+// quiz
+
+Which type of analysis focuses on a specific artifact?
+~summative
+1. Critical Analysis*
+2. Process Analysis
+3. Rhetorical Analysis 
+
+In a critical analysis, the details of the artifact itself should never serve as the evidence supporting a claim.
+~summative
+1. False*
+2. True
+
+Which type of analysis would be appropriate for the following assignment description? <p style=”padding-left:30px;”>For this assignment, you will immerse yourself in The New York Times Opinion section, reading multiple contributors and ultimately choosing an Op-Ed that appeals to you. You will then analyze a variety of author choices presented in both the content and the visuals of the Op-Ed. The author's choices could include context, purpose, audience, tone, diction, syntax, and use ethos, pathos, and logos. </p>
+~summative
+1. Rhetorical Analysis*
+2. Process Analysis
+3. Literary Analysis
+4. News Analysis 
+
+### 4.3.2 Apply different types of analytic processes
+// self-check
+
+Naomi Harper needs to analyze the following advertisement: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  She wants to claim that the ad relies on a false appeal to ethos to sell pills. What is her best evidence for this claim? 
+~formative
+1. The quotations in the bottom panel by reputable citizens (and witnessed by the sheriff) give the ad's claims an inflated sense of credibility.*
+2. The cartoon figures of drunken people in the four corners of the ad confirm that the ad is targeted at credible drunks. 
+3. The use of language like “free from desire” and evils of intemperance” is designed to guilt and/or shame customers into buying the pills. 
+
+Eunice Higgins needs to analyze the following advertisement: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  She thinks the figures in the four corners of the ad represent an appeal to pathos. Is she correct?
+~formative
+1. Yes, the drunken figures are meant to look ridiculous, and remind viewers of the ad that they do not want to be drunkards.*
+2. Yes, the figures are meant to look like doctors and they convey additional credibility.
+3. No, the figures are realistic representations of drunkards and are an appeal to logos. 
+
+Vinton Harper needs to analyze the following advertisement as part of his critical analysis assignment: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  He plans to spend most of the paper writing about the history of the temperance movement. Is this a sound approach? 
+~formative
+1. No. A critical analysis of an artifact should focus mostly on the artifact itself and use external context only as support.* 
+2. Yes. A critical analysis of an artifact should never focus mostly on the artifact itself, and should mostly put the artifact into historical context. 
+3. No. A critical analysis of an artifact should focus mostly on the process it recommends and use external context does not aid in understanding of process. 
+
+// quiz
+
+Fran Crowley needs to analyze the following process:  <iframe width="560" height="315" src="https://www.youtube.com/embed/NgKSrPCu1Xs" frameborder="0" allowfullscreen></iframe> What is the first thing she should do in drafting her process analysis?
+~summative
+1. Describe the process of tortilla baking from beginning to end.*
+2. Propose ways to make the process of tortilla baking faster.
+3. Explain the history of tortillas. 
+
+Luella is given the following assignment prompt: <p style=”padding-left:30px;”>Write an essay in which you analyze a celebrity's Twitter feed to reveal the persona that celebrity (or his or her PR team) is trying to construct.  How do the tweets create an identity for that celebrity?  What is that identity?  Why would that particular celebrity try to construct that particular identity?  What advantages would that have for him/her?</p> Which type of analysis best fits this assignment?
+1. All of these.*
+2. Process Analysis
+3. Rhetorical Analysis
+4. Critical Analysis 
+
+Alberta Meechum needs to write a visual analysis of the following poster, but she does not read Russian. What could she do? <img src=”https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01152012/Soviet_May_day_1929.jpg” alt=”Soviet propaganda ad for May Day, showing workers breaking the bonds of capitalism.”>
+~summative
+1. She could focus on the colors and the symbolism of the broken chains to draft a preliminary analysis.*
+2. She could complain to her teacher that she can't complete the assignment. 
+3. She could ask her Russian friends to translate the words and explain Russian history. 
 
 // Module: Keys to Successful Argument
 # 8 Evaluate keys to successful argument 

@@ -283,8 +283,6 @@ California law is very exact about posting store policy: The policy must be disp
 2. No
 ~feedback: Incorrect A colon is used before a second clause which explains or illustrates the first clause.
 
-
-
 ## 3.4 Critique passages, revising for run-on sentences and fragments 
 
 ### 3.4.1 Recognize run-on sentences
@@ -306,11 +304,69 @@ Which of the sentences are run-ons? Identify them based on their number.
 4. None of the sentences are run-ons. 
 ~feedback: That’s incorrect. Look at the difference between sentences 1 and 3. 
 
+// Module: Analysis 
 
+# 4 Evaluate keys to successful analysis
+Analysis 
 
+## 4.3 Identify and apply different types of analytic processes
+### 4.3.1 Identify different types of analytic processes
 
+~file: types_analysis_practice1
 
+What is Stallman's main claim in the article? 
+1. Online education should avoid using the open but non-free licenses CC-BY-NC and CC-BY-NC-SA because they take control away from student and educator users and they are difficult to apply to educational content. *
+~feedback: Correct. Stallman states in the first paragraph that "For works that might be useful in commercial contexts, the requisite freedom includes commercial use, redistribution and modification." The rest of the article is comprised of evidence and reasons why educators should not use these particular licenses in their work. 
+2. Online education should not use Creative Commons licenses because some CC licenses are non-free. 
+~feedback: That's not correct. Stallman is not arguing against all Creative Commons licenses. In fact, he licensed this article with one. He is specifically targeting BY-NC licenses. The evidence used in the article does not attempt to discourage CC licenses in general. This would be a very different argument, and would use different kinds of support. 
+3. Online education should use GNU licenses instead of Creative Commons licenses. 
+~feedback: That's not correct. Though Stallman, as the founder of the GNU movement, would probably like people to use GNU licenses instead of CC licenses, this article is not fighting that fight. Stallman is arguing specifically for avoiding BY-NC licenses and articulating domain-restricted reasons why. 
 
+Using only the context of the article itself, what statements can you make about Stallman's intended audience? 
+1. Stallman's audience includes readers with familiarity with online education and open educational content. The audience is probably also familiar with Creative Commons licenses and has heard of concepts like "open source" and "copyleft," They are primarily producers of content. * 
+~feedback: That's correct. Stallman jumps right into his argument in this article. He does not take time to define terms or provide context. Thus, we can assume that his intended audience has familiarity with this content domain. Though he provides hyperlinks to further explanations of some terms, the argument itself proceeds without explicit confirmation that the audience knows what the terms mean. 
+2. Stallman's audience includes teachers and students with an interest in online education. They are primarily consumers of content. 
+~feedback: That's not correct. Most of the language of this article is targeted at an audience involved in the production and dissemination of content. A basic user (teacher or student) of open educational content would likely be confused by the second person "you" in this article, given that their purpose is primarily consumption of content rather than production. 
+3. Stallman's audience is primarily software developers in the open-source movement. This audience comes is familiar with software licensing systems but has little to no experience with disseminating open educational resources. 
+~feedback: That's not correct. Though you are right that Stallman's overall audience is usually developers and academics in the open-source software movement, there is very little content in this article that is domain-specific to software developers. Given that CC licenses are not used frequently with software projects, Stallman's assumption that his audience is familiar with the CC license framework suggests that this article in particular is not primarily targeted at software developers (they may be a secondary audience). 
+
+### 4.3.2 Apply different types of analytic processes 
+
+~file: types_analysis_practice2
+
+Is this assignment asking for descriptive analysis or prescriptive analysis? 
+1. Descriptive analysis*
+~feedback: Correct. Even though the assignment does ask the writer to issue recommendations, the context of the analysis is exploratory. It is not a proposal, which would more likely include prescriptive analysis. 
+2. Prescriptive analysis 
+~feedback: That's incorrect. Even though the assignment does ask the writer to issue recommendations, the context of the analysis is exploratory. It is not a proposal, which would more likely include prescriptive analysis. 
+
+Joanne wrote the following when she was brainstorming how to get started on this assignment: 
+<p style="padding-left: 30px;"> I really feel like the Chick-fil-A line in the Union is inefficient. Dining services knows that Chick-fil-A is the most popular lunch choice on campus, so why is the line so slow? Surely this process could be improved with a little common sense. I think I want to write about this, but I'm not sure where to start. Hmmm…</p>
+Which is the best approach to writing this paper? 
+1. Joanne should observe the process on at least three separate occasion and keep detailed notes in her journal. She should analyze her observations and gather quantitative data about the number of people served in line and formulate an initial thesis. She can use this thesis to frame the rest of her process analysis. *
+~feedback: Correct. Joanne has a hunch about the Chick-fil-A line, but she can't know if her hunch is valid without data. The most important part of a process analysis is to assemble a complete picture of the process itself. Sometimes this can involve observation or study before the drafting of the essay can even begin. 
+2. Joanne should gather academic sources about the history of fast food restaurants and study the marketing materials from Chick-fil-A. She should build a thesis about how the line should function based on historical research and guidelines from the company. 
+~feedback: That's incorrect. Though Joanne might end up with a good research paper or proposal following this method, she won't have a process analysis. The most important part of a process analysis is to assemble a complete picture of the process itself. Sometimes this can involve observation or study before the drafting of the essay can even begin. 
+3. Joanne should interview her classmates about their experiences with the Chick-fil-A line and contact her friends at other schools to find out how their Chick-fil-A lines work. Then she can begin drafting an essay about how to improve the line based on the statements given by her interviewees.
+~feedback: That's incorrect. Though this kind of research is useful in other types of writing projects, it isn't helpful for a process analysis. The most important part of a process analysis is to assemble a complete picture of the process itself. Sometimes this can involve observation or study before the drafting of the essay can even begin. 
+
+### 4.3.2 Apply different types of analytic processes 
+
+~file: types_analysis_practice3
+
+Mae Belle knows that to write a successful critical analysis she first has to write a successful description. Which of the following is a logical way for her to organize her description of the Lucky Strikes ad? 
+1. She should begin her description by explaining what the ad is selling and contextualizing the time period. Then, she should follow a physical description of the ad, commenting on colors, typography, and arrangement, generally moving from the top left to the bottom right.*
+~feedback: That's correct. The best way to describe an ad or other visual artifact is to provide as much realistic detail as possible organized in a way that corresponds to the way a viewer would perceive the ad itself. 
+2. She should begin her description by commenting on the false ethos established by the doctor in the ad recommending cigarettes. She should also note the prevalence of the word "toasted," which can be associated with hearty food. 
+~feedback: That's incorrect. These sentences start to analyze the ad. If Mae Belle is trying to describe the ad first, she shouldn't get into the meaning of each part. The best way to describe an ad or other visual artifact is to provide as much realistic detail as possible organized in a way that corresponds to the way a viewer would perceive the ad itself. 
+3. She should begin her description by explaining the history of cigarette advertising in the U.S. and rely on research sources to contextualize the Lucky Strike brand. She should then describe the ad's relationship to other cigarette brand ads of the time period.
+~feedback: That's incorrect. Though this might make an interesting paper, if Mae Belle's purpose is to write a critical analysis and to begin with a description of the ad, she's off on the wrong foot. A description should focus on what's taking place within the ad. The best way to describe an ad or other visual artifact is to provide as much realistic detail as possible organized in a way that corresponds to the way a viewer would perceive the ad itself. 
+
+Iola tells Mae Belle not to use a "part by part" organization for her critical analysis because it doesn't fit this kind of artifact. Is she right?
+1. No*
+~feedback: Correct. A part-by-part organization for an analysis of this ad might focus on different visual components of the ad one at a time: a section on the typography, a section on the colors, a section on the characters, and a section on the placement of the brand. 
+2. Yes
+~feedback: Incorrect. A part-by-part organization for an analysis of this ad might focus on different visual components of the ad one at a time: a section on the typography, a section on the colors, a section on the characters, and a section on the placement of the brand. 
 
 // Module: Keys to Successful Argument
 # 8 Evaluate keys to successful argument 
