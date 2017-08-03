@@ -1603,6 +1603,305 @@ Alberta Meechum needs to write a visual analysis of the following poster, but sh
 2. She could complain to her teacher that she can't complete the assignment. 
 3. She could ask her Russian friends to translate the words and explain Russian history. 
 
+// Module: Rhetorical Appeals
+
+# 5 Recognize and Evaluate Rhetorical Appeals
+Rhetorical Appeals
+
+## 5.1 Recognize and establish appeals to logos
+### 5.1.1  Recognize appeals to logos
+
+// self-check
+
+Appeals to logos are which of the following? 
+~formative
+1. Appeals to logic or reasoning.*
+~feedback: Appeals to logos focus on logic or reasoning.
+2. Appeals to emotions.
+Feedback: Incorrect. Appeals to pathos focus on emotions.
+3. Appeals to credibility
+Feedback: Incorrect. Appeals to ethos focus on credibility.
+
+Maude is writing a paper arguing for a campus smoking ban. Which kind of support would be an appeal to logos?
+~formative
+1. Data from university landscaping about the volume of cigarette butts collected from the ground.*
+2. A statement from the university’s leading cancer researcher about the dangers of smoking while in college.
+3. Images of cancerous lungs and grieving families. 
+
+How does the following video appeal to logos? <iframe width="560" height="315" src="https://www.youtube.com/embed/zBhKSk1966w" frameborder="0" allowfullscreen></iframe>
+~formative
+1. The use of physical dimensions of the various ships accurately scaled using 3D modeling.*
+2. The use of a creative commons/free culture license.
+3. The use of soothing music and visually appealing color combinations. 
+
+// quiz
+
+Appeals to logos are appeals to credibility. True or false?
+~summative
+1. False*
+2. True
+
+Jared is writing a paper arguing for free parking on campus. What kind of support would not be an appeal to logos?
+~summative
+1. Testimony from students about the hardships of having to pay dozens of parking tickets a semester.*
+2. Data from the university about the cost of paying for parking enforcement versus the revenue received from parking passes. 
+3. Policies from peer institutions that are more flexible and accommodating with their parking policies. 
+
+How does the following infographic appeal to logos? <img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/02142855/logos_infographic.jpg" alt="infographic showing numbers of cancer cases scaled with circles">
+// https://ccsearch.creativecommons.org/image/detail/TfmLZFIpaoc_Tgc4x6opBg==
+~summative
+1. Its use of numbers of cancer cases displayed in accurately scaled circles by type.*
+2. Its watermark from the CDC in the bottom right corner.
+3. Its attempt to draw attention and empathy to less-developed regions. 
+
+### 5.1.2 Evaluate appeals to logos
+
+// self-check
+
+While preparing a presentation for kindergarteners about polar bear habitat loss, Stevarious plans to incorporate lots of graphs and tables to illustrate the problem. Is this an effective use of a logos appeal?
+~formative
+1. No. This kind of evidence will not help kindergarteners understand the presentation. *
+2. Yes. Extensive use of quantitative evidence always makes an argument stronger, regardless of the audience.
+
+Does the bar graph represent a manipulative use of logos? <img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/02145138/Bush_cuts2.png" alt="bar graph showing tax cuts">
+~formative
+1. Yes. Though the data is accurate and correct, the graph’s range is deceptively small making it seem like there is a much wider gap between the percentages than there is.*
+2. No. This bar graph displays correct data accurately. Visualizations that are based on raw data cannot be manipulative as long as they are factually correct. 
+
+Which of the following scenarios ignores kairos in relation to logos?
+~formative
+1. Colter uses data from the 1930 census to make a case for building more housing in Cleveland, Ohio.*
+2. Travis uses data from the 1930 census to explore why Cleveland, Ohio was racially segregated. 
+3. Cleo uses data from the 1930 census to illustrate the psychology of poverty. 
+
+// quiz
+
+Ryan, a polar biologist, is presenting to a panel of climate scientists about the effect of melting ice caps on polar bear populations. He should incorporate quantitative data wherever possible to support his claim. True or false?
+~summative
+1. True*
+2. False
+
+Is the following scenario an effective use of logos? <p style="padding-left:30px">Cletus is trying to convince his professor to give him an A in his math class despite skipping class for 6 consecutive days. He brings proof of attendance for all previous math classes and provides evidence that he has not regularly skipped classes in the past.</p>
+~summative
+1. No. This is a smoke screen fallacy.*
+2. Yes. Quantitative evidence always improves the effectiveness of an argument
+
+How does kairos relate to logos?
+~summative
+1. Logic and facts are contextual and must be timely and relevant to be effective.*
+2. Facts and data are only valid if current. Older information cannot provide support for an argument. 
+3. Kairos refers to the amount of time needed to make an argument and is not related to logos. 
+
+## 5.2: Recognize and evaluate appeals to pathos
+### 5.2.1: Recognize appeals to pathos
+
+// self-check
+
+Appeals to pathos are which of the following?
+~formative
+1. Appeals to logic or reasoning
+~feedback: Incorrect. Appeals to logos focus on logic or reasoning.
+2. Appeals to emotions.*
+~feedback: Correct. Appeals to pathos focus on emotions.
+3. Appeals to credibility
+~feedback: Incorrect. Appeals to ethos focus on credibility.
+
+Even if an appeal to pathos is not manipulative, it should complement rather than replace reason and evidence-based argument.
+~formative
+1. True*
+~feedback: Correct. Academic argument does not rely solely on appeals to pathos. 
+2. False
+~feedback: Incorrect. Academic argument does not rely solely on appeals to pathos.
+
+Which of the following is not a way in which an author may try to connect with an audience in an attempt to appeal to pathos?
+~formative
+1. Connecting through values
+~feedback: Incorrect. A writer may try to use an appeal to pathos by connecting with an audience's values.
+2. Connecting through attitudes
+~feedback: Incorrect. A writer may try to use an appeal to pathos by connecting with an audience's attitudes.
+3. Connecting through critical reasoning*
+~feedback: Correct. Since critical thinking involves removing emotion, this is not a way in which an author would try to connect with an audience in an attempt to appeal to pathos.
+4. Connecting through beliefs
+~feedback: Incorrect.  A writer may try to use an appeal to pathos by connecting with an audience's beliefs.
+
+// quiz
+
+Which of the following is an example of a legitimate appeal to pathos in an academic paper?
+~summative
+1. An argument against the current death penalty process in a state using the story of a man whose execution went horribly wrong because the drug used to facilitate the death was faulty.*
+2. An argument against the current death penalty process in a state using photos of a current death row inmate when he was a child.
+3. An argument against the current death penalty process in a state using the story of how a death row inmate's two murder victims were both previously convicted of and jailed for domestic assault but were paroled after serving short sentences. 
+
+Which of the following examples demonstrates consideration of kairos in an appeal to pathos?
+~summative
+1. Typing a text message to your mother to tell her that you miss and love her.
+2. Writing a paper on the emotional power of jazz for your Music Appreciation class several days before it is due so there is time to revise.
+3. Publishing an anti-war opinion piece in the local newspaper the day after a children's hospital was accidentally bombed in an air strike.*
+
+Providing a list of different insurance companies and their in-network doctors on a website dedicated to treating breast cancer is an example of an appeal to pathos.
+~summative
+1. True
+2. False* 
+
+### 5.2.2: Evaluate appeals to pathos
+
+// self-check 
+
+Trey is writing an opinion piece for the school newspaper about why the athletics mascot should not have been changed from Colonel Reb to a Black Bear. Which of the following is the best approach to avoid misusing an appeal to pathos?
+~formative
+1. Trey should argue that Colonel Reb is part of the school's tradition.
+~feedback: Incorrect. An appeal to tradition assumes that just because something was done in the past that it is correct and proper, which oversimplifies most situations and appeals to emotion over logic.
+2. Trey should argue that since opponents of Colonel Reb got the mascot changed, everything about the school will change.
+~feedback: Incorrect. This is a slippery slope fallacy and an appeal to fear; Trey is seeking to make readers get overly emotional about the issue by making it move beyond the topic at hand.
+3. Trey should argue that there should have been more discussion and communication between current students, alumni, and administration before such a huge decision was made.*
+~feedback: Correct. An argument asking for continued dialog on an issue is not attempting to manipulate emotions. 
+
+While writing a paper for her Political Science course on how elected officials in her home state have and have not delivered on campaign promises, Niya mentions, accurately, that one of the state's congressional representatives has missed more than 30% of the House votes over the past year. Is this a legitimate use of an appeal to pathos given the topic?
+~formative
+1. Yes*
+~feedback: Correct. Though the statistic may make some readers angry, it is a legitimate figure to include in an examination of how elected state officials are performing. 
+2. No
+~feedback: Incorrect. Though the statistic may make some readers angry, it is a legitimate figure to include in an examination of how elected state officials are performing.
+
+An appeal to fear is always a good way to reach an audience.
+~formative
+1. True
+~feedback: Incorrect. Misuse or overuse of appeals to fear is a fallacy that may not work on many members of an audience.
+2. False*
+~feedback: Correct. Misuse or overuse of appeals to fear is a fallacy that may not work on many members of an audience.
+
+// quiz
+
+Fisher is writing an application letter for a college scholarship. His first choice of schools is a little more expensive than his family can afford, so Fisher is putting a lot of effort into obtaining at least a partial scholarship at that institution. Which of the following parts of his letter is an example of a manipulative appeal to pathos?
+~summative
+1. Fisher explains that all throughout high school he earned good grades while playing at least one sport and holding a part-time job.
+2. Fisher explains that his older sister, his mother, and his father all went to the school, so it would be devastating for the family if he couldn't continue the tradition.*
+3. Fisher explains that he is interested in ultimately attending law school and, upon graduation, returning to his hometown to help people in need of legal representation.
+
+Which of the following passages is the most effective strategy for using an appeal to pathos in an academic piece of writing?
+~summative
+1. Be sure to include anecdotal information that will make readers angry and thus eager to act on their anger.
+2. Cite experts throughout your work, making sure that your sources are well-respected individuals in their fields.
+3. Find a value you hold in common with the audience and build that connection into an otherwise logic-driven piece of writing.*
+
+Stacy is working on an annotated bibliography for her Psychology of Parenting class. As a small homework assignment related to the major project, students were asked to write an assessment of a questionable source they came across in researching their term papers. Stacy chose an article she found that seemed to rely too heavily on appeals to pathos. Which of the following passages from the source should she refer to as an example in her assignment? 
+~summative
+1. Parents need to instill more discipline in their children or face the likelihood of poor report cards, lazy work habits, and potential drug and alcohol abuse.*
+2. A recent study by researchers at Johns Hopkins University shows that children between the ages of 3-6 respond well to a structured daily routine.
+3. Eating dinner as a family regularly can have a positive impact on a child's behavior.
+
+## 5.3 Recognize and establish appeals to ethos
+### 5.3.1 Recognize appeals to ethos
+
+// self-check
+
+When you evaluate an appeal to ethos, you are considering:
+~formative
+1. How successfully the author appeals to emotion.
+~feedback: Incorrect. Appeals to emotion are pathos appeals.
+2. How successfully the author establishes logic.
+~feedback: Incorrect. Appeals to logic are logos appeals.
+3. How successfully the author establishes credibility.*
+~feedback: Correct. Ethos refers to credibility.
+
+When you evaluate an appeal to ethos, you should consider each of the following areas except:
+~formative
+1. The author's background.
+~feedback: Incorrect. The author's background is a part of ethos.
+2. The emotions the writing evokes.*
+~feedback: Correct. This is an appeal to pathos rather than ethos.
+3. The evidence and sources.
+~feedback: Incorrect. The evidence and sources are a part of ethos.
+
+Calling your opponent an ignoramus is a good way for an author to establish ethos.
+~formative
+1. True
+~feedback: Incorrect. Calling an opponent an ignoramus is an example of the name-calling fallacy that is a misuse of ethos.
+2. False*
+~feedback: Correct. Calling an opponent an ignoramus is an example of the name-calling fallacy misuses ethos appeals.
+
+// quiz
+
+When evaluating an artifact's appeal to ethos, all of the following are pertinent questions <strong>except</strong>:
+~summative
+1. Will the audience be persuaded that the author's background includes relevant education and experience for this topic?
+2. Does the writer demonstrate familiarity with different opinions and perspectives on this topic?
+3. Does the writer use unbiased language?
+4. Does the writer make an effort to touch the hearts of the audience?*
+
+Which of the following is a manipulative appeal to ethos?
+~summative
+1. Explaining relevant experience and education.
+2. Acknowledging the opposition.
+3. Attacking the opposition's character.*
+4. Using evidence.
+
+A political candidate's choice to wear a flag pin so that his audience will associate him with American ideals and values during his campaign is an example of:
+~summative
+1. Transfer fallacy*
+2. Plain folk fallacy
+3. Testimonial
+4. Guilt by association
+
+### 5.3.2 Recognize strategies for establishing appeals to ethos
+
+// self-check
+
+Each of the following is a way to establish your ethos as a writer except:
+~formative
+1. Explaining your education as it is related to the issue.
+~feedback: Incorrect. Explaining your related education is a way to establish ethos.
+2. Explaining your experience with the issue.
+~feedback: Incorrect. Explaining your related experience is a way to establish ethos.
+3. Citing experts who have relevant experience with the issue.
+~feedback: Incorrect. Using relevant sources is a way to establish ethos.
+4. Linking the opposition with an unpopular group.*
+~feedback: Correct. This technique, called guilt by association, is a logical fallacy that misuses ethos appeals.
+
+Using a signal phrase that explains the credentials of the researchers to introduce a scientific study is one way to build ethos through sources.
+~formative
+1. True*
+~feedback: Correct. Signal phrases highlighting the source's credentials are a good way to establish ethos.
+2. False
+~feedback: Incorrect. Signal phrases highlighting the source's credentials are a good way to establish ethos.
+
+Sophomore student Marcus is writing a paper for his philosophy course on Plato. He has never studied Plato before. Which of the following is a good way for him to establish ethos in the paper?
+~formative
+1. Mention that his roommate's father is Greek.
+~feedback: Incorrect. Vague associations with Greek culture will not establish ethos.
+2. Explain how interesting the course has been, especially the section on Plato.
+~feedback: Incorrect. Flattering the professor will not establish ethos.
+3. Incorporate evidence from well-regarded philosophy journals.*
+~feedback: Correct. Demonstrating that he has thoroughly researched the topic through well-regarded sources in the field will establish ethos.
+
+// quiz
+
+Ebony is writing a paper advocating increased technology in elementary classrooms. Which of the following is an effective way for her to establish ethos in the paper?
+~summative
+1. Write more than the suggested word count for the assignment
+2. Include pictures of bored children using paper and pen.
+3. Use a reasoned tone and acknowledge the opposing side.*
+
+Associated Student Body President Devon is writing a proposal to the campus administration for the construction of multi-purpose paths on campus. Which of the following strategies is not an effective way for her to establish ethos in the proposal?
+~summative
+1. Use impassioned language and an enraged tone.*
+2. Include examples of her own experiences as a student on the campus.
+3. Include relevant evidence from respected peer institutions that have constructed multi-purpose paths.
+
+Writers can establish ethos by all of the following except:
+~summative
+1. Demonstrating that their education is related to the issue.
+2. Acknowledging the opposition and the complexity of the issue.
+3. Incorporating respected sources related to the issue.
+4. Evoking emotions associated with the issue.*
+
+A writer who is using kairos to establish ethos might use which of the following strategies:
+~summative
+1. Write about a campus issue that is currently under consideration and has received wide attention.*
+2. Use sources that are well-regarded.
+3. Highlight his or her own experience with the topic.
+4. Acknowledge the complexity of the issue.
+
 // Module: Keys to Successful Argument
 # 8 Evaluate keys to successful argument 
 Argument

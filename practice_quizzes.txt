@@ -368,6 +368,48 @@ Iola tells Mae Belle not to use a "part by part" organization for her critical a
 2. Yes
 ~feedback: Incorrect. A part-by-part organization for an analysis of this ad might focus on different visual components of the ad one at a time: a section on the typography, a section on the colors, a section on the characters, and a section on the placement of the brand. 
 
+// Module: Rhetorical Appeals
+
+# 5 Recognize and Evaluate Rhetorical Appeals
+Rhetorical Appeals
+
+## 5.1 Recognize and establish appeals to logos
+### 5.1.1  Recognize appeals to logos
+
+~file: recognize_logos_practice
+
+How does this video about vehicle safety features appeal to logos? 
+1. The specific details about the safety features of the car reveal a focus on logos.*
+~feedback: That's correct. The more specific, verifiable details in a source, the stronger its appeal to logos. 
+2. The speaker's confident, assertive voice puts the viewer at ease, and is a strong appeal logos. 
+~feedback: That's incorrect. This would be an appeal to pathos or ethos, not to the logic or factual validity of the video.
+3. The Toyota branding and production quality represent a strong appeal to logos.
+~feedback: That's incorrect. The production quality and branding of the video add to credibility, so are stronger appeals to ethos. 
+
+### 5.1.2 Evaluate appeals to logos
+
+~file: evaluate_logos_practice
+
+Based on this map, which of the following statements is factually correct?
+1. Texas and California had the most crimes committed in 2004.*
+~feedback: That's correct. The map accurately displays the data with California and Texas having the darkest shades of red.
+2. Texas had a higher number of crimes than california in 2004.
+~feedback: That's incorrect. We don't have any way of knowing that from this map because actual numbers of crime per state are not included.
+3. California is extremely dangerous.
+~feedback: That's incorrect. This map does not make that claim, and if you were to use this map in support of your own claim, you would need more statistical evidence. 
+
+Claude wants to use this map as evidence to show that crime rates are very high in California and Texas. Is this a valid use of the data?
+1. No.*
+~feedback: That's correct. This map shows total number of crimes, not crime rates. Without knowing the population of these states, we cannot extrapolate the crime rate from this map without additional data.
+2. Yes.
+~feedback: That's incorrect. This map shows total number of crimes, not crime rates. Without knowing the population of these states, we cannot extrapolate the crime rate from this map without additional data.
+
+Is this map itself a manipulative appeal to logos?
+1. No.*
+~feedback: That's correct. Data itself cannot be manipulative, and the map accurately represents the data about total number of crimes. This map could be used to make a manipulative appeal to logos.
+2. Yes
+~feedback: That's incorrect. Data itself cannot be manipulative, and the map accurately represents the data about total number of crimes. This map could be used to make a manipulative appeal to logos. 
+
 // Module: Keys to Successful Argument
 # 8 Evaluate keys to successful argument 
 Argument
