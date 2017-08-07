@@ -1,6 +1,644 @@
 OleMiss Writing 100 - F17
 ~71247c03-c642-4652-a825-23edd4d1d8e1
 
+// module: Rhetorical Reading 
+
+# 1 Define and evaluate strategies for rhetorical reading and building vocabulary. 
+Rhetorical Reading
+
+## 1.1 Define and identify rhetorical contexts
+Define and identify rhetorical contexts
+
+### 1.1.1 Define the concept of rhetorical context
+Define the concept of rhetorical context
+
+// self-check
+
+Rhetorical context refers to the circumstances surrounding an act of reading and/or composition.
+~formative
+1. True*
+~feedback: Correct.
+2. False
+~feedback: Incorrect.  Rhetorical context refers to the circumstances surrounding an act of reading and/or composition.
+
+Rhetorical context includes all of the following, except:
+~formative
+1. Author
+~feedback: Incorrect. Author is part of rhetorical context.
+2. Purpose
+~feedback: Incorrect. Purpose is part of rhetorical context.
+3. Metaphor*
+~feedback: Correct. Metaphor is a figure of speech, not part of rhetorical context. Remember that rhetorical context refers to the circumstances surrounding an act of reading and/or composition.
+
+Purpose in rhetorical context refers to:
+~formative
+1. What a reader or writer is trying to accomplish*
+~feedback: Correct.
+2. The external motivation of a reader or writer
+~feedback: Incorrect. The external motivation is the occasion.
+3. The issue the composer is writing about
+~feedback: Incorrect. The issue is the topic.
+
+// quiz
+
+The circumstances surrounding an act of reading and/or composition are referred to as:
+~summative
+1. Rhetorical occasion
+2. Rhetorical purpose
+3. Rhetorical context*
+
+Rhetorical occasion refers to:
+~summative
+1. The issue under consideration
+2. The motivation for writing*
+3. The purpose for writing
+
+Topic refers to:
+~summative
+1. The issue or information being discussed in a text*
+2. The motivation for writing
+3. The author 
+
+### 1.1.2 Identify writers' rhetorical contexts
+Identify writers' rhetorical contexts
+// self-check
+
+Read Lincoln's "Gettysburg Address," and then answer the questions below.
+<p style="padding-left: 30px;">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</p><p style="padding-left: 30px;"> But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.</p>
+~formative
+1. The occasion for Lincoln's Gettysburg Address is revealed in which of the following lines:
+<em>We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.</em>*
+2. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. 
+3. The world will little note, nor long remember what we say here, but it can never forget what they did here.
+
+The purpose for Lincoln's Gettysburg Address is revealed in which of the following lines:
+~formative
+1. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.*
+2. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.
+3. Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+The topic of Lincoln's speech can best be described as:
+1. The connection between the sacrifices of the Civil War and the preservation of the Union*
+2. The burial of the soldiers in the cemetery
+3. The beauty of the landscape
+
+// quiz
+
+Read Lincoln's "Gettysburg Address." Then answer the questions below.
+<p style="padding-left: 30px;">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</p><p style="padding-left: 30px;"> But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.</p>
+The line, <strong>"We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live,"</strong> reveals which part of the rhetorical context?
+~summative
+1. Occasion*
+2. Author 
+3. Purpose
+
+The line, <strong>"It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth,"</strong> reveals which part of the rhetorical context?
+~summative
+1. Purpose*
+2. Occasion
+3. Author
+
+Lincoln's repeated use of the word "we" in the speech is an attempt to engage which part of the rhetorical context?
+~summative
+1. Purpose
+2. Audience*
+3. Topic
+
+### 1.1.3 Identify readers'/responders' rhetorical contexts 
+Identify readers'/responders' rhetorical contexts 
+
+// self-check
+
+For a course in ancient history, you have been asked to read <em>The Odyssey</em> and write a paper analyzing how the themes in The Odyssey represent the values of the ancient world. Within this rhetorical context, the purpose is:
+~formative
+1. To analyze the themes of <em>The Odyssey</em>*
+2. To read the book and write a paper
+3. To do well in your ancient history course
+
+For a biology course, you have been asked to read a research study in an academic journal and write a paper evaluating the strengths and weaknesses of the study.  Within this rhetorical context, the occasion is
+~formative
+1. Fulfilling the assignment and the desire to well in the course*
+2. Reading the research study and writing the paper
+3. Evaluating the study's strengths and weaknesses
+
+For a journalism course, you are required to write an editorial on campus parking that will appear in the campus newspaper.  Within this rhetorical context, your audience will be
+~formative
+1. Your journalism professor
+2. Readers of the campus newspaper
+3. Your journalism professor and readers of the campus newspaper*
+
+// quiz
+
+For a political science class, a student is assigned to watch the president's State of the Union address and write an argument about which of the points in the speech will be the most important in the coming year.  Within this rhetorical context, the purpose is
+~summative
+1. To evaluate the most important points in the speech*
+2. To write the paper
+3. To do well on the paper
+
+For a debate class, you are asked to read a current piece of legislation and then write a speech arguing against the piece of legislation. Within this rhetorical context, your position as author should be
+~summative
+1. A supporter of the legislation
+2. An objective reporter
+3. An opponent of the legislation*
+
+For a marketing report, you are asked to read the earnings report of a Fortune 500 company and then write a paper evaluating the potential for growth of the company. Within this rhetorical context, the occasion is
+~summative
+1. To evaluate the potential for growth of the company
+2. The assignment to read the report, write the paper, and do well in the class*
+3. The earnings report of the Fortune 500 company
+
+## 1.2 Identify active reading strategies
+Identify active reading strategies
+
+### 1.2.1 Identify active reading strategies 
+Identify active reading strategies 
+
+// self-check
+
+Highlighting promotes active reading.
+~formative
+1. True
+~feedback: Incorrect. Highlighting merely indicates—vaguely—that you found a certain passage more important than the surrounding text. Highlighting doesn't involve having a conversation with a text.
+2. False*
+~feedback: Correct.  Highlighting merely indicates—vaguely—that you found a certain passage more important than the surrounding text. Highlighting doesn't involve having a conversation with a text.
+
+Active reading mirrors conversations between people.
+~formative
+1. True*
+~feedback: Correct. Active readers "listen" to the text, evaluating what the writer says, checking to see if it matches or differs from their current understanding of the issue or idea.
+2. False
+~feedback: Incorrect. Active readers "listen" to the text, evaluating what the writer says, checking to see if it matches or differs from their current understanding of the issue or idea.
+
+People sometimes read the same texts for different reasons.
+~formative
+1. True*
+~feedback: Correct. People read texts for different reasons based on the rhetorical context.
+2. False
+~feedback: Incorrect. People read texts for different reasons based on the rhetorical context.
+
+// quiz
+
+Since reading is a recursive act, there is no need to go back and do parts of the reading process loop once you have done them.
+~summative
+1. True
+2. False*
+
+You should not take breaks when reading difficult works because you may forget what you have read and need to start over.
+~summative
+1. True
+2. False*
+
+Robbie is reading an article on the juvenile justice system for his Criminal Justice class. He should block out what he knows about the subject after growing up with a father in law enforcement because his personal knowledge is biased.
+~summative
+1. True
+2. False*
+
+### 1.2.2 Evaluate active reading strategies
+Evaluate active reading strategies 
+
+// self-check
+
+Rachel has an exam in her Political Science class. In addition to covering lecture notes, the exam will feature a written response to a set of three short articles written by politicians from rural areas and how they have made an impact in Washington, D.C. What is the best way for Rachel to prepare before she reads the articles?
+~formative
+1. Talk to her classmates about which of the articles is most important so she can write about it the most.
+~feedback: Incorrect. Though it might be helpful to talk to classmates about the articles, it is unlikely the professor expects students to determine one as most important and deserving of more attention. Think about rhetorical context.
+2. Learn about the three politicians and their home areas so she better understands the rhetorical context for the articles.*
+~feedback: Correct. Better understanding the rhetorical context for the writings may help Rachel provide deeper insight in her response.
+3. Decide which article to focus on the most so she can read it more carefully and annotate it well.
+~feedback: Incorrect. It is unlikely the professor expects students to determine one article as most important and deserving of more attention. Think about rhetorical context.
+
+Steve is writing an analysis of a William Faulkner short story for his American Literature course. He read his assignment carefully three times; learned more about Faulkner on a website; read the story twice, annotating it each time; and made a short list of vocabulary words that he has looked up, studied, and used in other contexts. What is his best next step before drafting his paper?
+~formative
+1. Steve has completed all possible steps of the reading loop and should begin drafting.
+~feedback: Incorrect. Though Steve has been thorough in his reading process so far, there are many other steps he can take to help expand his knowledge of the text, his own purpose, and the author's rhetorical context. 
+2. Steve could meet with a classmate to discuss their thoughts on the text and the circumstances under which it was written.*
+~feedback: Correct. Checking your comprehension (and perhaps furthering it) of a reading can be a valuable part of the process.
+3. Steve should continue annotating the text because more notes is better when writing an analysis.
+~feedback: Incorrect. More notes does not always mean better comprehension of a reading.
+
+Rosalinda is reading a four-page, difficult passage about ethics in her Philosophy class. Which of the following is the best strategy while she reads?
+~formative
+1. Connect ideas from the passage to what she has learned about ethics in her church group.*
+~feedback: Correct. Connecting a text to what you already know about a topic is a good reading strategy.
+2. Read very small bits of the passage over several days to make sure she has plenty of time to think about the material.
+~feedback: Incorrect. While taking a break during reading is often a good idea, reading a four-page passage shouldn't take several days. Perhaps she may re-read the passage after a break to help with comprehension.
+3. Highlight all the parts she doesn't understand so she can focus on them later.
+~feedback: Incorrect. While highlighting can be useful, think of annotating a text as having a conversation with it. Write questions, and try to pinpoint what it is that you don't understand so that you are actively thinking about the text. 
+
+// quiz
+
+Archie, your classmate, has been working with you to improve his reading skills. He tells you, "I'm trying to summarize this article for Professor Mehitabel's class. I can't seem to stop myself from just writing out everything in my own words. It's taking forever." Which response should you offer to help him get better with active reading?
+~summative
+1. "Archie, you've got to write down all the stuff in the headings and make an outline first. Then you can try summarizing based on that. A summary is just the article, only shorter."
+2. "Archie, while working on active reading, don't worry about summarizing. Focus instead on marking words and concepts as you go, and make predictions about what is coming. Create a vocabulary list for the things to define later."*
+3. "Archie, it sounds like you're paraphrasing rather than summarizing. Make sure your notes all use exact language from the article so that you can find the passages later when you are studying."
+
+You just finished reading a long assignment and take a look at the pages of notes you made about it. How are you going to make sense of what you just read so that you don't forget it?
+~summative
+1. It is time to begin another reading of the book after a break. For the next reading, take notes on all of the parts you had difficulty with the first time and then talk about them with your professor.
+2. It is time to take your notes and create an outline or concept map so that you can summarize the material. You read actively, annotating your text and making a vocabulary list, so you have the ingredients you need for a summary.*
+3. It is time to look over the book to see how it is put together structurally. You need to make notes on the key questions you want to answer as you skim, and you need to review what you already know about the subject.
+
+Tabitha completed the reading process loop by reviewing her Organic Chemistry reading notes. What advantage did she have over her classmates who only highlighted the key terms in the book?
+~summative
+1. Tabitha had physical proof that she actually read and could use her review concept maps and summaries as backup for an open note exam.
+2. The review helped her recall the content because she made links between the concepts and the material she already knew. Now her new vocabulary terms have context for her.*
+3. The concept maps, summaries, matrices, and group discussions she did provided evidence that she fully understood the material and was prepared for the quiz. 
+
+One of your reading group members, Hunter, is reading over the section headings in the assigned chapters of your course's Biology textbook. He says he wants to get a better sense of the content of the two chapters before he reads them. What is your best response to help him with active reading?
+~summative
+1. "I would just get to the reading, Hunter. Our group wants to study for the test, so we need to discuss what the exam might cover."
+2. "That is a good idea, Hunter. If you know the main parts of the chapters, you might not need to read all the pages and still be covered for the test."
+3. "That is a good idea, Hunter. It will help you think about possible relationships in the material and how the text is structured."* 
+
+Your friend Christina meets you for lunch early in the semester and says she doesn't understand what's going on in the Art History class she is taking and that you took last semester. You remember that you did well in the class but it took a lot of careful reading to be prepared for the exams and to write the term paper. Christina says she has blown off the required reading and now feels overwhelmed. What is your best advice for your friend?
+~summative
+1. You tell Christina that she should go meet with the professor and explain that she doesn't know what is going on the course and needs help with what to read.
+2. You tell Christina that she should talk to classmates about the reading that she hasn't done so she can get a better sense of what she has missed so far.
+3. You tell Christina that she should start by looking over the course goals and upcoming assignments so she better understands her rhetorical context as a reader.*
+
+## 1.3 Evaluate strategies for retaining new words
+Evaluate strategies for retaining new words
+
+### 1.3.1 Identify strategies for using context clues
+Identify strategies for using context clues
+
+// self-check
+
+Faced with the trauma of an underdeveloped vocabulary, your best friend asks you what tools she should use to help her study for the GRE. She is always online and likes to play games. After evaluating her situation and needs, which is the most effective advice for her situation?
+~formative
+1. "Your vocabulary will come if you read, read, read. Don’t sweat the small stuff. The average newspaper in this country is written at the 6th grade level, isn’t it?"
+2. "Keep track of the words people say and write them down. Look them up, keeping track of meanings and classifying them for your own personal lexicon." 
+3. "That laptop of yours can do more than access Facebook. Use Oxford Advanced Learner’s Dictionary to look things up and play games with sites like Word Games on Yahoo."*
+
+Using the context clue provided, what is the most accurate definition of the word in bold? 
+The head of the <strong>ophidian</strong> raised from the shoulder of the statue and disappeared, to glide out from beneath the arm in a swift undulation, its jaws open, its tongue vibrating. 
+~formative
+1. The description includes gliding, open jaws, and a vibrating tongue. This suggests that an ophidian is probably a snake. *
+2. The sentence mentions the shoulder of a statue, so ophidian must refer to a type of statue. 
+3. Ophidia means "invisible" because of the word "disappeared." 
+
+True or false: the word "interdigitate" probably means "to interlock fingers" because the root "inter" means "between" and "dig" is the root for "finger. 
+~formative
+1. True*
+2. False 
+
+// quiz
+
+Fran wants to start keeping a Lexicon to help her prepare for the LSAT. She hates computers and technology but has heard that she should keep her lexicon online. What advice do you give her? 
+~summative
+1. Fran should keep her personal lexicon in an encrypted, synced notebook. She should buy a smartphone to access the online lexicon and should focus on its design and presentation. 
+2. Fran should choose a medium that works for her: maybe a small notebook and pencil would be best. She should use the notebook to record interesting words for later use.*
+3. Fran should not do this. The only effective way to learn vocabulary for the LSAT is to study law dictionaries. 
+
+Thelma and Fay are arguing over the meaning of of "antidisestablishmentarianism." What is the best method for them to quickly figure out the meaning?
+~summative
+1. They should pay attention to the root words "anti," "dis" and the word ending "ism." They probably recognize the word "establish," so they can use the different meanings of root words to come up with a good guess.*
+2. They should place a bet and go purchase a dictionary. Whoever wins the bet gets her money back. A dictionary is the only way to determine the meaning of a word with enough certainty to win an argument. 
+3. They should write the word down in their personal lexicons and plan to return to it at another date. 
+
+Using the context clue provided, what is the most accurate definition of the word in bold? 
+He was the only person in New York who might be called, without intent to malign, an <strong>Ultracrepidarian</strong> critic. It was of the very nature of his job to find fault with small and insignificant details.
+~summative
+1. The second sentence says the very nature of his job is to find fault with insignificant details. Given the proximity to the first sentence, and the word "critic," the word probably means someone who gives unwanted advice outside areas of his/her expertise.* 
+2. Because the first sentence says he was the only person in New York, the word likely means "sole resident." 
+3. The context clues in this sentence suggest that word means to take care of small animals in New York. 
+
+### 1.3.2 Evaluate strategies for retaining new words
+Evaluate strategies for retaining new words
+
+// self-check
+
+Bubba doesn’t know the meaning of the word "tenet" in the following quotation. Which context clues could he use to help infer a meaning? <p style="padding-left: 30px;">In fact, the notion that students should have ownership of their writing (in some form or another) has virtually become a <strong>tenet</strong> of composition. It's safe to say that the belief that students should maintain some kind of ownership of their writing has become part of the "common sense" of our field.</p>
+~formative
+1. "It’s safe to say that the belief… has become part of the ‘common sense’ of our field" restates the idea of "tenet."*
+2. "In fact, the notation that students should have ownership" provides a definition of "tenet." 
+3. "Composition" is a synonym of "tenet." 
+
+Which context clue type is going to be most useful in decoding the word <i>sicklesnorted</i> in the following passage?  <p style="padding-left: 30px;">We adopted a new approach. First, we identified current oil palm plantations in 20 countries using high-resolution imagery. Second, we examined what proportion of these sites were recently <i>sicklesnorted</i>and compared this to trends in the FAO’s estimates of the total area planted in oil palm. Third, we mapped where forests are vulnerable to deforestation for oil palm based on an FAO crop suitability model and the location of current IUCN category I and II protected areas. We did so for both current climatic conditions and those projected for 2080. Finally, we mapped the biodiversity of mammals and birds in these vulnerable forests to attempt to identify where future oil palm expansion may be most damaging.</p>
+~formative
+1. <i>Sicklesnorted</i> likely means deforested.  We know this because of the example type of clue in the last sentence.
+2. <i>Sicklesnorted</i> likely means planted. We know this because of the synonym type of context clue when they mention planted in the last part of the sentence.
+3. <i>Sicklesnorted</i> likely means deforested.  We know this because of the synonym type of clue in the next sentence.* 
+
+Explain which context clue type is going to be most useful in decoding the word <em>shoopdada.</em> <p style="padding-left: 30px;">Now any fool can see that if x is considered as made up of a lot of little bits, each of which is called dx, if you add them all up together you get the sum of all the dx’s, (which is the same thing as the whole of x). The word <em>"shoopdada"</em> simply means "the whole." If you think of the duration of time for one hour, you may (if you like) think of it as cut up into 3600 little bits called seconds. The whole of the 3600 little bits added up together make one hour.</p>
+~formative
+1. <em>Shoopdada</em> means number. We know this because of the synonym and the general sense of the paragraph. 
+2. <em>Shoopdada</em> means little bits. We know this from the general sense of the paragraph and the example. 
+3. <em>Shoopdada</em> means integer or "the whole." We know this because of examples and a synonym.* 
+
+// quiz
+
+Amos doesn’t know the word "hegemony" in the following sentence. What context clues can help him figure out its meaning? <p style="padding-left: 30px;">Many things men consider to be "human" or "neutral" are in fact norms that exist to reinforce male hegemony.</p>
+~summative
+1. "Hegemony" probably means control or dominance because the sentence implies that what men consider "human" or "neutral" is actually a social norm under their control.*
+2. "Hegemony" probably means gender because of the word’s proximity to the word "male." 
+3. "Hegemony" probably means lack of control or dominance because the sentence implies that what men consider "human" or "neutral" is actually a social norm not under their control. 
+
+Use context clues to define the word "trothplight" in the following passage: <p style="padding-left: 30px;">In Sweden, children born to their parents after betrothal or trothplight were considered legitimate and able to inherit even if their parents never completed the marriage process with a wedding or solemnization.</p>
+~summative
+1. Engagement to be married*
+2. Birthright or inheritance 
+3. Scandinavian, northern European 
+
+Use context clues to define the word "imprimatur" in the following passage. <p style="padding-left: 30px;">All but one would have to support the new resolution for a war to have the U.N.’s imprimatur.</p>
+~summative
+1. Sanction or approval*
+2. Veto or rejection
+3. Warlike or violent 
+
+// Module: Beyond the Five Paragraph essay
+
+# 2 Recognize and evaluate strategies for moving beyond the five-paragraph essay
+Beyond the Five Paragraph Essay
+
+## 2.1 Recognize characteristics of organically-structured essays.
+Organically-Structured Essays 
+
+### 2.1.1 Differentiate between formulaic and organic structure.
+Differentiate between formulaic and organic structure.
+
+// self-check
+
+The formulaic structures taught in high school are a waste of time and serve no purpose.
+~formative
+1. True.
+2. False.*
+
+College writing requires that you build on what you learned from the formulaic structures of high school and move into more organically-structured writing.
+~formative
+1. True.*
+2. False.
+
+Organically-structured writers do not impose a certain number of paragraphs on their essays.
+~formative
+1. True.*
+2. False.
+
+// quiz
+
+Which of the following is a formulaic thesis statement?
+~summative
+1. The university should designate more parking spaces because the student population is growing, more out-of-state students are coming to the university, and fewer faculty members are being hired.*
+2. Firebrand Corporation's recent solutions for maintaining a high-quality workforce offer an intriguing blueprint for solving our university's student parking shortage.
+3. The university's never-ending struggles over student parking point to long-standing, larger issues in the relationship between administration and students.
+
+Which of the following represents an organically-structured argument?
+~summative
+1. An introduction contextualizes the current status of the federal health care program, the next paragraph focuses on one element of the program, followed by several paragraphs showing the positive and negative consequences of that element, leading to a cost-benefit analysis of the element, and concluding with support for or opposition to the element.*
+2. An introduction states a thesis opposing the current federal health care program, followed by three paragraphs supporting that thesis, and concluding with reiteration of opposition to the program.
+3. An introduction states a thesis supporting the current federal health care program, followed by five paragraphs supporting the program for different reasons, concluding with a call to readers to support the program, too.
+
+Which of the following characterizes a formulaic structure?
+~summative
+1. An emphasis on repetition.*
+2. The paper's content determines the structure.
+3. A conclusion that suggests broader implications or a different context for the thesis.
+
+### 2.1.2 Identify characteristics of organically-structured essays.
+Identify characteristics of organically-structured essays.
+
+// self-check
+
+The body paragraphs of organically-structured papers always develop the reasons for supporting the thesis.
+~formative
+1. True.
+2. False.*
+
+Thesis statements of organically-structured papers may change as the writer writes the paper.
+~formative
+1. True.*
+2. False.
+
+Conclusions of organically-structured papers offer new insights or broader implications without departing from the flow of the paper.
+~formative
+1. True.*
+2. False.
+
+// quiz
+
+Organically-structured essays compel thinking.
+~summative
+1. True.*
+2. False.
+
+A writer who is structuring an essay organically might do which of the following?
+~summative
+1. Revise his or her thesis while writing the paper.*
+2. Be sure his or her thesis is the last sentence of the introduction.
+3. Incorporate each of the major points in the paper into the thesis.
+
+An organic writer thinks of writing as:
+~summative
+1. A way to figure out what he or she thinks.*
+2. A way to demonstrate that he or she has read the assignment.
+3. A way to demonstrate that he or she has memorized the class notes.
+
+## 2.2 Recognize and evaluate effective paragraphs
+Recognize and evaluate effective paragraphs
+
+### 2.2.1 Recognize techniques for effective paragraph construction
+Paragraphs
+
+// self-check
+
+Which of the following scenarios is a good use for a "chronological" paragraph organization? 
+~formative
+1. A description of the sequence of events leading up to the 2016 election.*
+2. A description of the particular flaws of a candidate in the 2016 election. 
+3. A paragraph describing the circumstances leading to the election of Donald Trump.
+
+When should you put paragraph breaks in a paper? 
+~formative
+1. Find places where the information shifts in focus and put paragraph breaks in those places.* 
+2. Break paragraphs after every four sentences 
+3. Find places where the information is very complicated and put paragraph breaks in those places to prevent confusion. 
+
+Which of the following is an adversarial transition?
+~formative
+1. In contrast*
+2. Including
+3. Particularly
+
+// quiz
+
+Which of the following scenarios is a good use for a "rank order" paragraph organization?
+~summative
+1. A paragraph describing the circumstances leading to the election of Donald Trump.*
+2. A description of the sequence of events leading up to the 2016 election.
+3. A description of the particular flaws of a candidate in the 2016 election.
+
+The best time in the writing process to focus on paragraph breaks is…
+~summative
+1. Revision*
+2. Drafting
+3. Proofreading 
+
+Which of the following is an additive transition?
+~summative
+1. Including*
+2. In contrast
+3. Consequently 
+
+### 2.2.2 Evaluate paragraph construction
+Evaluate paragraph construction
+
+// self-check 
+
+Analyze this paragraph from the body of a research paper. Is it an effective paragraph? Why or why not?
+<p style="padding-left: 30px;">Vuoskoski and Eerola in their study titled "Can Sad Music Really Make You Sad? Indirect Measures of Affective States Induced by Music and Autobiographical Memories" focus on the emotion of sadness. Their research starts with four groupings: sad music picked by them, neutral music, sad music picked out by the participants, and sad recall. The participants listened to these and then were asked to remember words that they had heard before listening. The results of the experiment were that in the first two categories (sad music chosen and neutral music) the amount of positive and negative words remembered were roughly equal; in the third category of sad music chosen individually there was a notable difference and even more of one in sad recall (Vuoskoski and Eerola 208).</p>
+~formative
+1. This paragraph lacks purpose, and could be strengthened with a key sentence.*
+2. The paragraph would be stronger if the author quoted more and paraphrased less.
+3. This is a strong paragraph because it focuses on explaining one piece of research. 
+ 
+Identify the logical problems in this paragraph:
+<p style="padding-left: 30px;"> Financial strain, work and family conflict, and marital dissatisfaction may be bi-products of the emotional and time commitments dual income families generate. For the majority of dual income families, the women feel more of the gender inequality with regards to parental responsibilities and thus are linked to greater distress and anger. The good mother model is inflexible and maintains that mothers are to be involved, always available and committed to the family. Furthermore, the father role appears to be more flexible as they are seen as both breadwinners and caregivers. With this flexibility come social expectations that foster more time for enjoyment.  Given these circumstances, fathers may not experience the stress and role strain that working mothers feel.  </p>
+~formative
+1. "Furthermore" is the wrong transitional word to indicate contrast.*
+2. There is nothing to introduce the concept of the "good mother" and it reads like a tangent. *
+3. "Given these circumstances" is the wrong transitional phrase to show causation or correlation. 
+4. The last sentence is the most important claim, so it should be at the beginning of the paragraph. 
+ 
+How could the sentences in this paragraph be organized more logically? Put the sentences in order by number. 
+<p style="padding-left: 30px;">[1] Depression can lead to a variety of issues, and in the latest study, research has begun showing that women experience higher rates of depression compared to men. [2] Since the female mind matures before males in terms of emotions and sensitivity it makes them more exposed to depression and anxiety. [3] The way that scientists have discovered the difference between the way girls and boys process emotions is through brain scans that show the different "emotional stimuli." [4] There are definitely symptoms that one can spot, so if someone sees any symptoms in a person they can try and help them. [5] Symptoms to watch for would include "changes in her mood, including sadness or irritability, or in her behavior, including, appetite, energy level, sleep patterns and academic performance." [6] The first thing to notice is withdrawal or even just when the girl stops doing activities she usually loves doing.</p>
+~formative 
+1. 1, 3, 2, 4, 6, 5* 
+2. 3, 4, 6, 5, 2, 1
+3. The order of the sentences is logical as written.  
+
+// quiz
+ 
+True or False: The bold sentence in the paragraph below is the key/topic sentence:
+<p style="padding-left: 30px;"><strong>Thus we may hint at the greater, more serious, phase of the road problem.</strong> Beside it, the financial feature of the problem can have no place; the farm has been too much to the American nation, its product of boys and girls has been too eternally precious to the cause of liberty for which our nation stands, to permit a system of highways on this continent which will make it a place where now in the twentieth century foreigners, only, can be happy. The sociological side of the road question is of more moment today in this country, so far as the health of our body politic in the future is concerned, than nine-tenths of the questions most prominent in the two political platforms that come annually before the people.
+~summative
+1. False*
+2. True 
+ 
+Identify the logical problems in this paragraph: 
+<p style="padding-left: 30px;">The "prison industrial complex" is a term that describes a complex interlocking web of institutions that extends outward beyond any one jail or prison into the larger political economy and loops back to the thousands of jails and prisons that house men and women for crimes for which they have been convicted. Prisoners are alienated and forced to work to reduce the time for their crimes, and some are often not compensated at all. Major corporations like Wal-Mart, JC Penny, AT&T, and ExxonMobil were among a few notable companies that participate in the exploitation of the prison labor. The prison industrial complex is like a hungry lion that has to be fed and its growth has been substantial. This enterprise is governed by the principles of earning a profit for the private sector rather than fulfilling basic human needs.</p>
+~summative
+1. Metaphors like "the prison industrial complex is a hungry lion" disrupt the coherence of the paragraph. 
+2. The sentence "this enterprise is governed by the principles of earning profit for the private sector rather than fulfilling basic human needs" should be at the beginning of the paragraph.
+3. A strong transitional phrase before "major corporations like Wal-Mart" would make the message more clear. 
+4. The paragraph has no logical problems* 
+
+How could the sentences in this paragraph be organized more logically? Put the sentences in order by number. 
+<p style="padding-left: 30px;"> [1] Such judgment and criticism may often lead to feelings of guilt and anxiety, more so for mothers than fathers. [2] In contrast, fathers returning to the workforce after the birth of their child are considered professional and responsible.  [3] Working mothers are also perceived as less committed to the family than non-working mothers. [4] One gender stereotype suggests that women who return to work following the birth of a child are considered less competent than those women in the workforce without children. </p>
+~summative
+1. 4, 3, 2, 1*
+2. 4, 3, 1, 2
+3. The order of the sentences is logical as written.  
+
+## 2.3 Identify successful strategies for writing introductions and conclusions
+Introductions and Conclusions
+
+### 2.3.1 Identify successful strategies for writing introductions and conclusions
+Identify successful strategies for writing introductions and conclusions
+
+// self-check
+
+Which of the following is a good idea to include in an introduction of an argument essay?
+~formative
+1. A dictionary definition of a common term
+~feedback: Incorrect. Readers can easily look up dictionary definitions if they need to do so. If you need to define a common term, put it into your words.
+2. A compelling quotation or statistic*
+~feedback: Correct. A compelling quotation or statistic can grab a reader's attention and help build the writer's credibility.
+3. A summary of the argument
+~feedback: Incorrect. The conclusion is the more logical spot for a summary of the argument.
+
+Which of the following is often included as part of a conclusion?
+~formative
+1. A call to action*
+~feedback: Correct. Writers may call readers to action in the conclusion after they have made their case throughout the rest of the piece. 
+2. Context to locate readers in a specific time and/or place
+~feedback: Incorrect. This is usually done in the introduction.
+3. An explanation or definition of key terms
+~feedback: Incorrect. Key terms should be explained or defined well before the conclusion of a piece.
+
+Successful writers almost always write introductions before any other part of the work.
+~formative
+1. True
+~feedback: Incorrect. Just because the introduction appears first does not mean it needs to be written in that order.
+2. False*
+~feedback: Correct. Just because the introduction appears first does not mean it needs to be written in that order.
+
+// quiz
+
+Conclusions should be written last because they are the last part of a piece that readers see.
+~summative
+1. True
+2. False*
+
+A conclusion often contains which of the following?
+~summative
+1. A hook to get readers interested
+2. An emotional appeal connected to the logic of the piece* 
+3. Necessary background information to give the reader context on a topic
+
+Locating readers in a specific time and/or place is best accomplished in which part of a paper?
+~summative
+1. Introduction*
+2. The second body paragraph
+3. Conclusion
+
+Conclusions should begin with the words "in conclusion" to help guide readers through a written piece.
+1. True
+2. False*
+
+### 2.3.2: Evaluate successful strategies for writing introductions and conclusions
+Evaluate successful strategies for writing introductions and conclusions
+
+// self-check
+
+Bobby is writing an argument paper with a main claim that Major League Baseball needs to implement some rule changes to get younger fans interested in watching the sport. Which of the following is the best option for the first sentence of his introduction?
+~formative
+1. According to Merriam-Webster, the definition of baseball is "a game played with a bat and ball between two team of nine players each on a large field having four bases that mark the corners a runner must take to score."
+~feedback: Incorrect. Most readers are familiar with baseball and don't need a dictionary definition to get them thinking about the topic.
+2. Higher television ratings in the coming years will help the sport of baseball make the transition into an era of fans watching sports on the go with digital devices. 
+~feedback: Incorrect. This sentence makes a prediction about the future of baseball and is more suited for a conclusion, after Robby has written his thesis statement and support.
+3. The game of baseball is called "America's Pastime" and has been played professionally in the United States for about a century-and-half, but the sport's originators could have never anticipated keeping modern fans glued to televisions sets day after day for more than six months each year.*
+~feedback: Correct. This sentence hits some of the goals of orienting readers such as providing background, locating readers in a specific time and place, and laying out the stakes for Robby's piece of writing.
+
+Read the following passage and determine where it would best fit in a reflective essay: Looking over my work carefully has caused me to change the way I think about reading tasks. Because I struggled so much with reading comprehension this semester, beginning in the spring I plan to move my study time out of my dorm and into the library. I want to commit to at least five hours a week of reading in the library and see how my grades turn out in the coming semester. If I see a noticeable improvement, I think I will have committed myself to a worthwhile experiment. If not, I will have at least gained the knowledge from a lot of reading in a less-distracting environment. 
+~formative
+1. Introduction
+~feedback: Incorrect. The student here is clearly making a call to action and evaluating future results, which is a common feature of conclusions.
+2. A body paragraph
+~feedback: Incorrect. The student here is clearly making a call to action and evaluating future results, which is a common feature of conclusions.
+3. Conclusion*
+~feedback: Correct. The student here is clearly making a call to action and evaluating future results, which is a common feature of conclusions.
+
+Samantha is writing an advertisement analysis paper in her Composition class. Her ad is for De Beers diamonds, and in her introduction she notes the company's slogan: "A Diamond is Forever." As she writes her conclusion, Samantha emphasizes her thesis statement with fresh language and considers ending with another reference to the slogan. Is this a good strategy in a conclusion?
+~formative
+1. No. Samantha shouldn't repeat anything in her paper.
+~feedback: Incorrect. Using a "bookend" or "call back" is often an effective strategy in a conclusion. 
+2. No. Samantha should avoid writing anything but a recap of her thesis statement and main points of support in the conclusion.
+~feedback: Incorrect.  Using a "bookend" or "call back" is often an effective strategy in a conclusion. Also, simply repeating exactly what has been already written is not a great way to end a paper.
+3. Yes. Samantha should refer back to an idea she brought up in the introduction if she thinks it fits her work.*
+~feedback: Correct. Using a "bookend" or "call back" is often an effective strategy in a conclusion.
+
+// quiz
+
+Which of the following sentences would work best to start an introduction in an argument paper on how families can work together to cut back on social media use?
+~summative
+1. Cell phones - everyone has them these days, and no one is able to stay off them for more than five seconds.
+2. Parents probably already know that their kids spend a lot of time on digital devices, but a 2016 study shows teens on average spend close to a whopping nine hours per day on social media.*
+3. It is my contention that families do not spend enough time doing traditional activities like exercising, playing board games, and eating together; therefore, I suggest they limit social media use to one hour per day to leave more time for other things.
+
+Nina is writing her conclusion to an Urban Planning project where she spent part of the semester interviewing people at homeless shelters. She realized during her interviews that many of the homeless people wanted badly to work but needed a permanent address for job applications. Thus, her paper evolved into a plan to open a series of halfway houses that could help reduce the city's homeless population while helping to fill some positions that stay open or experience high turnover. Which of the following passages would best fit in her conclusion?
+~summative
+1. As you can see from the data provided, we have the financial capacity and a clear economic purpose to create halfway homes that would provide permanent addresses for many of the city's homeless; however, we should do so not simply for these reasons but because it is the right action to take in terms of helping our less fortunate citizens find greater meaning and a chance at more happiness in their lives.* 
+2. One potential solution to help our city reduce the homeless population and fill open jobs is to create halfway houses. Such residences would allow homeless people to establish a permanent address and broaden their job opportunities, resulting in a long-term win-win for the city and its residents.
+3. The city of Rebelville has a homeless population estimated at over 300 people, which is an alarmingly high number for a city of around 20,000 people. Many residents are completely unaware that there are any homeless people at all in the area.
+
+Read the following short introduction paragraph from a thesis-driven Literary Analysis assignment and determine which is the best organizational structure: Bierce uses images of fire, heat, and light versus darkness to create a religious struggle within Peyton Fahrquhar. Though Ambrose Bierce was renowned for his keen sense of humor, his short story "An Occurrence at Owl Creek Bridge" is anything but witty. The story appears to readers to be a tale of Civil War soldier Fahrquhar's last minutes before his death by hanging. Underneath the surface, Bierce is telling a story of a man's struggle between Heaven and Hell, and then, the final moments that decide his fate.
+~summative
+1. The structure is fine as is for an introduction.
+2. The introduction would work better if what is currently the first sentence became the final sentence of the paragraph in order to better build up to the thesis statement.*
+3. The introduction would work better if the student added more analysis in support of the thesis statement.
+
+
 // Module: Readability 
 
 # 3 Recognize and resolve readability errors
@@ -78,6 +716,7 @@ Which passage demonstrates the standard uses of apostrophes?
 1. Jo Dee’s cousin cooked the best casserole last Easter, but that’s only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I really think every member of the Conners family should enter the FFA’s baking contest. *
 2. Jo Dee cousin cooked the best casserole last Easter, but that’s only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I really think every member of the Conners family should enter the FFA’s baking contest. 
 3. Jo Dee’s cousin cooked the best casserole last Easter, but thats only one of the tasty things we had to eat. Suzette Conners’ sweet potato pie was just delicious. I think every member of the Conners family should enter the FFA’s baking contest. 
+
 
 
 ### 3.1.2 Demonstrate the standard uses of apostrophes
@@ -672,11 +1311,596 @@ Which of the options below would most effectively revise the following sentence 
 2. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success; many children fail.
 3. Despite parents and other parental figures going above and beyond to give their offspring all the required assets to achieve success: many children fail.
 
+// Module: Analysis
+
+# 4 Evaluate keys to successful analysis
+## 4.1 Outcome: Define analysis
+### 4.1.1 Skill Identify the domain of analysis
+
+// self-check
+
+Which of the following is a definition of analysis?
+~formative
+1. The process of methodically breaking something down to gain a better understanding of it*
+~feedback: Correct. Analysis is breaking something down to gain a better understanding of it
+2. The making of a judgment or assessment
+~feedback: Incorrect. This is the definition of evaluation. While evaluation is often coupled with analysis, it is not the same thing.
+3. A brief statement or account of the main points of something
+~feedback: Incorrect. This is the definition of summary. Summary condenses things. While summary can be coupled with analysis, it is not the same thing.
+
+Outlining can be a form of analysis.
+~formative
+1. True.*
+~feedback: Correct. Outlining can involve breaking down an original artifact into its component parts so it can be part of analysis.
+2. False.
+~feedback: Incorrect. Outlining can involve breaking down an original artifact into its component parts so it can be part of analysis.
+
+Each of the following is a type of analytic assignment <strong>except</strong>:
+~formative
+1. An assignment that asks you to explain how the parts relate to the whole
+~feedback: Incorrect. This assignment is asking for analysis.
+2. An assignment that asks you to report what happened at an event.*
+~feedback: Correct. This assignment is asking you to retell something rather than analyzing it.
+3. An assignment that asks you to explain how something works.
+~feedback: Incorrect. This assignment is asking for analysis.
+
+// quiz
+
+Which of the following is a definition of analysis?
+~summative
+1. The ability to connect pieces of information as the basis for generalization, explanation, or interpretation*
+2. Reasons given with the aim of persuading others an action is right or wrong
+3. A written account of something one has observed
+
+Each of the following verbs may denote analysis <strong>except</strong>:
+~summative
+1. Deduce
+2. Inspect
+3. Categorize
+4. State*
+
+An assignment that asks you to explain why something is important is asking for analysis.
+~summative
+1. True*
+2. False
+
+### 4.1.2 Skill Recognize the barriers to analysis
+
+// self-check
+
+A way to prevent the exhaustion analysis can bring is to perform the analysis in one long stretch.
+~formative
+1. True.
+~feedback: Incorrect. Performing an analysis in one long stretch will lead to exhaustion.
+2. False.*
+~feedback: Correct. Short sessions of analysis with breaks in-between will help you forestall exhaustion.
+
+Before undertaking an analysis, writers should:
+~formative
+1. Decide what the analysis will prove.
+~feedback: Incorrect. Analysis should be undertaken with an open mind.
+2. Put aside preconceived ideas or judgments.*
+~feedback: Correct. Analysis should be undertaken with an open mind.
+3. Situate themselves as an advocate or opponent of the subject under analysis.
+~feedback: Incorrect. Analysis should be undertaken with an open mind.
+
+The task of the analyst is to:
+~formative
+1. Offer a well-supported interpretation with the aim of convincing the reader that the interpretation is plausible, rather than invincible.*
+~feedback: Correct. Analysis offers a well-supported interpretation or generalization.
+2. Attack the subject under consideration.
+~feedback: Incorrect. Analysis offers a well-supported interpretation or generalization.
+3. Make something up or suggest something that isn't there.
+~feedback: Incorrect. Analysis offers a well-supported interpretation or generalization.
+
+// quiz
+
+Each of the following may be a barrier to analysis except:
+~summative
+1. Analysis may challenge a person's ideas or beliefs.
+2. Analysis may facilitate deeper understanding.*
+3. Analysis kills fun.
+4. Analysis invents meaning.
+
+Analysis should be undertaken with an open mind.
+~summative
+1. True.*
+2. False
+
+To avoid the criticism that an analytic interpretation is "mere speculation," an analyst should:
+~summative
+1. Offer a variety of evidence.*
+2. Use unequivocal language.
+3. Repeat the interpretation often.
+
+## 4.2 Recognize and evaluate keys to successful writing
+### 4.2.1 Recognize keys to successful analysis writing
+
+// self-check
+
+Which of the following is a question you normally don't need to address when formulating an analytic thesis statement?
+~formative
+1. How?
+~feedback: Incorrect. Addressing "how" something means what it does is a key part of forming an analytic thesis statement.
+2. Who?*
+~feedback: Correct. Though thinking about "who" might be important for some analysis, it is not one of the main terms to consider when forming an analytic thesis statement.
+3. So what?
+~feedback: Incorrect. Thinking about the "so what" helps take an analytic thesis statement into a bigger picture and is an important step.
+4. Why?
+~feedback: Incorrect. Addressing "why" something means what it does is a key part of forming an analytic thesis statement.
+
+Which of the following is not a good tip to consider when thinking about evidence?
+~formative
+1. Be selective about evidence.
+~feedback: Incorrect. Being selective with evidence will lead to a more focused final product. 
+2. Move past obvious interpretations.
+~feedback: Incorrect. Moving past obvious interpretations will help your work. 
+3. Only provide evidence that comes from scholarly sources.*
+~feedback: Correct. Good analytic evidence often comes from your own thinking.
+4. Be clear and explicit with your evidence.
+~feedback: Incorrect. You want to clearly explain and show your analytic evidence.
+
+Which of the following best defines the idea of suspending judgment when analyzing?
+~formative
+1. Making a decision about a topic, idea, or artifact based on your beliefs before doing research.
+~feedback: Incorrect. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions.
+2. Approaching a topic, idea, or artifact with an open mind.*
+~feedback: Correct. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions.
+3. Setting a predetermined amount of time before you will make judgment about a topic, issue, or artifact.
+~feedback: Incorrect. Suspending judgment involves approaching a topic, idea, or artifact without bias or presuppositions. Setting an amount of time before you judge something does not guarantee you are looking at it with an open mind.  
+
+// quiz
+
+It is a good idea to use all possible evidence you can find in support of a point when writing an analysis.
+~summative
+1. True
+2. False*
+
+Which of the following is not good advice to follow when formulating an analytic thesis?
+~summative
+1. Make sure your main claim is reasoned.
+2. Decide on a main claim and stick to it exactly throughout your drafting process.*
+3. Use analysis to help you get to a main claim.
+
+Which of the following best describes how evidence should function in an analytic writing?
+~summative
+1. Evidence should be complex and come all from expert sources who have analyzed the subject matter beforehand.
+2. Writers should be selective, not including all possible evidence just because it relates to the main claim.*
+3. Writers don't need to explain all evidence because some of it will be obvious to readers.
+
+### 4.2.2 Evaluate keys to successful analysis writing
+// self-check
+
+Which of the following sentences does not make for a good analytic thesis statement?
+~formative
+1. The idea behind the Sports Illustrated Swimsuit Issue needs to be viewed in context of the feminist movement of the 1960s.
+~feedback: Incorrect. This sentence sets up a deeper exploration of the "how," "why," and "so what" and lets readers know they will need to look into the context of the time.
+2. The idea behind the Sports Illustrated Swimsuit Issue was to bring images of beautiful women to readers across the globe through full-color images and interesting stories.*
+~feedback: Correct. This sentence presents an obvious reason for the advent of the magazine and does not set up a deeper exploration of "how," "why," and "so what."
+3. The idea behind the Sports Illustrated Swimsuit Issue may seem like sexual exploitation but was really a reaction to a changing market that viewed sex and sport as intertwined.
+~feedback: Incorrect. This sentence sets up a deeper exploration of the "how," "why," and "so what" and lets readers know they will need to look into the context of the time.
 
 
+Read the following analytic thesis statement and determine which answer below best addresses the problem with it: Maybelline's new ad campaign features beautiful models in fun situations because the company wants to distract people from the fact that it still tests products on animals.
+~formative
+1. The claim doesn't address the "why."
+~feedback: Incorrect. The statement does include the writer's interpretation of why the ads are produced in a certain way.
+2. The claim isn't reasoned.*
+~feedback: Correct. Though the ad may feature beautiful models in fun situations and Maybelline may still test products on animals, it is extremely unlikely that the two ideas are related, and very few, if any, reasonable readers would see a connection.
+3. The student didn't use analysis to reach the claim.
+~feedback: Incorrect. Though the claim here is extremely unlikely, the writer is technically analyzing and making an interpretation.
 
+Read the following analytic thesis statement and determine which of the approaches below is the best for incorporating evidence: Dave Eggers' novel The Circle continues a rich American dystopian literary tradition by showing how those struggling for control of the masses might not always be whom we think and by prodding us to consider the potential consequences of sharing details of our lives with others on social media.
+~formative 
+1. The writer could reference some previous dystopian works and analyze how Eggers' book builds on those ideas in a modern context where many people don't see dangers in technology.*
+~feedback: Correct. This example would contain evidence to back the specific claim that the writer has introduced. 
+2. The writer could point out examples of how he or she has shared information on social media and then regretted it later.
+~feedback: Incorrect. This example contains no reference to The Circle when the claim sets up an analysis of Eggers' book.
+3. The writer could detail a list of previous dystopian literature and analyze the impact it had on the role of technology in American culture.
+~feedback: Incorrect. While some such information might work well, this example contains no reference to The Circle when the claim sets up an analysis of Eggers' book.   
 
+// quiz
 
+Read the following analytic thesis statement and determine what is missing that could improve it: McDonald's latest ad campaign incorporates throwbacks to previous decades such as images of drive-ins as part of an effort to appeal to more senior citizens.
+~summative
+1. The thesis statement is missing the "how."
+2. The thesis statement is missing the "why."
+3. The thesis statement is missing the "so what."*
+
+Read over the following scenario and then determine what is the best approach for the student: Philip is taking a Writing class, and he has been assigned an analysis essay on looking into if a system to pay college athletes is possible across the country. Philip's brother Jackson is a year older than him and plays football for the university. Jackson doesn't have time to work due to his commitments to academics and sports, and Philip knows that his brother has had to borrow money from their uncle to keep up with bills and to afford his car. The writing assignment requires objective research and a minimum of four expert sources. What is Philip's best next step?
+~summative
+1. Philip knows from his brother's experience that college athletes should be paid, so he should find sources that have endorsed the same view, read them over, and start writing once he decides how to work in the outside material.
+2. Philip should step back and do some objective research on how the issue is viewed nationwide, and then he can weigh how his own knowledge of the issue fits into the current discussion.*
+3. Philip should contact his brother and ask him for the names of other football players he can talk to so he can be sure to have evidence from people who are close to the situation.
+
+Janelle is taking a Business Management class. Her current assignment is to write a 700-900 word analysis of a business plan where she is supposed to examine how feasible the plan is. After Janelle writes about 750 words explaining potential problems with some of the plan's budget projections, she writes the following: "Additionally, the third paragraph on page two about isn't clear." What is the problem with Janelle's response?
+~summative
+1. Janelle isn't being explicit and is assuming the author already understands what problems exist in the paragraph.*
+2. Janelle isn't using the proper format to respond to business plans.
+3. Janelle isn't analyzing at all in her writing.
+
+## 4.3 Identify and apply different types of analytic processes 
+### 4.3.1 Identify different types of analytic processes 
+
+// self-check
+
+Which type of analysis focuses on the way authors or speakers communicate their message? 
+~formative
+1. Rhetorical analysis*
+2. Critical analysis
+3. Process analysis
+
+Process analysis requires a recommendation or proposed resolution
+~formative 
+1. False*
+2. True
+
+Ricky plans to write a process analysis of his delivery routes for his analysis essay project. His teacher agrees that this would be a fine topic as long as he sticks to the best practices for process analysis.. Would this analysis be descriptive or prescriptive, and why?
+~formative
+1. Descriptive: Ricky wants to study and speculate about the efficiency of his delivery routes. *
+2. Prescriptive: Ricky's purpose in writing the analysis is to issue specific recommendations to his employer about how his route can be improved.
+3. Descriptive: Ricky needs to write about a process by people, and such an analysis is always descriptive.
+4. Prescriptive: Ricky knows that all process analyses are basically step-by-step guides and approaches his essay as a user manual. 
+
+// quiz
+
+Which type of analysis focuses on a specific artifact?
+~summative
+1. Critical Analysis*
+2. Process Analysis
+3. Rhetorical Analysis 
+
+In a critical analysis, the details of the artifact itself should never serve as the evidence supporting a claim.
+~summative
+1. False*
+2. True
+
+Which type of analysis would be appropriate for the following assignment description? <p style=”padding-left:30px;”>For this assignment, you will immerse yourself in The New York Times Opinion section, reading multiple contributors and ultimately choosing an Op-Ed that appeals to you. You will then analyze a variety of author choices presented in both the content and the visuals of the Op-Ed. The author's choices could include context, purpose, audience, tone, diction, syntax, and use ethos, pathos, and logos. </p>
+~summative
+1. Rhetorical Analysis*
+2. Process Analysis
+3. Literary Analysis
+4. News Analysis 
+
+### 4.3.2 Apply different types of analytic processes
+// self-check
+
+Naomi Harper needs to analyze the following advertisement: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  She wants to claim that the ad relies on a false appeal to ethos to sell pills. What is her best evidence for this claim? 
+~formative
+1. The quotations in the bottom panel by reputable citizens (and witnessed by the sheriff) give the ad's claims an inflated sense of credibility.*
+2. The cartoon figures of drunken people in the four corners of the ad confirm that the ad is targeted at credible drunks. 
+3. The use of language like “free from desire” and evils of intemperance” is designed to guilt and/or shame customers into buying the pills. 
+
+Eunice Higgins needs to analyze the following advertisement: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  She thinks the figures in the four corners of the ad represent an appeal to pathos. Is she correct?
+~formative
+1. Yes, the drunken figures are meant to look ridiculous, and remind viewers of the ad that they do not want to be drunkards.*
+2. Yes, the figures are meant to look like doctors and they convey additional credibility.
+3. No, the figures are realistic representations of drunkards and are an appeal to logos. 
+
+Vinton Harper needs to analyze the following advertisement as part of his critical analysis assignment: <img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01133930/626px-Boston_Drug_for_Drunkenness.png” alt=”visual ad for a pill that cures drunkenness featuring drunk dancing figures and descriptive text”>  He plans to spend most of the paper writing about the history of the temperance movement. Is this a sound approach? 
+~formative
+1. No. A critical analysis of an artifact should focus mostly on the artifact itself and use external context only as support.* 
+2. Yes. A critical analysis of an artifact should never focus mostly on the artifact itself, and should mostly put the artifact into historical context. 
+3. No. A critical analysis of an artifact should focus mostly on the process it recommends and use external context does not aid in understanding of process. 
+
+// quiz
+
+Fran Crowley needs to analyze the following process:  <iframe width="560" height="315" src="https://www.youtube.com/embed/NgKSrPCu1Xs" frameborder="0" allowfullscreen></iframe> What is the first thing she should do in drafting her process analysis?
+~summative
+1. Describe the process of tortilla baking from beginning to end.*
+2. Propose ways to make the process of tortilla baking faster.
+3. Explain the history of tortillas. 
+
+Luella is given the following assignment prompt: <p style=”padding-left:30px;”>Write an essay in which you analyze a celebrity's Twitter feed to reveal the persona that celebrity (or his or her PR team) is trying to construct.  How do the tweets create an identity for that celebrity?  What is that identity?  Why would that particular celebrity try to construct that particular identity?  What advantages would that have for him/her?</p> Which type of analysis best fits this assignment?
+1. All of these.*
+2. Process Analysis
+3. Rhetorical Analysis
+4. Critical Analysis 
+
+Alberta Meechum needs to write a visual analysis of the following poster, but she does not read Russian. What could she do? <img src=”https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/01152012/Soviet_May_day_1929.jpg” alt=”Soviet propaganda ad for May Day, showing workers breaking the bonds of capitalism.”>
+~summative
+1. She could focus on the colors and the symbolism of the broken chains to draft a preliminary analysis.*
+2. She could complain to her teacher that she can't complete the assignment. 
+3. She could ask her Russian friends to translate the words and explain Russian history. 
+
+// Module: Rhetorical Appeals
+
+# 5 Recognize and Evaluate Rhetorical Appeals
+Rhetorical Appeals
+
+## 5.1 Recognize and establish appeals to logos
+### 5.1.1  Recognize appeals to logos
+
+// self-check
+
+Appeals to logos are which of the following? 
+~formative
+1. Appeals to logic or reasoning.*
+~feedback: Appeals to logos focus on logic or reasoning.
+2. Appeals to emotions.
+Feedback: Incorrect. Appeals to pathos focus on emotions.
+3. Appeals to credibility
+Feedback: Incorrect. Appeals to ethos focus on credibility.
+
+Maude is writing a paper arguing for a campus smoking ban. Which kind of support would be an appeal to logos?
+~formative
+1. Data from university landscaping about the volume of cigarette butts collected from the ground.*
+2. A statement from the university’s leading cancer researcher about the dangers of smoking while in college.
+3. Images of cancerous lungs and grieving families. 
+
+How does the following video appeal to logos? <iframe width="560" height="315" src="https://www.youtube.com/embed/zBhKSk1966w" frameborder="0" allowfullscreen></iframe>
+~formative
+1. The use of physical dimensions of the various ships accurately scaled using 3D modeling.*
+2. The use of a creative commons/free culture license.
+3. The use of soothing music and visually appealing color combinations. 
+
+// quiz
+
+Appeals to logos are appeals to credibility. True or false?
+~summative
+1. False*
+2. True
+
+Jared is writing a paper arguing for free parking on campus. What kind of support would not be an appeal to logos?
+~summative
+1. Testimony from students about the hardships of having to pay dozens of parking tickets a semester.*
+2. Data from the university about the cost of paying for parking enforcement versus the revenue received from parking passes. 
+3. Policies from peer institutions that are more flexible and accommodating with their parking policies. 
+
+How does the following infographic appeal to logos? <img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/02142855/logos_infographic.jpg" alt="infographic showing numbers of cancer cases scaled with circles">
+// https://ccsearch.creativecommons.org/image/detail/TfmLZFIpaoc_Tgc4x6opBg==
+~summative
+1. Its use of numbers of cancer cases displayed in accurately scaled circles by type.*
+2. Its watermark from the CDC in the bottom right corner.
+3. Its attempt to draw attention and empathy to less-developed regions. 
+
+### 5.1.2 Evaluate appeals to logos
+
+// self-check
+
+While preparing a presentation for kindergarteners about polar bear habitat loss, Stevarious plans to incorporate lots of graphs and tables to illustrate the problem. Is this an effective use of a logos appeal?
+~formative
+1. No. This kind of evidence will not help kindergarteners understand the presentation. *
+2. Yes. Extensive use of quantitative evidence always makes an argument stronger, regardless of the audience.
+
+Does the bar graph represent a manipulative use of logos? <img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2017/08/02145138/Bush_cuts2.png" alt="bar graph showing tax cuts">
+~formative
+1. Yes. Though the data is accurate and correct, the graph’s range is deceptively small making it seem like there is a much wider gap between the percentages than there is.*
+2. No. This bar graph displays correct data accurately. Visualizations that are based on raw data cannot be manipulative as long as they are factually correct. 
+
+Which of the following scenarios ignores kairos in relation to logos?
+~formative
+1. Colter uses data from the 1930 census to make a case for building more housing in Cleveland, Ohio.*
+2. Travis uses data from the 1930 census to explore why Cleveland, Ohio was racially segregated. 
+3. Cleo uses data from the 1930 census to illustrate the psychology of poverty. 
+
+// quiz
+
+Ryan, a polar biologist, is presenting to a panel of climate scientists about the effect of melting ice caps on polar bear populations. He should incorporate quantitative data wherever possible to support his claim. True or false?
+~summative
+1. True*
+2. False
+
+Is the following scenario an effective use of logos? <p style="padding-left:30px">Cletus is trying to convince his professor to give him an A in his math class despite skipping class for 6 consecutive days. He brings proof of attendance for all previous math classes and provides evidence that he has not regularly skipped classes in the past.</p>
+~summative
+1. No. This is a smoke screen fallacy.*
+2. Yes. Quantitative evidence always improves the effectiveness of an argument
+
+How does kairos relate to logos?
+~summative
+1. Logic and facts are contextual and must be timely and relevant to be effective.*
+2. Facts and data are only valid if current. Older information cannot provide support for an argument. 
+3. Kairos refers to the amount of time needed to make an argument and is not related to logos. 
+
+## 5.2: Recognize and evaluate appeals to pathos
+### 5.2.1: Recognize appeals to pathos
+
+// self-check
+
+Appeals to pathos are which of the following?
+~formative
+1. Appeals to logic or reasoning
+~feedback: Incorrect. Appeals to logos focus on logic or reasoning.
+2. Appeals to emotions.*
+~feedback: Correct. Appeals to pathos focus on emotions.
+3. Appeals to credibility
+~feedback: Incorrect. Appeals to ethos focus on credibility.
+
+Even if an appeal to pathos is not manipulative, it should complement rather than replace reason and evidence-based argument.
+~formative
+1. True*
+~feedback: Correct. Academic argument does not rely solely on appeals to pathos. 
+2. False
+~feedback: Incorrect. Academic argument does not rely solely on appeals to pathos.
+
+Which of the following is not a way in which an author may try to connect with an audience in an attempt to appeal to pathos?
+~formative
+1. Connecting through values
+~feedback: Incorrect. A writer may try to use an appeal to pathos by connecting with an audience's values.
+2. Connecting through attitudes
+~feedback: Incorrect. A writer may try to use an appeal to pathos by connecting with an audience's attitudes.
+3. Connecting through critical reasoning*
+~feedback: Correct. Since critical thinking involves removing emotion, this is not a way in which an author would try to connect with an audience in an attempt to appeal to pathos.
+4. Connecting through beliefs
+~feedback: Incorrect.  A writer may try to use an appeal to pathos by connecting with an audience's beliefs.
+
+// quiz
+
+Which of the following is an example of a legitimate appeal to pathos in an academic paper?
+~summative
+1. An argument against the current death penalty process in a state using the story of a man whose execution went horribly wrong because the drug used to facilitate the death was faulty.*
+2. An argument against the current death penalty process in a state using photos of a current death row inmate when he was a child.
+3. An argument against the current death penalty process in a state using the story of how a death row inmate's two murder victims were both previously convicted of and jailed for domestic assault but were paroled after serving short sentences. 
+
+Which of the following examples demonstrates consideration of kairos in an appeal to pathos?
+~summative
+1. Typing a text message to your mother to tell her that you miss and love her.
+2. Writing a paper on the emotional power of jazz for your Music Appreciation class several days before it is due so there is time to revise.
+3. Publishing an anti-war opinion piece in the local newspaper the day after a children's hospital was accidentally bombed in an air strike.*
+
+Providing a list of different insurance companies and their in-network doctors on a website dedicated to treating breast cancer is an example of an appeal to pathos.
+~summative
+1. True
+2. False* 
+
+### 5.2.2: Evaluate appeals to pathos
+
+// self-check 
+
+Trey is writing an opinion piece for the school newspaper about why the athletics mascot should not have been changed from Colonel Reb to a Black Bear. Which of the following is the best approach to avoid misusing an appeal to pathos?
+~formative
+1. Trey should argue that Colonel Reb is part of the school's tradition.
+~feedback: Incorrect. An appeal to tradition assumes that just because something was done in the past that it is correct and proper, which oversimplifies most situations and appeals to emotion over logic.
+2. Trey should argue that since opponents of Colonel Reb got the mascot changed, everything about the school will change.
+~feedback: Incorrect. This is a slippery slope fallacy and an appeal to fear; Trey is seeking to make readers get overly emotional about the issue by making it move beyond the topic at hand.
+3. Trey should argue that there should have been more discussion and communication between current students, alumni, and administration before such a huge decision was made.*
+~feedback: Correct. An argument asking for continued dialog on an issue is not attempting to manipulate emotions. 
+
+While writing a paper for her Political Science course on how elected officials in her home state have and have not delivered on campaign promises, Niya mentions, accurately, that one of the state's congressional representatives has missed more than 30% of the House votes over the past year. Is this a legitimate use of an appeal to pathos given the topic?
+~formative
+1. Yes*
+~feedback: Correct. Though the statistic may make some readers angry, it is a legitimate figure to include in an examination of how elected state officials are performing. 
+2. No
+~feedback: Incorrect. Though the statistic may make some readers angry, it is a legitimate figure to include in an examination of how elected state officials are performing.
+
+An appeal to fear is always a good way to reach an audience.
+~formative
+1. True
+~feedback: Incorrect. Misuse or overuse of appeals to fear is a fallacy that may not work on many members of an audience.
+2. False*
+~feedback: Correct. Misuse or overuse of appeals to fear is a fallacy that may not work on many members of an audience.
+
+// quiz
+
+Fisher is writing an application letter for a college scholarship. His first choice of schools is a little more expensive than his family can afford, so Fisher is putting a lot of effort into obtaining at least a partial scholarship at that institution. Which of the following parts of his letter is an example of a manipulative appeal to pathos?
+~summative
+1. Fisher explains that all throughout high school he earned good grades while playing at least one sport and holding a part-time job.
+2. Fisher explains that his older sister, his mother, and his father all went to the school, so it would be devastating for the family if he couldn't continue the tradition.*
+3. Fisher explains that he is interested in ultimately attending law school and, upon graduation, returning to his hometown to help people in need of legal representation.
+
+Which of the following passages is the most effective strategy for using an appeal to pathos in an academic piece of writing?
+~summative
+1. Be sure to include anecdotal information that will make readers angry and thus eager to act on their anger.
+2. Cite experts throughout your work, making sure that your sources are well-respected individuals in their fields.
+3. Find a value you hold in common with the audience and build that connection into an otherwise logic-driven piece of writing.*
+
+Stacy is working on an annotated bibliography for her Psychology of Parenting class. As a small homework assignment related to the major project, students were asked to write an assessment of a questionable source they came across in researching their term papers. Stacy chose an article she found that seemed to rely too heavily on appeals to pathos. Which of the following passages from the source should she refer to as an example in her assignment? 
+~summative
+1. Parents need to instill more discipline in their children or face the likelihood of poor report cards, lazy work habits, and potential drug and alcohol abuse.*
+2. A recent study by researchers at Johns Hopkins University shows that children between the ages of 3-6 respond well to a structured daily routine.
+3. Eating dinner as a family regularly can have a positive impact on a child's behavior.
+
+## 5.3 Recognize and establish appeals to ethos
+### 5.3.1 Recognize appeals to ethos
+
+// self-check
+
+When you evaluate an appeal to ethos, you are considering:
+~formative
+1. How successfully the author appeals to emotion.
+~feedback: Incorrect. Appeals to emotion are pathos appeals.
+2. How successfully the author establishes logic.
+~feedback: Incorrect. Appeals to logic are logos appeals.
+3. How successfully the author establishes credibility.*
+~feedback: Correct. Ethos refers to credibility.
+
+When you evaluate an appeal to ethos, you should consider each of the following areas except:
+~formative
+1. The author's background.
+~feedback: Incorrect. The author's background is a part of ethos.
+2. The emotions the writing evokes.*
+~feedback: Correct. This is an appeal to pathos rather than ethos.
+3. The evidence and sources.
+~feedback: Incorrect. The evidence and sources are a part of ethos.
+
+Calling your opponent an ignoramus is a good way for an author to establish ethos.
+~formative
+1. True
+~feedback: Incorrect. Calling an opponent an ignoramus is an example of the name-calling fallacy that is a misuse of ethos.
+2. False*
+~feedback: Correct. Calling an opponent an ignoramus is an example of the name-calling fallacy misuses ethos appeals.
+
+// quiz
+
+When evaluating an artifact's appeal to ethos, all of the following are pertinent questions <strong>except</strong>:
+~summative
+1. Will the audience be persuaded that the author's background includes relevant education and experience for this topic?
+2. Does the writer demonstrate familiarity with different opinions and perspectives on this topic?
+3. Does the writer use unbiased language?
+4. Does the writer make an effort to touch the hearts of the audience?*
+
+Which of the following is a manipulative appeal to ethos?
+~summative
+1. Explaining relevant experience and education.
+2. Acknowledging the opposition.
+3. Attacking the opposition's character.*
+4. Using evidence.
+
+A political candidate's choice to wear a flag pin so that his audience will associate him with American ideals and values during his campaign is an example of:
+~summative
+1. Transfer fallacy*
+2. Plain folk fallacy
+3. Testimonial
+4. Guilt by association
+
+### 5.3.2 Recognize strategies for establishing appeals to ethos
+
+// self-check
+
+Each of the following is a way to establish your ethos as a writer except:
+~formative
+1. Explaining your education as it is related to the issue.
+~feedback: Incorrect. Explaining your related education is a way to establish ethos.
+2. Explaining your experience with the issue.
+~feedback: Incorrect. Explaining your related experience is a way to establish ethos.
+3. Citing experts who have relevant experience with the issue.
+~feedback: Incorrect. Using relevant sources is a way to establish ethos.
+4. Linking the opposition with an unpopular group.*
+~feedback: Correct. This technique, called guilt by association, is a logical fallacy that misuses ethos appeals.
+
+Using a signal phrase that explains the credentials of the researchers to introduce a scientific study is one way to build ethos through sources.
+~formative
+1. True*
+~feedback: Correct. Signal phrases highlighting the source's credentials are a good way to establish ethos.
+2. False
+~feedback: Incorrect. Signal phrases highlighting the source's credentials are a good way to establish ethos.
+
+Sophomore student Marcus is writing a paper for his philosophy course on Plato. He has never studied Plato before. Which of the following is a good way for him to establish ethos in the paper?
+~formative
+1. Mention that his roommate's father is Greek.
+~feedback: Incorrect. Vague associations with Greek culture will not establish ethos.
+2. Explain how interesting the course has been, especially the section on Plato.
+~feedback: Incorrect. Flattering the professor will not establish ethos.
+3. Incorporate evidence from well-regarded philosophy journals.*
+~feedback: Correct. Demonstrating that he has thoroughly researched the topic through well-regarded sources in the field will establish ethos.
+
+// quiz
+
+Ebony is writing a paper advocating increased technology in elementary classrooms. Which of the following is an effective way for her to establish ethos in the paper?
+~summative
+1. Write more than the suggested word count for the assignment
+2. Include pictures of bored children using paper and pen.
+3. Use a reasoned tone and acknowledge the opposing side.*
+
+Associated Student Body President Devon is writing a proposal to the campus administration for the construction of multi-purpose paths on campus. Which of the following strategies is not an effective way for her to establish ethos in the proposal?
+~summative
+1. Use impassioned language and an enraged tone.*
+2. Include examples of her own experiences as a student on the campus.
+3. Include relevant evidence from respected peer institutions that have constructed multi-purpose paths.
+
+Writers can establish ethos by all of the following except:
+~summative
+1. Demonstrating that their education is related to the issue.
+2. Acknowledging the opposition and the complexity of the issue.
+3. Incorporating respected sources related to the issue.
+4. Evoking emotions associated with the issue.*
+
+A writer who is using kairos to establish ethos might use which of the following strategies:
+~summative
+1. Write about a campus issue that is currently under consideration and has received wide attention.*
+2. Use sources that are well-regarded.
+3. Highlight his or her own experience with the topic.
+4. Acknowledge the complexity of the issue.
 
 // Module: Keys to Successful Argument
 # 8 Evaluate keys to successful argument 
