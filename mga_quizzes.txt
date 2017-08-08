@@ -1,5 +1,5 @@
 OleMiss Writing 100 - F17
-~71247c03-c642-4652-a825-23edd4d1d8e1
+~c5ec778f-3c7f-4eb9-b3a0-8b1a88528348
 
 // module: Rhetorical Reading 
 
@@ -8,7 +8,7 @@ Rhetorical Reading
 ~ f930a49d-2362-4e67-b994-abf5d4ff964e
 
 ## 1.1 Define and identify rhetorical contexts
-Define and identify rhetorical contexts
+Rhetorical Context
 ~ 567b7ec4-f118-4ee7-9427-b00f6d82dd8f
 
 ### 1.1.1 Define the concept of rhetorical context
@@ -149,7 +149,7 @@ For a marketing report, you are asked to read the earnings report of a Fortune 5
 3. The earnings report of the Fortune 500 company
 
 ## 1.2 Identify active reading strategies
-Identify active reading strategies
+Active Reading Strategies
 ~ f0245206-90db-4348-ad22-4540ac450221
 
 ### 1.2.1 Identify active reading strategies 
@@ -262,7 +262,7 @@ Your friend Christina meets you for lunch early in the semester and says she doe
 3. You tell Christina that she should start by looking over the course goals and upcoming assignments so she better understands her rhetorical context as a reader.*
 
 ## 1.3 Evaluate strategies for retaining new words
-Evaluate strategies for retaining new words
+Vocabulary-Building Reading Strategies
 ~ 2f3ed22a-786f-4f0e-82a0-9b61aac3ff44
 
 ### 1.3.1 Identify strategies for using context clues
@@ -359,7 +359,7 @@ Beyond the Five Paragraph Essay
 ~ f95b4adf-9711-4bb5-a915-ebe5c1690a7c
 
 ## 2.1 Recognize characteristics of organically-structured essays.
-Organically-Structured Essays 
+Organically Structured Essays 
 ~ 2029fb21-ad82-41b4-8507-bbb03e4d39e4
 
 ### 2.1.1 Differentiate between formulaic and organic structure.
@@ -444,7 +444,7 @@ An organic writer thinks of writing as:
 3. A way to demonstrate that he or she has memorized the class notes.
 
 ## 2.2 Recognize and evaluate effective paragraphs
-Recognize and evaluate effective paragraphs
+Effective Paragraphs
 ~ ea29a027-5446-4493-90bf-6638fd4c5543
 
 ### 2.2.1 Recognize techniques for effective paragraph construction
@@ -537,7 +537,7 @@ How could the sentences in this paragraph be organized more logically? Put the s
 3. The order of the sentences is logical as written. 
 
 ## 2.3 Identify successful strategies for writing introductions and conclusions
-Introductions and Conclusions
+Effective Introductions and Conclusions
 ~ 50b896ce-745f-4bcf-a8e6-87a02541e69c
 
 ### 2.3.1 Identify successful strategies for writing introductions and conclusions
@@ -1330,7 +1330,7 @@ Evaluate keys to successful analysis
 ~ 51d75b97-563e-4e20-b7b7-0367ec50e706
 
 ## 4.1 Define analysis
-Define analysis
+Analysis As Critical Thinking
 ~ 3a32e00a-73f2-4fd4-af08-b219547914f9
 
 ### 4.1.1 Identify the domain of analysis
@@ -1436,7 +1436,7 @@ To avoid the criticism that an analytic interpretation is "mere speculation," an
 3. Repeat the interpretation often.
 
 ## 4.2 Recognize and evaluate keys to successful writing
-Recognize and evaluate keys to successful writing
+Keys to Successful Analysis
 ~ 198b7034-0f6e-4571-8b27-800973858142
 
 ### 4.2.1 Recognize keys to successful analysis writing
@@ -1550,7 +1550,7 @@ Janelle is taking a Business Management class. Her current assignment is to writ
 3. Janelle isn't analyzing at all in her writing.
 
 ## 4.3 Identify and apply different types of analytic processes
-Identify and apply different types of analytic processes
+Types of Analysis
 ~ a026c16e-ef0f-4d07-99bc-f67f6eabc51f
 
 ### 4.3.1 Identify different types of analytic processes
@@ -1649,7 +1649,7 @@ Rhetorical Appeals
 ~ 237bae0f-5e20-43df-a8ee-29634536a946
 
 ## 5.1 Recognize and establish appeals to logos
-Recognize and establish appeals to logos
+Logos
 ~ 481ef546-937b-42a7-81e4-735aad0f0dd0
 
 ### 5.1.1 Recognize appeals to logos
@@ -1740,7 +1740,7 @@ How does kairos relate to logos?
 3. Kairos refers to the amount of time needed to make an argument and is not related to logos. 
 
 ## 5.2: Recognize and evaluate appeals to pathos
-Recognize and evaluate appeals to pathos
+Pathos
 ~ c2a0bd43-6dd6-4c69-bc0a-3456a623ec43
 
 ### 5.2.1: Recognize appeals to pathos
@@ -1845,7 +1845,7 @@ Stacy is working on an annotated bibliography for her Psychology of Parenting cl
 3. Eating dinner as a family regularly can have a positive impact on a child's behavior.
 
 ## 5.3 Recognize and establish appeals to ethos
-Recognize and establish appeals to ethos
+Ethos
 ~ fcd28767-d2ad-4cbb-89d6-390efad5046c
 
 ### 5.3.1 Recognize appeals to ethos
