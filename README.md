@@ -21,7 +21,7 @@ Development repo for UM WRIT 101 Waymaker Project
 8. [x] Keys to Successful Argument
 9. [x] Evaluating Sources
 10. [x] Using Sources
-11. [ ] What is multimodality?
+11. [x] What is multimodality?
 12. [ ] Audience and Delivery
 
 FA17 Content Deadline: 08-04-2017
