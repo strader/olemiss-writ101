@@ -10,6 +10,7 @@ Development repo for UM WRIT 101 Waymaker Project
 - 07-20-2017: Beyond the Five Paragraph Essay Complete 
 - 08-03-2017: Analysis Complete
 - 08-03-2017: Rhetorical Appeals Complete
+- 01-13-2018: What is multimdality? Complete
 
 1. [x] Rhetorical Reading
 2. [x] Beyond the Five Paragraph Essay
