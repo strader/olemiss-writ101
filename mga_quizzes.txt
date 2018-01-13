@@ -3251,6 +3251,214 @@ Integrating evidence from a source is the same as relating the source to the wri
 2. False*
 //~feedback: Correct. Evidence is the source material.  In relating the source material to the writer's argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility. These are two separate strategies.
 
+# 11 Define and apply principles of multimodality.
+## 11.1 Define multimodality 
+### 11.1.1 Define multimodality 
+
+A multimodal text is one that
+~formative
+1. uses more than one means of communicating information*
+2. uses more than one property to inform its use
+3. uses more than one author
+
+Mode and medium are two words that mean the same thing.
+~formative
+1. True 
+2. False*
+
+A speech or class presentation can be multimodal.
+~formative
+1. True*
+2. False
+
+The difference between mode and medium is
+~summative
+1. A mode is a means of communicating while a medium is the channel or system through which communication is conveyed.*
+2. There is no difference.
+3. A mode is the channel or system through which communication is conveyed while a medium is the a means of communicating.
+
+A scholarly article cannot be multimodal.
+~summative
+1.  True
+2.  False*
+
+Multimodality means that the message must be relayed using any type of visual medium.
+~summative
+1. True
+2. False*
+
+### 11.1.2 Recognize different modes 
+
+Websites and textbooks are examples of media. Media can use different modes of communication.
+~formative
+1. True*
+2. False
+
+Which THREE modes of communication does a crossword puzzle in a print newspaper use?
+~formative
+1. Visual*
+2. Linguistic*
+3. Aural
+4. Spatial*
+
+Which of the following is not a mode of communication?
+~formative
+1. Visual
+2. Ambulatory* 
+3. Linguistic
+4. Gestural 
+
+Which modes are at work in this text? (select all that apply)
+<img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2097/2018/01/11150032/um_website-e1515682848329.png" alt="UM website featuring the lobby of a building with windows and doors and a student walking by.">
+~summative
+1. visual*
+2. spatial*
+3. aural
+4. linguistic*
+
+Which of the following is not an example of an aural medium?
+~summative
+1. podcast
+2. speech
+3. sign language*
+4. mp3 player
+
+A symphony conductor relies most heavily on which mode to communicate with musicians?
+~summative
+1. visual
+2. gestural*
+3. spatial
+4. aural
+
+## 11.2 Define and evaluate remediation and remix
+### 11.2.1 Define Remediation
+
+Remediation occurs when a media artifact is revised to serve a new purpose. 
+~formative
+1. True
+~feedback: Incorrect. Remediation might involve changing the artifact, but the key with remediation is representing one medium in another.
+2. False*
+~feedback: Right! Remediation occurs when one medium is represented in another one, not revised.
+
+Which of the following is not a form of remediation discussed above?
+~formative
+1. Transformation
+2. Enhancement 
+3. Straightforward Representation
+4. Metamorphosis* 
+
+For straightforward representation what is key, so viewers can feel as though they are experiencing a direct encounter with an artifact?
+~formative
+1. Multiplicity 
+2. Transparency* 
+3. Hypermediacy 
+4. Clarity 
+
+When older media persists within the remediated one, transformation often leads to the experience of what?
+~summative
+1. Transparent immediacy
+2. Agency
+3. Interactivity
+4. Hypermediacy*
+
+What form of remediation is represented by Skype (as a remediation of a phone call)? 
+~summative
+1. Enhancement* 
+2. Transformation
+3. Straightforward Representation
+4. Metamorphosis 
+
+What form of remediation is represented by Amazon.com (as a remediation of a store)?
+~summative
+1. Transformation*
+2. Enhancement 
+3. Straightforward Representation
+4. Metamorphosis 
+
+### 11.2.2 Define Remix 
+
+Remix involves changing, blending, adding to, or taking away from musical forms only.
+~formative
+1. True
+2. False*
+
+Which of the following is not an example of remix?
+~formative
+1. Cutting up a text and rearranging the pieces to form a new text.
+2. A video featuring parts of different speeches from the same speaker that creates a new meaning.
+3. A William faulkner story published in two different anthologies.*
+4. A shortened radio version of a song from an album.
+
+Which of the following is not a part of remix?
+~formative
+1. Changing a piece of media.
+2. Watching a piece of media.*
+3. Adding to a piece of media.
+4. Taking away from a piece of media.
+
+Which of the following is an example of remix?
+~summative
+1. A single featured on a Greatest Hits collection.
+2. A podcast.
+3. A collection of paintings on travelling display.
+4. A piece of graffiti depicting a bald Mona Lisa.*
+
+Remix is a tool of remediation.
+~summative
+1.  True*
+2.  False
+
+The two films, <em>Harry Potter and the Deathly Hallows Part 1</em> and <em>Harry Potter and the Deathly Hallows Part 2</em>, were remixes of the J.K. Rowling novel, <em>Harry Potter and the Deathly Hallows.</em>
+~summative
+1.  True*
+2.  False
+
+### 11.2.3 Evaluate attribution within remix
+
+The fair use doctrine forbids students from using any copyrighted material in their school projects.
+~formative
+1. True
+2.  False *
+
+According to the Consortium of College and University Media Centers ("CCUMC") guidelines for fair use in multimodal projects, students can use what portion of a song?
+~formative
+1.  None
+2.  Up to 10%
+3.  Up to 10% but no more than 30 seconds*
+4.  All
+
+According to the Consortium of College and University Media Centers ("CCUMC") guidelines for fair use in multimodal projects, students can use all of the cell entries from a copyrighted database or data set in a multimodal project.
+~formative 
+1.  True
+2.  False*
+
+Tania is creating a multimodal project for her Composition class. Which of the following examples would be fair use of a movie that is two hours long?
+~summative 
+1. Four one-minute excerpts from the film.
+2. Showing the first quarter of the movie and then asking classmates to guess the ending.
+3. Six thirty-second excerpts from the film.*
+4. Showing the first 10% of the movie and then using her own photos to relay the rest of the story.
+
+All works that are not your own require some form of attribution if used in a project.
+~summative 
+1. True
+2. False*
+
+What does the acronym TASL stand for? 
+~summative
+1. Title, Author, Source, License*
+2. Text, Action, Scan, Location
+3. Translation of American Sign Language
+4. Text, Author, Source, Location 
+
+Bryan fails to attribute a 30 second clip of a copyrighted film that he includes in his multimodal project. Is he guilty of plagiarism?
+~summative
+1.  Yes, because even copyrighted material that is used under fair use guidelines needs to be attributed.*
+2.  No, because the material falls under the fair use doctrine and therefore needs no attribution.
+3.  No, because he only used 30 seconds. 
+
+
+
 
 
 
