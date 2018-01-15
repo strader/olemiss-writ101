@@ -3252,8 +3252,16 @@ Integrating evidence from a source is the same as relating the source to the wri
 //~feedback: Correct. Evidence is the source material.  In relating the source material to the writer's argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility. These are two separate strategies.
 
 # 11 Define and apply principles of multimodality.
+Define and apply principles of multimodality.
+~ 7a31b52d-b6c7-4f95-8b2d-2834cb83c7cb
+
 ## 11.1 Define multimodality 
+Define multimodality
+~ c4e1a25e-a134-4bc2-8ab9-012ca73d51f6
+
 ### 11.1.1 Define multimodality 
+Define multimodality
+~ 9d429599-fbe4-4a70-b02a-e06a16e73ee9
 
 A multimodal text is one that
 ~formative
@@ -3288,6 +3296,8 @@ Multimodality means that the message must be relayed using any type of visual me
 2. False*
 
 ### 11.1.2 Recognize different modes 
+Recognize different modes 
+~ e8817bd8-457d-4820-b1ec-6a80af36b36c
 
 Websites and textbooks are examples of media. Media can use different modes of communication.
 ~formative
@@ -3331,7 +3341,12 @@ A symphony conductor relies most heavily on which mode to communicate with music
 4. aural
 
 ## 11.2 Define and evaluate remediation and remix
+Define and evaluate remediation and remix
+~ b154cf17-2cc5-4929-94cf-4eb11bb92a18
+
 ### 11.2.1 Define Remediation
+Define Remediation
+~ a4e1d0a0-4a43-4294-811a-5fe446fd5a8d
 
 Remediation occurs when a media artifact is revised to serve a new purpose. 
 ~formative
@@ -3376,6 +3391,8 @@ What form of remediation is represented by Amazon.com (as a remediation of a sto
 4. Metamorphosis 
 
 ### 11.2.2 Define Remix 
+Define Remix 
+~ 1e3abb9b-4723-4137-bb43-cae5a454455f
 
 Remix involves changing, blending, adding to, or taking away from musical forms only.
 ~formative
@@ -3414,6 +3431,8 @@ The two films, <em>Harry Potter and the Deathly Hallows Part 1</em> and <em>Harr
 2.  False
 
 ### 11.2.3 Evaluate attribution within remix
+Evaluate attribution within remix
+~ d10822f6-4329-4b57-837e-6f06ea4e6cb0
 
 The fair use doctrine forbids students from using any copyrighted material in their school projects.
 ~formative
@@ -3456,9 +3475,6 @@ Bryan fails to attribute a 30 second clip of a copyrighted film that he includes
 1.  Yes, because even copyrighted material that is used under fair use guidelines needs to be attributed.*
 2.  No, because the material falls under the fair use doctrine and therefore needs no attribution.
 3.  No, because he only used 30 seconds. 
-
-
-
 
 
 
