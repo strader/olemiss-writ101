@@ -1326,7 +1326,7 @@ Which of the options below would most effectively revise the following sentence 
 // Module: Analysis
 
 # 4 Evaluate keys to successful analysis
-Evaluate keys to successful analysis
+Analysis
 ~ 51d75b97-563e-4e20-b7b7-0367ec50e706
 
 ## 4.1 Define analysis
@@ -3252,7 +3252,7 @@ Integrating evidence from a source is the same as relating the source to the wri
 //~feedback: Correct. Evidence is the source material.  In relating the source material to the writer's argument, the writer explains how the evidence supports his or her own thinking, thereby demonstrating critical thinking and building his or her credibility. These are two separate strategies.
 
 # 11 Define and apply principles of multimodality.
-Define and apply principles of multimodality.
+Multimodality
 ~ 7a31b52d-b6c7-4f95-8b2d-2834cb83c7cb
 
 ## 11.1 Define multimodality 
