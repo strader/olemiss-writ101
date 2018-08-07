@@ -3476,8 +3476,313 @@ Bryan fails to attribute a 30 second clip of a copyrighted film that he includes
 2.  No, because the material falls under the fair use doctrine and therefore needs no attribution.
 3.  No, because he only used 30 seconds. 
 
+# 12 Define reflective thinking and writing
+## 12.1 Recognize reflection as an intellectual process
+### 12.1.1 Define reflection as an intellectual process
 
+Reflection occurs across disciplines.
+~formative
+1. True*
+2. False
 
+Which of the following is a good reason to do reflective writing?
+~formative
+1. To help you make sense of something
+2. As a cathartic act
+3. To help you explore bigger picture meanings
+4. All of the above*
+
+Which of the following short passages gets into the "so what" rather than just the "what," as good reflective writing should do?
+~formative
+1. In preparing for my research paper, I read several articles that dealt with my topic.
+2. Ever since I was in first grade, I have never done well with writing. Most of my grades in classes with writing have been bad.
+3. Writing an analysis essay showed me that I have the ability to look much deeper at issues. This has helped in my Political Science class, as I now approach the course readings with a more analytic eye.*
+4. The first step for every writing project in the class was to do an outline, which then turned into a first draft of the actual paper.
+
+Reflection is a mental activity, not a written one.
+~summative
+1. True
+2. False*
+
+Which of the following is a good reflective activity for teachers to use with their students?
+~summative
+1. After lecturing for a short period, stop and ask students to write about the material covered to see what they know and don’t know.*
+2. Telling students to refer to the course page for notes about the upcoming test.
+3. Lecturing for the entire class period, and informing students to take good notes.
+4. Providing students with a question bank from which questions for the upcoming exam will be drawn.
+
+Which of the following statements is most accurate about reflection?
+~summative
+1. Thinking about past events is the most important type of reflection because it can help people in the future.
+2. People cannot reflect on something that hasn’t happened yet.
+3. People can reflect on past, present, and/or future events.*
+4. To truly reflect on something, you must be going through it at the time.
+
+### 12.1.2 Identify knowledge types embedded within reflection
+
+Your awareness of significant strengths and weaknesses in your writing is an example of what type of knowledge?
+~formative
+1. Content Knowledge
+2. Critical Knowledge*
+3. Self-Knowledge
+4. Rhetorical Knowledge
+
+Which of the following is not a knowledge type associated with reflective writing?
+~formative
+1. Rhetorical Knowledge
+2. Content Knowledge
+3. Literary Knowledge*
+4. Self-Knowledge
+
+Read the following brief excerpt from a reflective passage and identify which type of knowledge is most obvious: <p style="padding-left: 30px;">I have mixed feelings about my last draft of the argument paper. On one hand, I feel very confident about my sources and how I was able to integrate them. My 12th grade teacher really pushed us on using sources correctly, and I feel like I am prepared to do that at the college level. One specific example is in the third paragraph of my paper, where I just use a few quoted words from the Taylor source and work it into my sentence. I think that is exactly the kind of integration we were shown in class, and I feel like I entered the semester being able to handle this part well. </p>
+~formative
+1. Content Knowledge
+2. Critical Knowledge*
+3. Self-Knowledge
+4. Rhetorical Knowledge  
+
+Different learning styles help us determine how well we reflect.
+~summative
+1. True
+2. False*
+
+What you have learned by writing about various subjects is called:
+~summative
+1. Self-Knowledge
+2. Critical Knowledge
+3. Rhetorical Knowledge
+4. Content Knowledge*
+
+Read the following brief excerpt from a reflective passage and identify which type of knowledge is most obvious:<p style="padding-left: 30px;">I realized after our peer review that I wasn’t addressing people who have opposing viewpoints, which was the main goal of the assignment. So I started my revision by adding in two paragraphs of material that showed I understood why people disagreed with my thesis and that they had reasons for thinking that way. This really made my final product better because I was able to revise thinking about writing to reach a lot of people with good research and a balanced tone, not just writing to reinforce my points. I think the final copy reads much better than my draft did, and I felt more organized and confident by fairly considering the views of other people.</p>
+~summative
+1. Rhetorical Knowledge*
+2. Self-Knowledge
+3. Content Knowledge
+4. Critical Knowledge
+
+## 12.1 Identify conventions of reflective writing
+### 12.1.1 Recognize possible structures for reflective writing
+
+The Borton Framework for reflective writing includes which of the following stem questions:
+~formative
+1. What? So what? Now what?*
+2. Who? When? Where?
+3. Tall? Grande? Venti?
+4. When? Where? How?
+
+The letters in the DEAL model stand for:
+~formative
+1. Describe, Examine, Articulate learning.*
+2. Describe, Elaborate, Add lots of description.
+3. Don’t Examine Any learning.
+4. Define, Explain, Add lessons.
+
+The P in the DIEP model stands for:
+~formative
+1. Prescription
+2. Proofread
+3. Plan*
+4. Panic
+
+The AL in the DEAL model stands for:
+~summative
+1. Add lists
+2. Articulate learning*
+3. Articulate labels
+4. Add lemon zest
+5. Add lots of evidence
+
+The D in the DIEP model and in the DEAL model stands for:
+~summative
+1. Determine
+2. Develop
+3. Describe*
+4. Defend
+
+The first question, "What?", in the Borton Framework refers to:
+~summative
+1. What happened*
+2. So what
+3. Whatever
+4. What now
+
+### 12.2.2 Recognize component skills of reflective writing
+
+Description should comprise how much of a reflective response or essay?   
+~formative
+1. About the same as analysis
+3. Much more than analysis
+3. Less than analysis*
+4. No description should appear
+
+Analysis should comprise how much of a reflective response or essay?
+~formative
+1. About the same as description
+2. Much more than description*
+3. Less than description
+4. No analysis should appear
+
+A reflective piece of writing combines:
+~formative
+1. Personal perception with critical thinking*
+2. Feelings with emotions
+3. Third-person perspective with description
+4. Research studies with graphs
+
+Reflective writing considers what time frame(s)?
+~summative
+1. The Present 
+2. The Past and the Present
+3. The Past, the Present, and the Future*
+4/ Eastern, Central, and Mountain
+
+Reflective writing is a balance of all of these strategies except:
+~summative
+1. Analysis
+2. Interpretation
+3. Evaluation
+4. Hyperbole*
+
+Reflective writers might use which of the following for content:
+~summative
+1. Recollections of an event
+2. Questions about the event
+3. Connections between this event and other events
+4. All of the above*
+
+# 12.2.3 Recognize characteristics of reflective essays
+
+The thesis in an academic reflective essay is
+~formative
+1. An evaluative or interpretive claim*
+2. A question
+3. A description of an event
+4. A memory
+
+Evidence in an academic reflective essay might include
+~formative
+1. Anecdotes
+2. Material from outside sources
+3. Details
+4. Examples
+5. All of the above*
+
+The thesis in an academic reflective essay appears
+~formative
+1. Only in the introduction
+2. Only in the conclusion
+3. In the place where it is most effective based on the essay’s structure*
+4. There is no thesis in a reflective essay    
+
+In academic reflection essays, writers should
+~summative
+1. Craft a thesis statement*
+2. Use evidence from outside sources only
+3. Follow chronological organization only
+4. Wing it    
+
+Academic reflection essays follow which organizational scheme:
+~summative
+1. Five-paragraph essay
+2. Rogerian argument
+3. Classification and division
+4. An organizational structure that best fits the writer’s distinctive ideas and observations*
+
+Which of the following would be an appropriate thesis for an academic reflection?
+~summative
+1. The project I am going to discuss is the argument project.
+2. I really enjoyed working on the argument project.
+3. Through my argument project, I began to question my own inherent biases while learning the value of addressing opposing argument.*
+4. My argument project was about the lack of female pilots in the commercial airline industry.
+
+## 12.3 Recognize the purpose of the commonplace blog
+### 12.3.1 Recognize commonplace blog expectations
+
+Commonplace Books are the same as diaries.
+~formative
+1. False*
+2. True
+
+What is the main purpose of keeping a Commonplace Book in WRIT 100/101?
+~formative
+1. To keep all of your reflections in one place and analyze your reflective practice over time, as well as your development as a writer.*
+2. To upload all of your major assignments and revisions, along with your teacher's comments on your papers.
+3. To blog about your experiences in the first year of college, focusing mainly on social experiences and relationships.
+4. To create a book that is regular or common and share it with your peers.
+
+Who is the primary audience for a Commonplace Book? 
+~formative
+1. You*
+2. Your teacher
+3. Your classmates
+4. All of the above
+
+Even though your teacher may read your Commonplace Book, you have ultimate ownership and agency over the message it conveys.
+~summative
+1. True*
+2. False
+
+Which of the following was historically not a part of someone’s commonplace book?
+1. A daily record of events*
+2. Meaningful poems or quotations
+3. Meditations, prayers, or reflections
+4. Recipes or building instructions 
+
+What should you use as the site name for your Commonplace Book in the Edblogs setup?
+~summative
+1. Your WebID (e.g., "addavis")
+2. Your full name (e.g., "andrewdeandavis")
+3. Whatever you want (e.g., "skaterkidsite")
+4. Your teacher’s name (e.g., "forgette101") 
+
+### 12.3.2 Differentiate among reflection types within the commonplace book
+
+Daily writes are always completed outside of class.
+~formative
+1. False*
+2. True
+
+Read the following selection from a weekly write and answer the question below. <p style="padding-left: 30px;">What skills do I bring to my project? Well, I want my video to be for incoming college freshmen, and students around my age love memes. Therefore, I bring knowledge of currently popular memes and humor to my project. I’m fairly confident that my knowledge of pop culture in this area will be very useful in creating a project that resonates well with my target audience. Already, I created three memes for my video that sum up different points I want to make in my video. One meme format I chose was "Distracted Boyfriend." This meme has been very popular lately, so I decided to make my own version of it related to my project of luxury student housing. I also chose the "Batman and Robin" and "Roll Safe" meme, because these are also popular memes that I though could fit my project.</p><p>Which type of knowledge does the passage <strong>not</strong> demonstrate?
+~formative
+1. Social Knowledge*
+2. Self-Knowledge
+3. Content Knowledge
+4. Rhetorical Knowledge
+
+Unit reflections are...
+~formative
+1. Always completed after you have submitted a major project.*
+2. Submitted every three weeks on a Monday or Tuesday.
+3. Longer reflections summarizing at least 4 weeks of weekly writes.
+4. Submitted as an attachment to the last page of every major project.
+
+What is the primary purpose of tags in your Commonplace Book?
+~formative
+1. To describe major concepts, ideas, and strategies that appear in multiple posts.*
+2. To provide your teacher a quick way of searching for your posts. 
+3. To make your commonplace book search engine friendly. 
+4. To create a visually engaging tag cloud. 
+
+In Edblogs, categories are to chapters in a book as tags are to…
+~summative
+1. Words in the index*
+2. Page numbers
+3. Terms in the glossary
+4. Footnotes
+
+As a part of the Commonplace Book epilogue, you’ll use comments to…
+~summative
+1. Have a conversation with yourself about how your learning has changed over time.*
+2. Leave important grading notes for your teacher.
+3. Provide peer feedback to other students in your class.
+4. Evaluate the quality of writing in your posts. 
+
+Using the DIEP model for reflective writing, what might you highlight in your "Evaluation" for the final epilogue post?
+~summative
+1. Descriptive tags, comments, and links that illustrate the "big ideas" of academic learning*
+2. The grades you’ve received on major projects.
+3. The topics you’ve written about in each of your essays.
+4. Strengths and weaknesses of your writing teacher. 
 
 
 
