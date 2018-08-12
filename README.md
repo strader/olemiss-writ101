@@ -11,6 +11,7 @@ Development repo for UM WRIT 101 Waymaker Project
 - 08-03-2017: Analysis Complete
 - 08-03-2017: Rhetorical Appeals Complete
 - 01-13-2018: What is multimdality? Complete
+- 08-07-2018: Reflection Complete
 
 1. [x] Rhetorical Reading
 2. [x] Beyond the Five Paragraph Essay
@@ -23,6 +24,7 @@ Development repo for UM WRIT 101 Waymaker Project
 9. [x] Evaluating Sources
 10. [x] Using Sources
 11. [x] What is multimodality?
-12. [ ] Audience and Delivery
+12. [x] Reflection
+
 
 FA17 Content Deadline: 08-04-2017
